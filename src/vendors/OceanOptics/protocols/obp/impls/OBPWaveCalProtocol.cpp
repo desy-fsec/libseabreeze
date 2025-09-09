@@ -46,7 +46,7 @@ OBPWaveCalProtocol::~OBPWaveCalProtocol() {
 }
 
 vector<double> *OBPWaveCalProtocol::readWavelengthCoeffs(const Bus &bus)
-                throw (ProtocolException) {
+                 {
     vector<byte> *result = NULL;
     unsigned int i;
     vector<double> *retval;

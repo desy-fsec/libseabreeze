@@ -54,14 +54,14 @@ namespace seabreeze {
          * metadata (units, etc.) can also be attached?
          */
         virtual std::vector<byte> *readUnformattedSpectrum(const Bus &bus)
-                throw (ProtocolException);
+                ;
         virtual std::vector<double> *readSpectrum(const Bus &bus)
-                throw (ProtocolException);
-        virtual void requestSpectrum(const Bus &bus) throw (ProtocolException);
+                ;
+        virtual void requestSpectrum(const Bus &bus) ;
         virtual void setIntegrationTimeMicros(const Bus &bus,
-                unsigned long time_usec) throw (ProtocolException);
+                unsigned long time_usec) ;
         virtual void setTriggerMode(const Bus &bus,
-            SpectrometerTriggerMode &mode) throw (ProtocolException);
+            SpectrometerTriggerMode &mode) ;
 
     private:
         IntegrationTimeExchange *integrationTimeExchange;

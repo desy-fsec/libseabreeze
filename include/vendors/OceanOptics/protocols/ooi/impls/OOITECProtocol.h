@@ -48,11 +48,11 @@ namespace seabreeze {
 
         /* Inherited from ThermoElectricProtocolInterface */
         virtual double readThermoElectricTemperatureCelsius(const Bus &bus)
-                throw (ProtocolException);
+                ;
         virtual void writeThermoElectricEnable(const Bus &bus, bool enable)
-                throw (ProtocolException);
+                ;
         virtual void writeThermoElectricSetPointCelsius(const Bus &bus, double degreesC)
-                throw (ProtocolException);
+                ;
 
     private:
         TECEnableExchange *tecEnable;

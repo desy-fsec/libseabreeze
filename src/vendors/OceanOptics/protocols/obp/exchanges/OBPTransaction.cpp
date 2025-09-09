@@ -69,7 +69,7 @@ const vector<ProtocolHint *> &OBPTransaction::getHints() {
 
 vector<byte> *OBPTransaction::queryDevice(TransferHelper *helper,
                     unsigned int messageType,
-                    vector<byte> &data) throw (ProtocolException) {
+                    vector<byte> &data)  {
     int flag = 0;
     vector<byte> *bytes = NULL;
     vector<byte> *fullVector = NULL;
@@ -197,7 +197,7 @@ vector<byte> *OBPTransaction::queryDevice(TransferHelper *helper,
 
 bool OBPTransaction::sendCommandToDevice(TransferHelper *helper,
                     unsigned int messageType,
-                    vector<byte> &data) throw (ProtocolException) {
+                    vector<byte> &data)  {
 
     bool retval = false;
     int flag = 0;

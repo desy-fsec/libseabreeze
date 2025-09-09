@@ -48,7 +48,7 @@ OBPStrobeLampProtocol::~OBPStrobeLampProtocol() {
 }
 
 void OBPStrobeLampProtocol::setStrobeLampEnable(const Bus &bus, bool enable)
-        throw (ProtocolException) {
+         {
     TransferHelper *helper;
     OBPLampEnableCommand command;
 

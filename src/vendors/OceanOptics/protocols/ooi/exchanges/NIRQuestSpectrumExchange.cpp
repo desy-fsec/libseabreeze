@@ -51,7 +51,7 @@ NIRQuestSpectrumExchange::~NIRQuestSpectrumExchange() {
 }
 
 Data *NIRQuestSpectrumExchange::transfer(TransferHelper *helper)
-        throw (ProtocolException) {
+         {
 
     LOG(__FUNCTION__);
 

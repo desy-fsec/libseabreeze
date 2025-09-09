@@ -48,7 +48,7 @@ OBPStrayLightCoeffsProtocol::~OBPStrayLightCoeffsProtocol() {
 }
 
 vector<double> *OBPStrayLightCoeffsProtocol::readStrayLightCoeffs(const Bus &bus)
-                throw (ProtocolException) {
+                 {
     vector<byte> *result = NULL;
     unsigned int i;
     vector<double> *retval;

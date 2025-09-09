@@ -50,7 +50,7 @@ OBPReadSpectrumExchange::~OBPReadSpectrumExchange() {
 }
 
 Data *OBPReadSpectrumExchange::transfer(TransferHelper *helper)
-        throw (ProtocolException) {
+         {
     Data *xfer;
     byte lsb;
     byte msb;

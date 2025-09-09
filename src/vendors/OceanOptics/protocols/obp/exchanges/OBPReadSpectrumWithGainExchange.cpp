@@ -51,7 +51,7 @@ OBPReadSpectrumWithGainExchange::~OBPReadSpectrumWithGainExchange() {
 }
 
 Data *OBPReadSpectrumWithGainExchange::transfer(TransferHelper *helper)
-        throw (ProtocolException) {
+         {
     
     unsigned int i;
     Data *xfer;

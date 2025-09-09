@@ -45,10 +45,10 @@ namespace seabreeze {
 
         virtual void setContinuousStrobePeriodMicroseconds(const Bus &bus,
                 unsigned short strobe_id, unsigned long period_usec)
-                throw (ProtocolException);
+                ;
         virtual void setContinuousStrobeEnable(const Bus &bus,
                 unsigned short strobe_id, bool enable)
-                throw (ProtocolException);
+                ;
 
     protected:
         OBPContinuousStrobePeriodExchange *setPeriodExchange;

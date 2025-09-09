@@ -43,10 +43,10 @@ namespace seabreeze {
         virtual ~OBPRevisionProtocol();
 
         virtual unsigned char readHardwareRevision(const Bus &bus)
-                throw (ProtocolException);
+                ;
                 
         virtual unsigned short int readFirmwareRevision(const Bus &bus)
-                throw (ProtocolException);
+                ;
     };
   }
 }

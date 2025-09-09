@@ -64,7 +64,7 @@ void StrobeEnableExchange::setEnable(bool enable) {
 }
 
 Data *StrobeEnableExchange::transfer(TransferHelper *helper)
-throw (ProtocolException) {
+ {
 
     (*(this->buffer))[1] = (false == this->strobeEnable) ? 0x00 : 0x01;
 

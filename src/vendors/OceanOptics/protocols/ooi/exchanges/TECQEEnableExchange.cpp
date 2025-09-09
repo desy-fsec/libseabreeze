@@ -64,7 +64,7 @@ void TECQEEnableExchange::setEnable(bool enable) {
 }
 
 Data *TECQEEnableExchange::transfer(TransferHelper *helper)
-throw (ProtocolException) {
+ {
 
     (*(this->buffer))[1] = (false == this->tecEnable) ? 0x00 : 0x01;
 

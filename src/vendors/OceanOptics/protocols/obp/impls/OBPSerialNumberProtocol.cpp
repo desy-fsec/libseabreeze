@@ -49,7 +49,7 @@ OBPSerialNumberProtocol::~OBPSerialNumberProtocol() {
 }
 
 string *OBPSerialNumberProtocol::readSerialNumber(const Bus &bus)
-                throw (ProtocolException) {
+                 {
 
     vector<byte> *result;
     string *retval = NULL;
@@ -92,7 +92,7 @@ string *OBPSerialNumberProtocol::readSerialNumber(const Bus &bus)
     return retval;
 }
 
-unsigned char OBPSerialNumberProtocol::readSerialNumberMaximumLength(const Bus &bus) throw (ProtocolException) 
+unsigned char OBPSerialNumberProtocol::readSerialNumberMaximumLength(const Bus &bus)  
 {
     vector<byte> *result = NULL;
     unsigned char length;
