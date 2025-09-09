@@ -54,7 +54,7 @@ void ThermoElectricFeatureBase::setThermoElectricEnable(const Protocol &protocol
     try {
         proto = lookupProtocolImpl(protocol);
         te = static_cast<ThermoElectricProtocolInterface *>(proto);
-    } catch (FeatureProtocolNotFoundException fpnfe) {
+    } catch (FeatureProtocolNotFoundException &fpnfe) {
         string error(
                 "Could not find matching protocol implementation to set thermoelectric state.");
         /* FIXME: previous exception should probably be bundled up into the new exception */
@@ -80,7 +80,7 @@ double ThermoElectricFeatureBase::getTemperatureCelsius(const Protocol &protocol
     try {
         proto = lookupProtocolImpl(protocol);
         te = static_cast<ThermoElectricProtocolInterface *>(proto);
-    } catch (FeatureProtocolNotFoundException fpnfe) {
+    } catch (FeatureProtocolNotFoundException &fpnfe) {
         string error(
                 "Could not find matching protocol implementation to read TE temperature.");
         /* FIXME: previous exception should probably be bundled up into the new exception */
@@ -109,7 +109,7 @@ void ThermoElectricFeatureBase::setTemperatureSetPointCelsius(const Protocol &pr
     try {
         proto = lookupProtocolImpl(protocol);
         te = static_cast<ThermoElectricProtocolInterface *>(proto);
-    } catch (FeatureProtocolNotFoundException fpnfe) {
+    } catch (FeatureProtocolNotFoundException &fpnfe) {
         string error(
                 "Could not find matching protocol implementation to set TEC temperature.");
         /* FIXME: previous exception should probably be bundled up into the new exception */

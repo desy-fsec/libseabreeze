@@ -260,7 +260,7 @@ void LightSourceFeatureBase::setLightSourceIntensity(const Protocol &protocol,
     try {
         proto = lookupProtocolImpl(protocol);
         lightSourceProtocolInterface = static_cast<LightSourceProtocolInterface *>(proto);
-    } catch (FeatureProtocolNotFoundException ex) {
+    } catch (FeatureProtocolNotFoundException &ex) {
         throw FeatureProtocolNotFoundException("Could not find "
                 "matching protocol implementation to control lamp");
     }
