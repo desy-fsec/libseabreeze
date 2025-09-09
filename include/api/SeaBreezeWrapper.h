@@ -545,7 +545,7 @@ extern "C" {
      * @return int: The number of floats read into the buffer
      *
      * A formatted spectrum returns exactly one double-precision floating-point IEEE value 
-     * per pixel, as opposed to a raw byte stream.  It has also had autonulling (gain control) 
+     * per pixel, as opposed to a raw unsigned char stream.  It has also had autonulling (gain control) 
      * applied, meaning it has been scaled up to the spectrometer's full dynamic range using 
      * the gain setting recorded in that spectrometer’s EEPROM.
      */

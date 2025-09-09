@@ -502,7 +502,7 @@ int main(int argc, char **argv) {
             memset(buffer, 0, MAX_LABEL_SIZE);
             renderHex(buffer, MAX_LABEL_SIZE, gArgs.eepromValueHex);
             for (int byteIndex = 0; byteIndex < MAX_LABEL_SIZE; byteIndex++)
-                printf("[%02d]   byte %02d: 0x%02x\n", index, byteIndex, buffer[byteIndex]);
+                printf("[%02d]   unsigned char %02d: 0x%02x\n", index, byteIndex, buffer[byteIndex]);
             seabreeze_write_eeprom_slot(index, &error, gArgs.eepromIndex, buffer, MAX_LABEL_SIZE);
             free(buffer);
         }

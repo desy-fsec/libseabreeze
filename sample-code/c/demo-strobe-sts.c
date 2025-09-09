@@ -98,7 +98,7 @@ int sendOBPMessage(unsigned int message_type, unsigned int immediate_data_length
     header.immediate_data_length = immediate_data_length;
     for (unsigned i = 0; i < immediate_data_length; i++)
         header.immediate_data[i] = immediate_data[i];
-    header.bytes_remaining = 16 + 4; // i.e. 0x14, 16-byte checksum + 4-byte footer
+    header.bytes_remaining = 16 + 4; // i.e. 0x14, 16-<unsigned char checksum + 4-<unsigned char footer
 
     // checksum
     unsigned char checksum[16];

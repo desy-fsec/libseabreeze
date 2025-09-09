@@ -53,7 +53,7 @@ unsigned char OBPTemperatureProtocol::readTemperatureCount(const Bus &bus)
                  
 {
     int count = 0;
-    vector<byte> *countResult;
+    vector<unsigned char> *countResult;
 
     OBPGetTemperatureCountExchange countExchange;
     
@@ -75,11 +75,11 @@ unsigned char OBPTemperatureProtocol::readTemperatureCount(const Bus &bus)
 double OBPTemperatureProtocol::readTemperature(const Bus &bus, int index)
                  
 {
-    vector<byte> *result = NULL;
+    vector<unsigned char> *result = NULL;
     float temperature;
-    byte *bptr;
+    unsigned char *bptr;
     int count = 0;
-    vector<byte> *countResult;
+    vector<unsigned char> *countResult;
     
     OBPGetTemperatureExchange xchange;
     OBPGetTemperatureCountExchange countExchange;
@@ -113,10 +113,10 @@ double OBPTemperatureProtocol::readTemperature(const Bus &bus, int index)
             throw ProtocolException(error);
         }
         
-        // queryDevice returns a byte stream, turn that into a float... mind our endians.
-        bptr = (byte *)&temperature;
+        // queryDevice returns a unsigned char stream, turn that into a float... mind our endians.
+        bptr = (unsigned char *)&temperature;
         for(unsigned int j = 0; j < sizeof(float); j++) { // four bytes returned
-            //printf("byte %d=%x\n", j, (*result)[j]);
+            //printf("<unsigned char %d=%x\n", j, (*result)[j]);
             bptr[j] = (*result)[j];  // get a little endian float
         }
         delete result;
@@ -133,13 +133,13 @@ double OBPTemperatureProtocol::readTemperature(const Bus &bus, int index)
 vector<double> *OBPTemperatureProtocol::readAllTemperatures(const Bus &bus) 
          {
     
-    vector<byte> *result = NULL;
+    vector<unsigned char> *result = NULL;
     unsigned int i;
     vector<double> *retval; // temperatures
-    byte *bptr;
+    unsigned char *bptr;
     float temperatureBuffer;
     int count = 0;
-    vector<byte> *countResult;
+    vector<unsigned char> *countResult;
 
     OBPGetAllTemperaturesExchange xchange;
     OBPGetTemperatureCountExchange countExchange;
@@ -160,7 +160,7 @@ vector<double> *OBPTemperatureProtocol::readAllTemperatures(const Bus &bus)
     delete countResult;
 
     retval = new vector<double>(count); // temperature array to be returned
-    // query device returns a generic byte array, 
+    // query device returns a generic unsigned char array, 
     // not temperature floats as defined by the actual command 
     result = xchange.queryDevice(helper); 
     if(NULL == result) {
@@ -175,7 +175,7 @@ vector<double> *OBPTemperatureProtocol::readAllTemperatures(const Bus &bus)
         // the bytes must be transferred to floats for the return temperatures
         for(i = 0; i < retval->size(); i++) {
             
-            bptr = (byte *)&temperatureBuffer;
+            bptr = (unsigned char *)&temperatureBuffer;
             for(unsigned int j = 0; j < sizeof(float); j++) {
                 bptr[j] = (*result)[j+(i*sizeof(float))];
             }

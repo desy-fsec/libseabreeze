@@ -58,7 +58,7 @@ public class SeaBreezeSpectrometer : Spectrometer
 
         try
         {
-            byte[] version = new byte[MAX_VERSION_LEN];
+            unsigned char[] version = new unsigned char[MAX_VERSION_LEN];
 
             int error = 0;
             SeaBreezeWrapper.seabreeze_get_api_version_string(ref version[0], version.Length);
@@ -88,7 +88,7 @@ public class SeaBreezeSpectrometer : Spectrometer
 
         try
         {
-            byte[] slot = new byte[SeaBreezeWrapper.SLOT_LENGTH];
+            unsigned char[] slot = new unsigned char[SeaBreezeWrapper.SLOT_LENGTH];
 
             int error = 0;
             SeaBreezeWrapper.seabreeze_get_serial_number(specIndex, ref error, ref slot[0], SeaBreezeWrapper.SLOT_LENGTH);
@@ -122,7 +122,7 @@ public class SeaBreezeSpectrometer : Spectrometer
             int error = 0;
             for (int i = 0; i <= 7; i++)
             {
-                byte[] buf = new byte[SeaBreezeWrapper.SLOT_LENGTH];
+                unsigned char[] buf = new unsigned char[SeaBreezeWrapper.SLOT_LENGTH];
                 int bytes_read = SeaBreezeWrapper.seabreeze_read_eeprom_slot(
                     specIndex, ref error, 6 + i, ref buf[0], SeaBreezeWrapper.SLOT_LENGTH);
                 t[i] = Convert.ToDouble(byteToString(buf));
@@ -152,7 +152,7 @@ public class SeaBreezeSpectrometer : Spectrometer
 
         try
         {
-            byte[] slot = new byte[SeaBreezeWrapper.SLOT_LENGTH];
+            unsigned char[] slot = new unsigned char[SeaBreezeWrapper.SLOT_LENGTH];
             int error = 0;
             SeaBreezeWrapper.seabreeze_get_model(specIndex, ref error, ref slot[0], SeaBreezeWrapper.SLOT_LENGTH);
             if (checkSeaBreezeError("get_spectrometer_type", error))
@@ -349,13 +349,13 @@ public class SeaBreezeSpectrometer : Spectrometer
         return result;
     }
 
-    private string byteToString(byte[] buf)
+    private string byteToString(unsigned char[] buf)
     {
         int len = 0;
         while (buf[len] != 0 && len + 1 < buf.Length)
             len++;  
 
-        byte[] clean = Encoding.Convert(Encoding.GetEncoding("iso-8859-1"), Encoding.UTF8, buf);
+        unsigned char[] clean = Encoding.Convert(Encoding.GetEncoding("iso-8859-1"), Encoding.UTF8, buf);
         return Encoding.UTF8.GetString(clean, 0, len);
     }
 
@@ -365,7 +365,7 @@ public class SeaBreezeSpectrometer : Spectrometer
         if (errorCode == SeaBreezeWrapper.ERROR_SUCCESS)
             return true;
 
-        byte[] buffer = new byte[64];
+        unsigned char[] buffer = new unsigned char[64];
         SeaBreezeWrapper.seabreeze_get_error_string(errorCode, ref buffer[0], 64);
         string msg = byteToString(buffer);
 

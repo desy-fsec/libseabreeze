@@ -63,15 +63,15 @@ int get_unformatted_spectrum_doubles(int index, int raw_length, double *buffer) 
         return -1;
     }
 
-    // strip synchronization byte if present (not all devices have one)
+    // strip synchronization unsigned char if present (not all devices have one)
     if (raw_length % 2) {
         if (bSpectrum[raw_length - 1] != SYNCH_BYTE) {
-            logger("[%02d] Error: trailing byte %d (%02x) != synch byte (%02x)",
+            logger("[%02d] Error: trailing unsigned char %d (%02x) != synch unsigned char (%02x)",
                 index, raw_length, bSpectrum[raw_length - 1], SYNCH_BYTE);
             free((void*) bSpectrum);
             return -1;
         }
-        raw_length--;  // ignore last byte hereafter
+        raw_length--;  // ignore last unsigned char hereafter
     }
 
     // convert unformatted bytes into array of doubles

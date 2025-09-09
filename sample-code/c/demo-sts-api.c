@@ -84,10 +84,10 @@
 #define OBP_MESSAGE_GET_NLC_COEFF           0x00181101L
 #define OBP_MESSAGE_SET_NLC_COEFF           0x00181111L
 
-// convert 2-byte LSB-MSB to native
+// convert 2-<unsigned char LSB-MSB to native
 #define LITTLE_ENDIAN_SHORT(base) (((base)[1] << 8) | (base)[0])
 
-// convert 4-byte LSB-MSB to native
+// convert 4-<unsigned char LSB-MSB to native
 #define LITTLE_ENDIAN_WORD(base) (((base)[3] << 24) | ((base)[2] << 16) | ((base)[1] << 8) | (base)[0])
 
 ////////////////////////////////////////////////////////////////////////////////
@@ -103,13 +103,13 @@ typedef struct OBPExchange_s
     unsigned char *request;             // (input)  pointer to request parameter data
     unsigned int   response_len;        // (input)  max size of response data (output_data allocated size)
     unsigned char *response;            // (output) pointer to where response data should be written
-    unsigned int   extra_response_len;  // (input)  how many bytes of non-immediate response expected (beyond 16-byte immediate)
+    unsigned int   extra_response_len;  // (input)  how many bytes of non-immediate response expected (beyond 16-<unsigned char immediate)
     unsigned int   actual_response_len; // (output) how much data actually came back in response
 } OBPExchange;
 
 // Taken directly from page 16 of the STS Data Sheet
 typedef struct OBPHeader_s
-{                                       // byte offset
+{                                       // unsigned char offset
     unsigned char  start_bytes[2];      // 0-1: 0xC1, 0xC0
     unsigned short protocol_version;    // 2-3: 0x1000
     unsigned short flags;               // 4-5
@@ -237,7 +237,7 @@ void dumpHex(const char *label, const char *prefix, unsigned char *msg, size_t l
     do
     {
         char txt[32];
-        memset(txt, 32, 32); // initialize 32-byte buffer with spaces
+        memset(txt, 32, 32); // initialize 32-<unsigned char buffer with spaces
         txt[31] = 0;
 
         // print block of 16 bytes as hex and ASCII
@@ -322,7 +322,7 @@ int read_buffer(unsigned char *response, size_t len)
 // Ocean Binary Protocol implementation
 ////////////////////////////////////////////////////////////////////////////////
 
-// given a serialized 44-byte OBP header, populate the struct for easy referencing
+// given a serialized 44-<unsigned char OBP header, populate the struct for easy referencing
 void deserializeHeader(OBPHeader *header, unsigned char *msg)
 {
     if (!header || !msg)
@@ -531,7 +531,7 @@ int sendOBPMessage(OBPExchange *xfer)
     header.immediate_data_len = xfer->request_len;
     for (unsigned i = 0; i < xfer->request_len; i++)
         header.immediate_data[i] = xfer->request[i];
-    header.bytes_remaining = 16 + 4; // i.e. 0x14, 16-byte checksum + 4-byte footer
+    header.bytes_remaining = 16 + 4; // i.e. 0x14, 16-<unsigned char checksum + 4-<unsigned char footer
 
     // checksum
     unsigned char checksum[16];
@@ -570,7 +570,7 @@ int sendOBPMessage(OBPExchange *xfer)
 
         int bytes_read = read_buffer(response, expected_response_size);
         if (bytes_read != expected_response_size)
-            printf("%s: only read %d of expected %u byte response\n",
+            printf("%s: only read %d of expected %u unsigned char response\n",
                 __FUNCTION__, bytes_read, expected_response_size);
 
         OBPHeader *response_header = (OBPHeader*) response;
