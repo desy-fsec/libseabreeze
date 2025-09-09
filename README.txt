@@ -471,6 +471,10 @@ Toshiba-based spectrometers (the USB4000 and Flame-T).  This is being investigat
 
 \section history Appendix A: Version History
 
+\date 2025-09-09 (version 3.0.11.1)
+- remove dynamic exception specification
+- catch execption references
+
 \date 2016-04-05 (version 3.0.11)
 - fixed NIRQuest EEPROM slot count (was 18, now 20)
 - increased USB2000+/Flame-S EEPROM slot count (was 17, now 30)
