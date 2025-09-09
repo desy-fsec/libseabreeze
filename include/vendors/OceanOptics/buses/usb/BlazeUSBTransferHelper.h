@@ -48,9 +48,9 @@ namespace seabreeze {
 
         /* Inherited */
         virtual int receive(std::vector<byte> &buffer, unsigned int length)
-            throw (BusTransferException);
+            ;
         virtual int send(const std::vector<byte> &buffer, unsigned int length) const
-            throw (BusTransferException);
+            ;
         
     private:
         static const int WORD_SIZE_BYTES;
