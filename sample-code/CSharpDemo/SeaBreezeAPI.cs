@@ -10,10 +10,10 @@
 [DllImport(DLL, CallingConvention = CallingConvention.Cdecl)] public static extern void   sbapi_close_device                                         (long id, ref int error_code);
 
 // Spectrometer Features
-[DllImport(DLL, CallingConvention = CallingConvention.Cdecl)] public static extern int    sbapi_get_device_type                                      (long id, ref int error_code, ref byte buffer, unsigned int length);
+[DllImport(DLL, CallingConvention = CallingConvention.Cdecl)] public static extern int    sbapi_get_device_type                                      (long id, ref int error_code, ref unsigned char buffer, unsigned int length);
 [DllImport(DLL, CallingConvention = CallingConvention.Cdecl)] public static extern int    sbapi_get_number_of_serial_number_features                 (long deviceID, ref int error_code);
 [DllImport(DLL, CallingConvention = CallingConvention.Cdecl)] public static extern int    sbapi_get_serial_number_features                           (long deviceID, ref int error_code, ref long features, int max_features);
-[DllImport(DLL, CallingConvention = CallingConvention.Cdecl)] public static extern int    sbapi_get_serial_number                                    (long deviceID, long featureID, ref int error_code, ref byte buffer, int buffer_length); 
+[DllImport(DLL, CallingConvention = CallingConvention.Cdecl)] public static extern int    sbapi_get_serial_number                                    (long deviceID, long featureID, ref int error_code, ref unsigned char buffer, int buffer_length); 
 [DllImport(DLL, CallingConvention = CallingConvention.Cdecl)] public static extern int    sbapi_get_number_of_spectrometer_features                  (long deviceID, ref int error_code); 
 [DllImport(DLL, CallingConvention = CallingConvention.Cdecl)] public static extern int    sbapi_get_spectrometer_features                            (long deviceID, ref int error_code, ref long features, int max_features);
 [DllImport(DLL, CallingConvention = CallingConvention.Cdecl)] public static extern void   sbapi_spectrometer_set_trigger_mode                        (long deviceID, long featureID, ref int error_code, int mode); 
@@ -22,7 +22,7 @@
 [DllImport(DLL, CallingConvention = CallingConvention.Cdecl)] public static extern int    sbapi_spectrometer_get_formatted_spectrum_length           (long deviceID, long featureID, ref int error_code); 
 [DllImport(DLL, CallingConvention = CallingConvention.Cdecl)] public static extern int    sbapi_spectrometer_get_formatted_spectrum                  (long deviceID, long featureID, ref int error_code, ref double buffer, int buffer_length); 
 [DllImport(DLL, CallingConvention = CallingConvention.Cdecl)] public static extern int    sbapi_spectrometer_get_unformatted_spectrum_length         (long deviceID, long featureID, ref int error_code); 
-[DllImport(DLL, CallingConvention = CallingConvention.Cdecl)] public static extern int    sbapi_spectrometer_get_unformatted_spectrum                (long deviceID, long featureID, ref int error_code, ref byte buffer, int buffer_length); 
+[DllImport(DLL, CallingConvention = CallingConvention.Cdecl)] public static extern int    sbapi_spectrometer_get_unformatted_spectrum                (long deviceID, long featureID, ref int error_code, ref unsigned char buffer, int buffer_length); 
 [DllImport(DLL, CallingConvention = CallingConvention.Cdecl)] public static extern int    sbapi_spectrometer_get_wavelengths                         (long deviceID, long featureID, ref int error_code, ref double wavelengths, int length); 
 [DllImport(DLL, CallingConvention = CallingConvention.Cdecl)] public static extern int    sbapi_spectrometer_get_electric_dark_pixel_count           (long deviceID, long featureID, ref int error_code); 
 [DllImport(DLL, CallingConvention = CallingConvention.Cdecl)] public static extern int    sbapi_spectrometer_get_electric_dark_pixel_indices         (long deviceID, long featureID, ref int error_code, ref int indices, int length); 
@@ -30,7 +30,7 @@
 // EEPROM
 [DllImport(DLL, CallingConvention = CallingConvention.Cdecl)] public static extern int    sbapi_get_number_of_eeprom_features                        (long deviceID, ref int error_code); 
 [DllImport(DLL, CallingConvention = CallingConvention.Cdecl)] public static extern int    sbapi_get_eeprom_features                                  (long deviceID, ref int error_code, ref long features, int max_features); 
-[DllImport(DLL, CallingConvention = CallingConvention.Cdecl)] public static extern int    sbapi_eeprom_read_slot                                     (long deviceID, long featureID, ref int error_code, int slot_number, ref byte buffer, int buffer_length); 
+[DllImport(DLL, CallingConvention = CallingConvention.Cdecl)] public static extern int    sbapi_eeprom_read_slot                                     (long deviceID, long featureID, ref int error_code, int slot_number, ref unsigned char buffer, int buffer_length); 
 
 // NLC
 [DllImport(DLL, CallingConvention = CallingConvention.Cdecl)] public static extern int    sbapi_get_number_of_nonlinearity_coeffs_features           (long deviceID, ref int error_code); 
@@ -40,16 +40,16 @@
 // Shutter
 [DllImport(DLL, CallingConvention = CallingConvention.Cdecl)] public static extern int    sbapi_get_number_of_shutter_features                       (long deviceID, ref int error_code); 
 [DllImport(DLL, CallingConvention = CallingConvention.Cdecl)] public static extern int    sbapi_get_shutter_features                                 (long deviceID, ref int error_code, ref long features, int max_features); 
-[DllImport(DLL, CallingConvention = CallingConvention.Cdecl)] public static extern void   sbapi_shutter_set_shutter_open                             (long deviceID, long featureID, ref int error_code, byte opened); 
+[DllImport(DLL, CallingConvention = CallingConvention.Cdecl)] public static extern void   sbapi_shutter_set_shutter_open                             (long deviceID, long featureID, ref int error_code, unsigned char opened); 
 
 // Light Sources
 [DllImport(DLL, CallingConvention = CallingConvention.Cdecl)] public static extern int    sbapi_get_number_of_light_source_features                  (long deviceID, ref int error_code); 
 [DllImport(DLL, CallingConvention = CallingConvention.Cdecl)] public static extern int    sbapi_get_light_source_features                            (long deviceID, ref int error_code, ref long features, int max_features); 
 [DllImport(DLL, CallingConvention = CallingConvention.Cdecl)] public static extern int    sbapi_light_source_get_count                               (long deviceID, long featureID, ref int error_code); 
-[DllImport(DLL, CallingConvention = CallingConvention.Cdecl)] public static extern byte   sbapi_light_source_has_enable                              (long deviceID, long featureID, ref int error_code, int light_source_index); 
-[DllImport(DLL, CallingConvention = CallingConvention.Cdecl)] public static extern byte   sbapi_light_source_is_enabled                              (long deviceID, long featureID, ref int error_code, int light_source_index); 
-[DllImport(DLL, CallingConvention = CallingConvention.Cdecl)] public static extern void   sbapi_light_source_set_enable                              (long deviceID, long featureID, ref int error_code, int light_source_index, byte enable); 
-[DllImport(DLL, CallingConvention = CallingConvention.Cdecl)] public static extern byte   sbapi_light_source_has_variable_intensity                  (long deviceID, long featureID, ref int error_code, int light_source_index); 
+[DllImport(DLL, CallingConvention = CallingConvention.Cdecl)] public static extern unsigned char   sbapi_light_source_has_enable                              (long deviceID, long featureID, ref int error_code, int light_source_index); 
+[DllImport(DLL, CallingConvention = CallingConvention.Cdecl)] public static extern unsigned char   sbapi_light_source_is_enabled                              (long deviceID, long featureID, ref int error_code, int light_source_index); 
+[DllImport(DLL, CallingConvention = CallingConvention.Cdecl)] public static extern void   sbapi_light_source_set_enable                              (long deviceID, long featureID, ref int error_code, int light_source_index, unsigned char enable); 
+[DllImport(DLL, CallingConvention = CallingConvention.Cdecl)] public static extern unsigned char   sbapi_light_source_has_variable_intensity                  (long deviceID, long featureID, ref int error_code, int light_source_index); 
 [DllImport(DLL, CallingConvention = CallingConvention.Cdecl)] public static extern double sbapi_light_source_get_intensity                           (long deviceID, long featureID, ref int error_code, int light_source_index); 
 [DllImport(DLL, CallingConvention = CallingConvention.Cdecl)] public static extern void   sbapi_light_source_set_intensity                           (long deviceID, long featureID, ref int error_code, int light_source_index, double intensity); 
 
@@ -58,10 +58,10 @@
 [DllImport(DLL, CallingConvention = CallingConvention.Cdecl)] public static extern int    sbapi_get_strobe_lamp_features                             (long deviceID, ref int error_code, ref long features, int max_features); 
 [DllImport(DLL, CallingConvention = CallingConvention.Cdecl)] public static extern int    sbapi_get_number_of_lamp_features                          (long deviceID, ref int error_code); 
 [DllImport(DLL, CallingConvention = CallingConvention.Cdecl)] public static extern int    sbapi_get_lamp_features                                    (long deviceID, ref int error_code, ref long features, int max_features); 
-[DllImport(DLL, CallingConvention = CallingConvention.Cdecl)] public static extern void   sbapi_lamp_set_lamp_enable                                 (long deviceID, long featureID, ref int error_code, byte lamp_enable); 
+[DllImport(DLL, CallingConvention = CallingConvention.Cdecl)] public static extern void   sbapi_lamp_set_lamp_enable                                 (long deviceID, long featureID, ref int error_code, unsigned char lamp_enable); 
 [DllImport(DLL, CallingConvention = CallingConvention.Cdecl)] public static extern int    sbapi_get_number_of_continuous_strobe_features             (long deviceID, ref int error_code); 
 [DllImport(DLL, CallingConvention = CallingConvention.Cdecl)] public static extern int    sbapi_get_continuous_strobe_features                       (long deviceID, ref int error_code, ref long features, int max_features); 
-[DllImport(DLL, CallingConvention = CallingConvention.Cdecl)] public static extern void   sbapi_continuous_strobe_set_continuous_strobe_enable       (long deviceID, long featureID, ref int error_code, byte enable); 
+[DllImport(DLL, CallingConvention = CallingConvention.Cdecl)] public static extern void   sbapi_continuous_strobe_set_continuous_strobe_enable       (long deviceID, long featureID, ref int error_code, unsigned char enable); 
 [DllImport(DLL, CallingConvention = CallingConvention.Cdecl)] public static extern void   sbapi_continuous_strobe_set_continuous_strobe_period_micros(long deviceID, long featureID, ref int error_code, unsigned long period_micros); 
 
 // Irradiance 
@@ -78,7 +78,7 @@
 [DllImport(DLL, CallingConvention = CallingConvention.Cdecl)] public static extern int    sbapi_get_thermo_electric_features                         (long deviceID, ref int error_code, ref long features, int max_features); 
 [DllImport(DLL, CallingConvention = CallingConvention.Cdecl)] public static extern double sbapi_tec_read_temperature_degrees_C                       (long deviceID, long featureID, ref int error_code); 
 [DllImport(DLL, CallingConvention = CallingConvention.Cdecl)] public static extern void   sbapi_tec_set_temperature_setpoint_degrees_C               (long deviceID, long featureID, ref int error_code, double temperature_degrees_celsius); 
-[DllImport(DLL, CallingConvention = CallingConvention.Cdecl)] public static extern void   sbapi_tec_set_enable                                       (long deviceID, long featureID, ref int error_code, byte tec_enable); 
+[DllImport(DLL, CallingConvention = CallingConvention.Cdecl)] public static extern void   sbapi_tec_set_enable                                       (long deviceID, long featureID, ref int error_code, unsigned char tec_enable); 
 
 // Stray Light
 [DllImport(DLL, CallingConvention = CallingConvention.Cdecl)] public static extern int    sbapi_get_number_of_stray_light_coeffs_features            (long deviceID, ref int error_code); 

@@ -63,7 +63,7 @@ OBPSpectrometerProtocol::~OBPSpectrometerProtocol() {
     delete this->triggerModeExchange;
 }
 
-vector<byte> *OBPSpectrometerProtocol::readUnformattedSpectrum(const Bus &bus)
+vector<unsigned char> *OBPSpectrometerProtocol::readUnformattedSpectrum(const Bus &bus)
          {
     Data *result;
     TransferHelper *helper;
@@ -84,7 +84,7 @@ vector<byte> *OBPSpectrometerProtocol::readUnformattedSpectrum(const Bus &bus)
 
     ByteVector *bv = static_cast<ByteVector *>(result);
 
-    vector<byte> *retval = new vector<byte > (bv->getByteVector());
+    vector<unsigned char> *retval = new vector<unsigned char > (bv->getByteVector());
 
     delete result;
 

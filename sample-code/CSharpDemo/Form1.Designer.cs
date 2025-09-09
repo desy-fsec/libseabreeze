@@ -113,7 +113,7 @@
             series1.Name = "seriesSpectrum";
             series2.ChartArea = "ChartArea1";
             series2.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
-            series2.Color = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
+            series2.Color = System.Drawing.Color.FromArgb(((int)(((unsigned char)(0)))), ((int)(((unsigned char)(0)))), ((int)(((unsigned char)(192)))));
             series2.Legend = "Legend1";
             series2.LegendText = "Irradiance";
             series2.Name = "seriesIrradiance";

@@ -61,7 +61,7 @@ typedef struct {
     unsigned int maxPacketSize;
     unsigned char *buffer;
     unsigned int length;  /* Number of bytes actually in the buffer */
-    unsigned int offset;  /* Position of the first unused byte in the buffer */
+    unsigned int offset;  /* Position of the first unused unsigned char in the buffer */
 } __usb_endpoint_t;
 
 typedef struct {

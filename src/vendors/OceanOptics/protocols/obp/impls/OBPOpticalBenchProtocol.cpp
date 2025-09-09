@@ -60,7 +60,7 @@ OBPOpticalBenchProtocol::~OBPOpticalBenchProtocol() {
 string *OBPOpticalBenchProtocol::readOpticalBenchID(const Bus &bus)
                  {
 
-    vector<byte> *result;
+    vector<unsigned char> *result;
     string *retval = NULL;
 
     OBPGetOpticalBenchIDExchange xchange;
@@ -75,11 +75,11 @@ string *OBPOpticalBenchProtocol::readOpticalBenchID(const Bus &bus)
     // some spectromters return null strings to unsupported values
     //  the STS does this. Put an empty c string in result
     if (result==NULL) {
-        result = new vector<byte>('\0');
+        result = new vector<unsigned char>('\0');
     }
     
     retval = new string();
-    vector<byte>::iterator iter;
+    vector<unsigned char>::iterator iter;
     /* This is probably not the most efficient way to copy
      * from a vector of bytes into a string, but at least
      * this way issues of string encoding should be
@@ -102,7 +102,7 @@ string *OBPOpticalBenchProtocol::readOpticalBenchID(const Bus &bus)
 string *OBPOpticalBenchProtocol::readOpticalBenchSerialNumber(const Bus &bus)
                  {
 
-    vector<byte> *result;
+    vector<unsigned char> *result;
     string *retval = NULL;
 
     OBPGetOpticalBenchSerialNumberExchange xchange;
@@ -117,11 +117,11 @@ string *OBPOpticalBenchProtocol::readOpticalBenchSerialNumber(const Bus &bus)
     // some spectromters return null strings to unsupported values
     //  the STS does this. Put an empty c string in result
     if (result==NULL) {
-        result = new vector<byte>('\0');
+        result = new vector<unsigned char>('\0');
     }
 
     retval = new string();
-    vector<byte>::iterator iter;
+    vector<unsigned char>::iterator iter;
     /* This is probably not the most efficient way to copy
      * from a vector of bytes into a string, but at least
      * this way issues of string encoding should be
@@ -145,7 +145,7 @@ string *OBPOpticalBenchProtocol::readOpticalBenchSerialNumber(const Bus &bus)
 string *OBPOpticalBenchProtocol::readOpticalBenchCoating(const Bus &bus)
                  {
 
-    vector<byte> *result;
+    vector<unsigned char> *result;
     string *retval = NULL;
 
     OBPGetOpticalBenchCoatingExchange xchange;
@@ -160,11 +160,11 @@ string *OBPOpticalBenchProtocol::readOpticalBenchCoating(const Bus &bus)
     // some spectromters return null strings to unsupported values
     //  the STS does this. Put an empty c string in result
     if (result==NULL) {
-        result = new vector<byte>('\0');
+        result = new vector<unsigned char>('\0');
     }
 
     retval = new string();
-    vector<byte>::iterator iter;
+    vector<unsigned char>::iterator iter;
     /* This is probably not the most efficient way to copy
      * from a vector of bytes into a string, but at least
      * this way issues of string encoding should be
@@ -188,7 +188,7 @@ string *OBPOpticalBenchProtocol::readOpticalBenchCoating(const Bus &bus)
 string *OBPOpticalBenchProtocol::readOpticalBenchFilter(const Bus &bus)
                  {
 
-    vector<byte> *result;
+    vector<unsigned char> *result;
     string *retval = NULL;
 
     OBPGetOpticalBenchFilterExchange xchange;
@@ -203,11 +203,11 @@ string *OBPOpticalBenchProtocol::readOpticalBenchFilter(const Bus &bus)
     // some spectromters return null strings to unsupported values
     //  the STS does this. Put an empty c string in result
     if (result==NULL) {
-        result = new vector<byte>('\0');
+        result = new vector<unsigned char>('\0');
     }
 
     retval = new string();
-    vector<byte>::iterator iter;
+    vector<unsigned char>::iterator iter;
     /* This is probably not the most efficient way to copy
      * from a vector of bytes into a string, but at least
      * this way issues of string encoding should be
@@ -231,7 +231,7 @@ string *OBPOpticalBenchProtocol::readOpticalBenchFilter(const Bus &bus)
 string *OBPOpticalBenchProtocol::readOpticalBenchGrating(const Bus &bus)
                  {
 
-    vector<byte> *result;
+    vector<unsigned char> *result;
     string *retval = NULL;
 
     OBPGetOpticalBenchGratingExchange xchange;
@@ -246,11 +246,11 @@ string *OBPOpticalBenchProtocol::readOpticalBenchGrating(const Bus &bus)
     // some spectromters return null strings to unsupported values
     //  the STS does this. Put an empty c string in result
     if (result==NULL) {
-        result = new vector<byte>('\0');
+        result = new vector<unsigned char>('\0');
     }
 
     retval = new string();
-    vector<byte>::iterator iter;
+    vector<unsigned char>::iterator iter;
     /* This is probably not the most efficient way to copy
      * from a vector of bytes into a string, but at least
      * this way issues of string encoding should be
@@ -275,9 +275,9 @@ string *OBPOpticalBenchProtocol::readOpticalBenchGrating(const Bus &bus)
 unsigned short int OBPOpticalBenchProtocol::readOpticalBenchSlitWidthMicrons(const Bus &bus)
                  
 {
-    vector<byte> *result = NULL;
+    vector<unsigned char> *result = NULL;
     unsigned short int slitWidth;
-    byte *bptr;
+    unsigned char *bptr;
         
     OBPGetOpticalBenchSlitWidthMicronsExchange xchange;
     
@@ -292,12 +292,12 @@ unsigned short int OBPOpticalBenchProtocol::readOpticalBenchSlitWidthMicrons(con
     // some spectromters return null strings to unsupported values
     //  the STS does this. Put an empty c string in result
     if (result==NULL) {
-        result = new vector<byte>((int)0);
+        result = new vector<unsigned char>((int)0);
         result->resize(sizeof(unsigned short int));
     }
     
-    // queryDevice returns a byte stream, turn that into a float... mind our endians.
-    bptr = (byte *)&slitWidth;
+    // queryDevice returns a unsigned char stream, turn that into a float... mind our endians.
+    bptr = (unsigned char *)&slitWidth;
     for(unsigned int j = 0; j < sizeof(unsigned short int); j++) {
         bptr[j] = (*result)[j];
     }
@@ -310,9 +310,9 @@ unsigned short int OBPOpticalBenchProtocol::readOpticalBenchSlitWidthMicrons(con
 unsigned short int OBPOpticalBenchProtocol::readOpticalBenchFiberDiameterMicrons(const Bus &bus)
                  
 {
-    vector<byte> *result = NULL;
+    vector<unsigned char> *result = NULL;
     unsigned short int fiberDiameter;
-    byte *bptr;
+    unsigned char *bptr;
         
     OBPGetOpticalBenchFiberDiameterMicronsExchange xchange;
     
@@ -327,12 +327,12 @@ unsigned short int OBPOpticalBenchProtocol::readOpticalBenchFiberDiameterMicrons
     // some spectromters return null strings to unsupported values
     //  the STS does this. Put an empty c string in result
     if (result==NULL) {
-        result = new vector<byte>((int)0);
+        result = new vector<unsigned char>((int)0);
         result->resize(sizeof(unsigned short int));
     }
     
-    // queryDevice returns a byte stream, turn that into a float... mind our endians.
-    bptr = (byte *)&fiberDiameter;
+    // queryDevice returns a unsigned char stream, turn that into a float... mind our endians.
+    bptr = (unsigned char *)&fiberDiameter;
     for(unsigned int j = 0; j < sizeof(unsigned short int); j++) {
         bptr[j] = (*result)[j];
     }

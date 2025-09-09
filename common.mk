@@ -82,7 +82,7 @@ CFLAGS_BASE += -DOOI_DEBUG
 
 # these are for the .o files making up libseabreeze
 # added -std=c++14, HB, Thu Nov  2 14:35:38 CET 2023
-CPPFLAGS     = $(CFLAGS_BASE) -std=c++14
+CPPFLAGS     = $(CFLAGS_BASE) -std=c++17
 CFLAGS       = $(CFLAGS_BASE) -std=gnu99
 
 	# allow for a 32 bit build
