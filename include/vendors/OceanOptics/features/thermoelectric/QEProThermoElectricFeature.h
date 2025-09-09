@@ -42,13 +42,13 @@ namespace seabreeze {
 
         /* Inherited from ThermoElectricFeatureBase where they are pure virtual */
         virtual double getDefaultSetPointCelsius(const Protocol &protocol,
-                const Bus &bus) throw (FeatureException);
+                const Bus &bus) ;
         virtual bool getDefaultThermoElectricEnable(const Protocol &protocol,
-                const Bus &bus) throw (FeatureException);
+                const Bus &bus) ;
 
         /* Override from Feature */
         virtual bool initialize(const Protocol &protocol, const Bus &bus)
-            throw (FeatureException);
+            ;
     };
 }
 

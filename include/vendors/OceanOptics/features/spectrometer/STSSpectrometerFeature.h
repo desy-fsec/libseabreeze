@@ -55,7 +55,7 @@ namespace seabreeze {
 
         /* The STS gets wavelengths a bit differently */
         virtual std::vector<double> *getWavelengths(const Protocol &protocol,
-            const Bus &bus) throw (FeatureException);       
+            const Bus &bus) ;       
 
     private:
         oceanBinaryProtocol::OBPReadRawSpectrumExchange *unformattedSpectrum;

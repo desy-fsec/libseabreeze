@@ -859,7 +859,7 @@ SpectrumProcessingFeature::~SpectrumProcessingFeature() \
 #endif\
 \
 unsigned short int SpectrumProcessingFeature::readSpectrumProcessingScansToAverage(\
-		const Protocol &protocol, const Bus &bus) throw (FeatureException) \
+		const Protocol &protocol, const Bus &bus)  \
 \{\
 \
     SpectrumProcessingProtocolInterface *processingPI = NULL;\
@@ -923,7 +923,7 @@ void SpectrumProcessingFeature::writeSpectrumProcessingScansToAverage(const Prot
 \}\
 \
 unsigned char SpectrumProcessingFeature::readSpectrumProcessingBoxcarWidth(\
-		const Protocol &protocol, const Bus &bus) throw (FeatureException) \
+		const Protocol &protocol, const Bus &bus)  \
 \{\
 \
     SpectrumProcessingProtocolInterface *processingPI = NULL;\
@@ -1079,9 +1079,9 @@ namespace seabreeze \{\
     public:\
         virtual ~SpectrumProcessingFeatureInterface() = 0;\
         virtual unsigned char readSpectrumProcessingBoxcarWidth(const Protocol &protocol,\
-                const Bus &bus) throw (FeatureException) = 0;\
+                const Bus &bus)  = 0;\
         virtual unsigned short int readSpectrumProcessingScansToAverage(const Protocol &protocol,\
-                const Bus &bus) throw (FeatureException) = 0;\
+                const Bus &bus)  = 0;\
         virtual void writeSpectrumProcessingBoxcarWidth(const Protocol &protocol,\
                 const Bus &bus, unsigned char boxcarWidth)\
                 throw (FeatureException, IllegalArgumentException) = 0;\
@@ -1150,10 +1150,10 @@ namespace seabreeze \{\
         virtual ~SpectrumProcessingFeature();\
         virtual unsigned char readSpectrumProcessingBoxcarWidth(\
         	const Protocol &protocol, const Bus &bus) \
-            throw (FeatureException);\
+            ;\
         virtual unsigned short int readSpectrumProcessingScansToAverage(\
         	const Protocol &protocol, const Bus &bus) \
-        	throw (FeatureException);\
+        	;\
         virtual void writeSpectrumProcessingBoxcarWidth(const Protocol &protocol,\
         	const Bus &bus, unsigned char boxcarWidth) \
         	throw (FeatureException, IllegalArgumentException);\

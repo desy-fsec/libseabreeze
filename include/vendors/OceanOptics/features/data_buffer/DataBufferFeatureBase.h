@@ -45,27 +45,27 @@ namespace seabreeze {
         virtual DataBufferCount_t getNumberOfBuffers();
         virtual void clearBuffer(const Protocol &protocol, const Bus &bus,
                 const DataBufferIndex_t bufferIndex)
-                throw (FeatureException);
+                ;
         virtual DataBufferElementCount_t getNumberOfElements(
                 const Protocol &protocol, const Bus &bus,
                 const DataBufferIndex_t bufferIndex)
-                throw (FeatureException);
+                ;
         virtual DataBufferElementCount_t getBufferCapacity(
                 const Protocol &protocol,
                 const Bus &bus, const DataBufferIndex_t bufferIndex)
-                throw (FeatureException);
+                ;
         virtual DataBufferElementCount_t getBufferCapacityMinimum(
                 const Protocol &protocol, const Bus &bus,
                 const DataBufferIndex_t bufferIndex)
-                throw (FeatureException);
+                ;
         virtual DataBufferElementCount_t getBufferCapacityMaximum(
                 const Protocol &protocol, const Bus &bus,
                 const DataBufferIndex_t bufferIndex)
-                throw (FeatureException);
+                ;
         virtual void setBufferCapacity(const Protocol &protocol, const Bus &bus,
                 const DataBufferIndex_t bufferIndex,
                 const DataBufferElementCount_t bufferSize)
-                throw (FeatureException);
+                ;
 
         /* Overriding from Feature */
         virtual FeatureFamily getFeatureFamily();
