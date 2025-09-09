@@ -45,10 +45,10 @@ namespace seabreeze {
         virtual ~ContinuousStrobeFeature();
         virtual void setContinuousStrobePeriodMicroseconds(const Protocol &protocol,
                 const Bus &bus, unsigned short strobe_id, unsigned long period_usec)
-                throw (FeatureException);
+                ;
         virtual void setContinuousStrobeEnable(const Protocol &protocol,
                 const Bus &bus, unsigned short strobe_id, bool enable)
-                throw (FeatureException);
+                ;
 
         /* Overriding from Feature */
         virtual FeatureFamily getFeatureFamily();

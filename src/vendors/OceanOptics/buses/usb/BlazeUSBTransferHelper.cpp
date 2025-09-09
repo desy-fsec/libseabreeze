@@ -47,7 +47,7 @@ BlazeUSBTransferHelper::~BlazeUSBTransferHelper() {
 }
 
 int BlazeUSBTransferHelper::receive(vector<byte> &buffer,
-        unsigned int length) throw (BusTransferException) {
+        unsigned int length)  {
     if(0 != (length % WORD_SIZE_BYTES)) {
         vector<byte> *inBuffer;
         int paddedLength;
@@ -63,7 +63,8 @@ int BlazeUSBTransferHelper::receive(vector<byte> &buffer,
             error += paddedLength;
             throw BusTransferException(error);
         }
-        memcpy(&buffer[0], &inBuffer[0], length);
+        // memcpy(&buffer[0], &inBuffer[0], length);
+	std::copy(inBuffer->begin(), inBuffer->end(), buffer.begin());
         delete inBuffer;
         return length;
     } else {
@@ -72,13 +73,14 @@ int BlazeUSBTransferHelper::receive(vector<byte> &buffer,
 }
 
 int BlazeUSBTransferHelper::send(const std::vector<byte> &buffer,
-        unsigned int length) const throw (BusTransferException) {
+        unsigned int length) const  {
     
     if(0 != (length % WORD_SIZE_BYTES)) {
         /* Pad up to a multiple of the word size */
         int paddedLength = length + (WORD_SIZE_BYTES - (length % WORD_SIZE_BYTES));
         vector<byte> *outBuffer = new vector<byte>(paddedLength);
-        memcpy(&outBuffer[0], &buffer[0], length);
+        // memcpy(&outBuffer[0], &buffer[0], length);
+	std::copy(buffer.begin(), buffer.end(), outBuffer->begin());
         int result = USBTransferHelper::send(*outBuffer, paddedLength);
         delete outBuffer;
         return result;

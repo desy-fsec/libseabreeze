@@ -57,7 +57,7 @@ SpectrumProcessingFeature::~SpectrumProcessingFeature() {
 #endif
 
 unsigned short int SpectrumProcessingFeature::readSpectrumProcessingScansToAverage(
-		const Protocol &protocol, const Bus &bus) throw (FeatureException) {
+		const Protocol &protocol, const Bus &bus)  {
 
     SpectrumProcessingProtocolInterface *processingPI = NULL;
 	unsigned short int scansToAverage;
@@ -85,7 +85,7 @@ unsigned short int SpectrumProcessingFeature::readSpectrumProcessingScansToAvera
 }
 
 void SpectrumProcessingFeature::writeSpectrumProcessingScansToAverage(const Protocol &protocol,
-        const Bus &bus, unsigned short int scansToAverage) throw (FeatureException, IllegalArgumentException) {
+        const Bus &bus, unsigned short int scansToAverage)  {
 
     SpectrumProcessingProtocolInterface *processingPI = NULL;
     ProtocolHelper *proto = NULL;
@@ -93,7 +93,7 @@ void SpectrumProcessingFeature::writeSpectrumProcessingScansToAverage(const Prot
     try {
         proto = lookupProtocolImpl(protocol);
         processingPI = static_cast<SpectrumProcessingProtocolInterface *>(proto);
-    } catch (FeatureProtocolNotFoundException fpnfe) {
+    } catch (FeatureProtocolNotFoundException &fpnfe) {
         string error(
                 "Could not find matching protocol implementation to set spectrum processing state.");
         /* FIXME: previous exception should probably be bundled up into the new exception */
@@ -111,7 +111,7 @@ void SpectrumProcessingFeature::writeSpectrumProcessingScansToAverage(const Prot
 }
 
 unsigned char SpectrumProcessingFeature::readSpectrumProcessingBoxcarWidth(
-		const Protocol &protocol, const Bus &bus) throw (FeatureException) {
+		const Protocol &protocol, const Bus &bus)  {
 
     SpectrumProcessingProtocolInterface *processingPI = NULL;
 	unsigned char boxcarWidth;
@@ -139,7 +139,7 @@ unsigned char SpectrumProcessingFeature::readSpectrumProcessingBoxcarWidth(
 }
 
 void SpectrumProcessingFeature::writeSpectrumProcessingBoxcarWidth(const Protocol &protocol,
-        const Bus &bus, unsigned char boxcarWidth) throw (FeatureException, IllegalArgumentException) {
+        const Bus &bus, unsigned char boxcarWidth)  {
 
     SpectrumProcessingProtocolInterface *processingPI = NULL;
     ProtocolHelper *proto = NULL;
@@ -147,7 +147,7 @@ void SpectrumProcessingFeature::writeSpectrumProcessingBoxcarWidth(const Protoco
     try {
         proto = lookupProtocolImpl(protocol);
         processingPI = static_cast<SpectrumProcessingProtocolInterface *>(proto);
-    } catch (FeatureProtocolNotFoundException fpnfe) {
+    } catch (FeatureProtocolNotFoundException &fpnfe) {
         string error(
                 "Could not find matching protocol implementation to set spectrum processing state.");
         /* FIXME: previous exception should probably be bundled up into the new exception */

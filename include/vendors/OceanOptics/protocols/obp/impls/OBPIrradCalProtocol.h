@@ -44,14 +44,14 @@ namespace seabreeze {
 
         /* Inherited from IrradCalProtocolInterface */
         virtual std::vector<float> *readIrradCal(const Bus &bus)
-            throw (ProtocolException);
+            ;
         virtual int writeIrradCal(const Bus &bus, const std::vector<float> &cal)
-            throw (ProtocolException);
+            ;
         virtual int hasCollectionArea(const Bus &bus);
         virtual float readCollectionArea(const Bus &bus)
-            throw (ProtocolException);
+            ;
         virtual void writeCollectionArea(const Bus &bus, float area)
-            throw (ProtocolException);
+            ;
 
     private:
         unsigned int pixelCountMaximum;

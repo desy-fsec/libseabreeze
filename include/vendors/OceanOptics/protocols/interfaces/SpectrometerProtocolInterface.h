@@ -49,14 +49,14 @@ namespace seabreeze {
         SpectrometerProtocolInterface(Protocol *protocol);
         virtual ~SpectrometerProtocolInterface();
         virtual std::vector<byte> *readUnformattedSpectrum(const Bus &bus)
-            throw (ProtocolException) = 0;
+             = 0;
         virtual std::vector<double> *readSpectrum(const Bus &bus)
-            throw (ProtocolException) = 0;
-        virtual void requestSpectrum(const Bus &bus) throw (ProtocolException) = 0;
+             = 0;
+        virtual void requestSpectrum(const Bus &bus)  = 0;
         virtual void setIntegrationTimeMicros(const Bus &bus,
-            unsigned long time_usec) throw (ProtocolException) = 0;
+            unsigned long time_usec)  = 0;
         virtual void setTriggerMode(const Bus &bus,
-            SpectrometerTriggerMode &mode) throw (ProtocolException) = 0;
+            SpectrometerTriggerMode &mode)  = 0;
     };
 
 }

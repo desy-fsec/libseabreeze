@@ -64,7 +64,7 @@ OBPSpectrometerProtocol::~OBPSpectrometerProtocol() {
 }
 
 vector<byte> *OBPSpectrometerProtocol::readUnformattedSpectrum(const Bus &bus)
-        throw (ProtocolException) {
+         {
     Data *result;
     TransferHelper *helper;
 
@@ -97,7 +97,7 @@ vector<byte> *OBPSpectrometerProtocol::readUnformattedSpectrum(const Bus &bus)
 }
 
 vector<double> *OBPSpectrometerProtocol::readSpectrum(const Bus &bus)
-        throw (ProtocolException) {
+         {
     TransferHelper *helper;
     Data *result;
     unsigned int i;
@@ -156,7 +156,7 @@ vector<double> *OBPSpectrometerProtocol::readSpectrum(const Bus &bus)
 }
 
 void OBPSpectrometerProtocol::requestSpectrum(const Bus &bus)
-        throw (ProtocolException) {
+         {
     TransferHelper *helper;
 
     helper = bus.getHelper(this->requestSpectrumExchange->getHints());
@@ -171,7 +171,7 @@ void OBPSpectrometerProtocol::requestSpectrum(const Bus &bus)
 }
 
 void OBPSpectrometerProtocol::setIntegrationTimeMicros(const Bus &bus,
-        unsigned long integrationTime_usec) throw (ProtocolException) {
+        unsigned long integrationTime_usec)  {
     TransferHelper *helper;
 
     helper = bus.getHelper(this->integrationTimeExchange->getHints());
@@ -187,7 +187,7 @@ void OBPSpectrometerProtocol::setIntegrationTimeMicros(const Bus &bus,
 }
 
 void OBPSpectrometerProtocol::setTriggerMode(const Bus &bus,
-            SpectrometerTriggerMode &mode) throw (ProtocolException) {
+            SpectrometerTriggerMode &mode)  {
     TransferHelper *helper;
 
     helper = bus.getHelper(this->triggerModeExchange->getHints());

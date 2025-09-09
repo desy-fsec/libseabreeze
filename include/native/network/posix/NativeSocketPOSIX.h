@@ -42,23 +42,23 @@ namespace seabreeze {
         virtual ~NativeSocketPOSIX();
         
         virtual void connect(Inet4Address &addr, int port)
-                throw (UnknownHostException, BusConnectException);
+                ;
         virtual void connect(const std::string hostname, int port)
-                throw (UnknownHostException, BusConnectException);
+                ;
         
-        virtual void close() throw (BusException);
+        virtual void close() ;
         virtual bool isClosed();
         virtual bool isBound();
         
-        virtual int getSOLinger() throw (SocketException);
-        virtual void setSOLinger(bool enable, int linger) throw (SocketException);
-        virtual unsigned long getReadTimeoutMillis() throw (SocketException);
-        virtual void setReadTimeoutMillis(unsigned long timeout) throw (SocketException);
+        virtual int getSOLinger() ;
+        virtual void setSOLinger(bool enable, int linger) ;
+        virtual unsigned long getReadTimeoutMillis() ;
+        virtual void setReadTimeoutMillis(unsigned long timeout) ;
         
         virtual int read(unsigned char *buffer, unsigned long length)
-            throw (BusTransferException);
+            ;
         virtual int write(const unsigned char *buffer, unsigned long length)
-            throw (BusTransferException);
+            ;
         
     private:
         int sock;

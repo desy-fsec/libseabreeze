@@ -48,7 +48,7 @@ OOI2KSpectrumExchange::~OOI2KSpectrumExchange() {
 }
 
 Data *OOI2KSpectrumExchange::transfer(TransferHelper *helper)
-        throw (ProtocolException) {
+         {
     unsigned int i;
     Data *xfer;
     int lsbPacket;

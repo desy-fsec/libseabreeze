@@ -52,13 +52,13 @@ FeatureImpl::~FeatureImpl() {
 }
 
 bool FeatureImpl::initialize(const Protocol &protocol, const Bus &bus)
-            throw (FeatureException) {
+             {
     /* Override this to initialize device, and/or return a different status */
     return true;
 }
 
 ProtocolHelper *FeatureImpl::lookupProtocolImpl(const Protocol &protocol)
-        throw (FeatureProtocolNotFoundException) {
+         {
 
     vector<ProtocolHelper *>::iterator iter;
     ProtocolHelper *retval = NULL;

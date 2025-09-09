@@ -48,7 +48,7 @@ namespace seabreeze {
 
         /* Inherited */
         virtual int receive(std::vector<byte> &buffer, unsigned int length)
-            throw (BusTransferException);
+            ;
 
     private:
         int secondaryHighSpeedEP;

@@ -52,7 +52,7 @@ STSPixelBinningFeature::~STSPixelBinningFeature() {
 }
 
 void STSPixelBinningFeature::setPixelBinningFactor(const Protocol &protocol,
-        const Bus &bus, const unsigned char binningFactor) throw (FeatureException) {
+        const Bus &bus, const unsigned char binningFactor)  {
 
     PixelBinningProtocolInterface *pb = NULL;
     ProtocolHelper *proto = NULL;
@@ -60,7 +60,7 @@ void STSPixelBinningFeature::setPixelBinningFactor(const Protocol &protocol,
     try {
         proto = lookupProtocolImpl(protocol);
         pb = static_cast<PixelBinningProtocolInterface *>(proto);
-    } catch (FeatureProtocolNotFoundException fpnfe) {
+    } catch (FeatureProtocolNotFoundException &fpnfe) {
         string error(
                 "Could not find matching protocol implementation to set pixel binning factor.");
         /* FIXME: previous exception should probably be bundled up into the new exception */
@@ -90,7 +90,7 @@ void STSPixelBinningFeature::setPixelBinningFactor(const Protocol &protocol,
 }
 
 unsigned char STSPixelBinningFeature::getPixelBinningFactor(const Protocol &protocol,
-        const Bus &bus) throw (FeatureException) {
+        const Bus &bus)  {
 
     PixelBinningProtocolInterface *pb = NULL;
     ProtocolHelper *proto = NULL;
@@ -98,7 +98,7 @@ unsigned char STSPixelBinningFeature::getPixelBinningFactor(const Protocol &prot
     try {
         proto = lookupProtocolImpl(protocol);
         pb = static_cast<PixelBinningProtocolInterface *>(proto);
-    } catch (FeatureProtocolNotFoundException fpnfe) {
+    } catch (FeatureProtocolNotFoundException &fpnfe) {
         string error(
                 "Could not find matching protocol implementation to read pixel binning factor.");
         /* FIXME: previous exception should probably be bundled up into the new exception */
@@ -119,7 +119,7 @@ unsigned char STSPixelBinningFeature::getPixelBinningFactor(const Protocol &prot
 }
 
 void STSPixelBinningFeature::setDefaultPixelBinningFactor(const Protocol &protocol,
-        const Bus &bus, const unsigned char binningFactor) throw (FeatureException) {
+        const Bus &bus, const unsigned char binningFactor)  {
 
     PixelBinningProtocolInterface *pb = NULL;
     ProtocolHelper *proto = NULL;
@@ -127,7 +127,7 @@ void STSPixelBinningFeature::setDefaultPixelBinningFactor(const Protocol &protoc
     try {
         proto = lookupProtocolImpl(protocol);
         pb = static_cast<PixelBinningProtocolInterface *>(proto);
-    } catch (FeatureProtocolNotFoundException fpnfe) {
+    } catch (FeatureProtocolNotFoundException &fpnfe) {
         string error(
                 "Could not find matching protocol implementation to set pixel binning factor.");
         /* FIXME: previous exception should probably be bundled up into the new exception */
@@ -153,7 +153,7 @@ void STSPixelBinningFeature::setDefaultPixelBinningFactor(const Protocol &protoc
 }
 
 void STSPixelBinningFeature::setDefaultPixelBinningFactor(const Protocol &protocol,
-        const Bus &bus) throw (FeatureException) {
+        const Bus &bus)  {
 
     PixelBinningProtocolInterface *pb = NULL;
     ProtocolHelper *proto = NULL;
@@ -161,7 +161,7 @@ void STSPixelBinningFeature::setDefaultPixelBinningFactor(const Protocol &protoc
     try {
         proto = lookupProtocolImpl(protocol);
         pb = static_cast<PixelBinningProtocolInterface *>(proto);
-    } catch (FeatureProtocolNotFoundException fpnfe) {
+    } catch (FeatureProtocolNotFoundException &fpnfe) {
         string error(
                 "Could not find matching protocol implementation to set pixel binning factor.");
         /* FIXME: previous exception should probably be bundled up into the new exception */
@@ -179,7 +179,7 @@ void STSPixelBinningFeature::setDefaultPixelBinningFactor(const Protocol &protoc
 }
 
 unsigned char STSPixelBinningFeature::getDefaultPixelBinningFactor(const Protocol &protocol,
-        const Bus &bus) throw (FeatureException) {
+        const Bus &bus)  {
 
     PixelBinningProtocolInterface *pb = NULL;
     ProtocolHelper *proto = NULL;
@@ -187,7 +187,7 @@ unsigned char STSPixelBinningFeature::getDefaultPixelBinningFactor(const Protoco
     try {
         proto = lookupProtocolImpl(protocol);
         pb = static_cast<PixelBinningProtocolInterface *>(proto);
-    } catch (FeatureProtocolNotFoundException fpnfe) {
+    } catch (FeatureProtocolNotFoundException &fpnfe) {
         string error(
                 "Could not find matching protocol implementation to read pixel binning factor.");
         /* FIXME: previous exception should probably be bundled up into the new exception */
@@ -208,7 +208,7 @@ unsigned char STSPixelBinningFeature::getDefaultPixelBinningFactor(const Protoco
 }
 
 unsigned char STSPixelBinningFeature::getMaxPixelBinningFactor(const Protocol &protocol,
-        const Bus &bus) throw (FeatureException) {
+        const Bus &bus)  {
 
     PixelBinningProtocolInterface *pb = NULL;
     ProtocolHelper *proto = NULL;
@@ -216,7 +216,7 @@ unsigned char STSPixelBinningFeature::getMaxPixelBinningFactor(const Protocol &p
     try {
         proto = lookupProtocolImpl(protocol);
         pb = static_cast<PixelBinningProtocolInterface *>(proto);
-    } catch (FeatureProtocolNotFoundException fpnfe) {
+    } catch (FeatureProtocolNotFoundException &fpnfe) {
         string error(
                 "Could not find matching protocol implementation to read pixel binning factor.");
         /* FIXME: previous exception should probably be bundled up into the new exception */
@@ -247,7 +247,7 @@ FeatureFamily STSPixelBinningFeature::getFeatureFamily() {
 }
 
 bool STSPixelBinningFeature::initialize(const Protocol &protocol, const Bus &bus)
-            throw (FeatureException) {
+             {
     /* This doesn't need to do anything special at this point.  If desired, this
      * could be used to read out the current setting and cache it, but that is
      * not strictly required.

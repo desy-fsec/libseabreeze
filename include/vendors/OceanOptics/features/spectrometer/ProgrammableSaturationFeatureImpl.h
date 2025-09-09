@@ -46,14 +46,14 @@ namespace seabreeze {
         virtual ~ProgrammableSaturationFeatureImpl();
         
         virtual bool initialize(const Protocol &protocol, const Bus &bus)
-            throw (FeatureException);
+            ;
         
         virtual FeatureFamily getFeatureFamily();
         
     protected:
         /* Inherited from ProgrammableSaturationFeatureBase */
         virtual unsigned int getSaturation(const Protocol &protocol,
-                const Bus &bus) throw (FeatureException);
+                const Bus &bus) ;
     };
     
 } /* end namespace seabreeze */

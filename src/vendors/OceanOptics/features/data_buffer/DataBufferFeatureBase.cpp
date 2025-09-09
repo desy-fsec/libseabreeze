@@ -58,7 +58,7 @@ DataBufferCount_t DataBufferFeatureBase::getNumberOfBuffers() {
 
 void DataBufferFeatureBase::clearBuffer(const Protocol &protocol,
         const Bus &bus, const DataBufferIndex_t bufferIndex)
-        throw (FeatureException) {
+         {
 
     DataBufferProtocolInterface *buffer = NULL;
     ProtocolHelper *proto = NULL;
@@ -66,7 +66,7 @@ void DataBufferFeatureBase::clearBuffer(const Protocol &protocol,
     try {
         proto = lookupProtocolImpl(protocol);
         buffer = static_cast<DataBufferProtocolInterface *>(proto);
-    } catch (FeatureProtocolNotFoundException fpnfe) {
+    } catch (FeatureProtocolNotFoundException &fpnfe) {
         string error(
                 "Could not find matching protocol implementation to clear data buffer.");
         /* FIXME: previous exception should probably be bundled up into the new exception */
@@ -86,7 +86,7 @@ void DataBufferFeatureBase::clearBuffer(const Protocol &protocol,
 
 DataBufferElementCount_t DataBufferFeatureBase::getNumberOfElements(
     const Protocol &protocol, const Bus &bus,
-    const DataBufferIndex_t bufferIndex) throw (FeatureException) {
+    const DataBufferIndex_t bufferIndex)  {
 
     DataBufferProtocolInterface *buffer = NULL;
     ProtocolHelper *proto = NULL;
@@ -94,7 +94,7 @@ DataBufferElementCount_t DataBufferFeatureBase::getNumberOfElements(
     try {
         proto = lookupProtocolImpl(protocol);
         buffer = static_cast<DataBufferProtocolInterface *>(proto);
-    } catch (FeatureProtocolNotFoundException fpnfe) {
+    } catch (FeatureProtocolNotFoundException &fpnfe) {
         string error(
                 "Could not find matching protocol implementation to get data buffer element count.");
         /* FIXME: previous exception should probably be bundled up into the new exception */
@@ -116,7 +116,7 @@ DataBufferElementCount_t DataBufferFeatureBase::getNumberOfElements(
 
 DataBufferElementCount_t DataBufferFeatureBase::getBufferCapacity(
         const Protocol &protocol, const Bus &bus,
-        const DataBufferIndex_t bufferIndex) throw (FeatureException) {
+        const DataBufferIndex_t bufferIndex)  {
 
     DataBufferProtocolInterface *buffer = NULL;   
     ProtocolHelper *proto = NULL;
@@ -124,7 +124,7 @@ DataBufferElementCount_t DataBufferFeatureBase::getBufferCapacity(
     try {
         proto = lookupProtocolImpl(protocol);
         buffer = static_cast<DataBufferProtocolInterface *>(proto);
-    } catch (FeatureProtocolNotFoundException fpnfe) {
+    } catch (FeatureProtocolNotFoundException &fpnfe) {
         string error(
                 "Could not find matching protocol implementation to get data buffer capacity.");
         /* FIXME: previous exception should probably be bundled up into the new exception */
@@ -146,7 +146,7 @@ DataBufferElementCount_t DataBufferFeatureBase::getBufferCapacity(
 
 DataBufferElementCount_t DataBufferFeatureBase::getBufferCapacityMinimum(
         const Protocol &protocol, const Bus &bus,
-        const DataBufferIndex_t bufferIndex) throw (FeatureException) {
+        const DataBufferIndex_t bufferIndex)  {
 
     DataBufferProtocolInterface *buffer = NULL;
     ProtocolHelper *proto = NULL;
@@ -154,7 +154,7 @@ DataBufferElementCount_t DataBufferFeatureBase::getBufferCapacityMinimum(
     try {
         proto = lookupProtocolImpl(protocol);
         buffer = static_cast<DataBufferProtocolInterface *>(proto);
-    } catch (FeatureProtocolNotFoundException fpnfe) {
+    } catch (FeatureProtocolNotFoundException &fpnfe) {
         string error(
                 "Could not find matching protocol implementation to get data buffer minimum capacity.");
         /* FIXME: previous exception should probably be bundled up into the new exception */
@@ -176,7 +176,7 @@ DataBufferElementCount_t DataBufferFeatureBase::getBufferCapacityMinimum(
 
 DataBufferElementCount_t DataBufferFeatureBase::getBufferCapacityMaximum(
         const Protocol &protocol, const Bus &bus,
-        const DataBufferIndex_t bufferIndex) throw (FeatureException) {
+        const DataBufferIndex_t bufferIndex)  {
 
     DataBufferProtocolInterface *buffer = NULL;
     ProtocolHelper *proto = NULL;
@@ -184,7 +184,7 @@ DataBufferElementCount_t DataBufferFeatureBase::getBufferCapacityMaximum(
     try {
         proto = lookupProtocolImpl(protocol);
         buffer = static_cast<DataBufferProtocolInterface *>(proto);
-    } catch (FeatureProtocolNotFoundException fpnfe) {
+    } catch (FeatureProtocolNotFoundException &fpnfe) {
         string error(
                 "Could not find matching protocol implementation to get data buffer maximum capacity.");
         /* FIXME: previous exception should probably be bundled up into the new exception */
@@ -206,7 +206,7 @@ DataBufferElementCount_t DataBufferFeatureBase::getBufferCapacityMaximum(
 
 void DataBufferFeatureBase::setBufferCapacity(const Protocol &protocol,
         const Bus &bus, const DataBufferIndex_t bufferIndex,
-        const DataBufferElementCount_t bufferSize) throw (FeatureException) {
+        const DataBufferElementCount_t bufferSize)  {
 
     DataBufferProtocolInterface *buffer = NULL;
     ProtocolHelper *proto = NULL;
@@ -214,7 +214,7 @@ void DataBufferFeatureBase::setBufferCapacity(const Protocol &protocol,
     try {
         proto = lookupProtocolImpl(protocol);
         buffer = static_cast<DataBufferProtocolInterface *>(proto);
-    } catch (FeatureProtocolNotFoundException fpnfe) {
+    } catch (FeatureProtocolNotFoundException &fpnfe) {
         string error(
                 "Could not find matching protocol implementation to set data buffer capacity.");
         /* FIXME: previous exception should probably be bundled up into the new exception */

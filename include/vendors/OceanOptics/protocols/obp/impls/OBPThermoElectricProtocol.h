@@ -43,13 +43,13 @@ namespace seabreeze {
         virtual ~OBPThermoElectricProtocol();
 
         virtual double readThermoElectricTemperatureCelsius(const Bus &bus)
-            throw (ProtocolException);
+            ;
 
         virtual void writeThermoElectricEnable(const Bus &bus, bool enable)
-            throw (ProtocolException);
+            ;
 
         virtual void writeThermoElectricSetPointCelsius(const Bus &bus,
-            double degreesC) throw (ProtocolException);
+            double degreesC) ;
     };
   }
 }

@@ -47,7 +47,7 @@ OBPGetDataBufferElementCountExchange::~OBPGetDataBufferElementCountExchange() {
 }
 
 unsigned long OBPGetDataBufferElementCountExchange::queryNumberOfElements(
-        TransferHelper *helper) throw (ProtocolException) {
+        TransferHelper *helper)  {
 
     unsigned long elementCount;
     vector<byte> *result;

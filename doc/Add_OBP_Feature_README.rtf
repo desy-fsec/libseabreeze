@@ -859,7 +859,7 @@ SpectrumProcessingFeature::~SpectrumProcessingFeature() \
 #endif\
 \
 unsigned short int SpectrumProcessingFeature::readSpectrumProcessingScansToAverage(\
-		const Protocol &protocol, const Bus &bus) throw (FeatureException) \
+		const Protocol &protocol, const Bus &bus)  \
 \{\
 \
     SpectrumProcessingProtocolInterface *processingPI = NULL;\
@@ -892,7 +892,7 @@ unsigned short int SpectrumProcessingFeature::readSpectrumProcessingScansToAvera
 \}\
 \
 void SpectrumProcessingFeature::writeSpectrumProcessingScansToAverage(const Protocol &protocol,\
-        const Bus &bus, unsigned short int scansToAverage) throw (FeatureException, IllegalArgumentException) \
+        const Bus &bus, unsigned short int scansToAverage)  \
 \{\
 \
     SpectrumProcessingProtocolInterface *processingPI = NULL;\
@@ -923,7 +923,7 @@ void SpectrumProcessingFeature::writeSpectrumProcessingScansToAverage(const Prot
 \}\
 \
 unsigned char SpectrumProcessingFeature::readSpectrumProcessingBoxcarWidth(\
-		const Protocol &protocol, const Bus &bus) throw (FeatureException) \
+		const Protocol &protocol, const Bus &bus)  \
 \{\
 \
     SpectrumProcessingProtocolInterface *processingPI = NULL;\
@@ -956,7 +956,7 @@ unsigned char SpectrumProcessingFeature::readSpectrumProcessingBoxcarWidth(\
 \}\
 \
 void SpectrumProcessingFeature::writeSpectrumProcessingBoxcarWidth(const Protocol &protocol,\
-        const Bus &bus, unsigned char boxcarWidth) throw (FeatureException, IllegalArgumentException) \
+        const Bus &bus, unsigned char boxcarWidth)  \
 \{\
 \
     SpectrumProcessingProtocolInterface *processingPI = NULL;\
@@ -1079,15 +1079,15 @@ namespace seabreeze \{\
     public:\
         virtual ~SpectrumProcessingFeatureInterface() = 0;\
         virtual unsigned char readSpectrumProcessingBoxcarWidth(const Protocol &protocol,\
-                const Bus &bus) throw (FeatureException) = 0;\
+                const Bus &bus)  = 0;\
         virtual unsigned short int readSpectrumProcessingScansToAverage(const Protocol &protocol,\
-                const Bus &bus) throw (FeatureException) = 0;\
+                const Bus &bus)  = 0;\
         virtual void writeSpectrumProcessingBoxcarWidth(const Protocol &protocol,\
                 const Bus &bus, unsigned char boxcarWidth)\
-                throw (FeatureException, IllegalArgumentException) = 0;\
+                 = 0;\
         virtual void writeSpectrumProcessingScansToAverage(const Protocol &protocol,\
                 const Bus &bus, unsigned short int scansToAverage)\
-                throw (FeatureException, IllegalArgumentException) = 0;\
+                 = 0;\
     \};\
 \
     /* Default implementation for (otherwise) pure virtual destructor */\
@@ -1150,16 +1150,16 @@ namespace seabreeze \{\
         virtual ~SpectrumProcessingFeature();\
         virtual unsigned char readSpectrumProcessingBoxcarWidth(\
         	const Protocol &protocol, const Bus &bus) \
-            throw (FeatureException);\
+            ;\
         virtual unsigned short int readSpectrumProcessingScansToAverage(\
         	const Protocol &protocol, const Bus &bus) \
-        	throw (FeatureException);\
+        	;\
         virtual void writeSpectrumProcessingBoxcarWidth(const Protocol &protocol,\
         	const Bus &bus, unsigned char boxcarWidth) \
-        	throw (FeatureException, IllegalArgumentException);\
+        	;\
         virtual void writeSpectrumProcessingScansToAverage(const Protocol &protocol,\
                 const Bus &bus, unsigned short int scansToAverage)\
-                throw (FeatureException, IllegalArgumentException);\
+                ;\
                 \
         /* Overriding from Feature */\
         virtual FeatureFamily getFeatureFamily();\
@@ -1314,13 +1314,13 @@ namespace seabreeze \{\
         SpectrumProcessingProtocolInterface(Protocol *protocol);\
         virtual ~SpectrumProcessingProtocolInterface();\
         virtual unsigned char readSpectrumProcessingBoxcarWidth(const Bus &bus)\
-                throw (ProtocolException) = 0;\
+                 = 0;\
         virtual unsigned short int readSpectrumProcessingScansToAverage(const Bus &bus)\
-                throw (ProtocolException) = 0;\
+                 = 0;\
         virtual void writeSpectrumProcessingBoxcarWidth(const Bus &bus, unsigned char boxcarWidth)\
-        		throw (ProtocolException) = 0;\
+        		 = 0;\
         virtual void writeSpectrumProcessingScansToAverage(const Bus &bus, unsigned short int scansToAverage)\
-        		throw (ProtocolException) = 0;\
+        		 = 0;\
     \};\
 \
 \}\
@@ -1634,7 +1634,7 @@ OBPSpectrumProcessingProtocol::~OBPSpectrumProcessingProtocol() \
 \
 \
 unsigned short int OBPSpectrumProcessingProtocol::readSpectrumProcessingScansToAverage(const Bus &bus)\
-                throw (ProtocolException) \
+                 \
 \{\
     vector<byte> *result = NULL;\
     unsigned short int scansToAverage;\
@@ -1668,7 +1668,7 @@ unsigned short int OBPSpectrumProcessingProtocol::readSpectrumProcessingScansToA
 \}\
 \
 void OBPSpectrumProcessingProtocol::writeSpectrumProcessingScansToAverage(\
-            const Bus &bus, unsigned short int scansToAverage) throw (ProtocolException) \
+            const Bus &bus, unsigned short int scansToAverage)  \
 \{\
 \
     OBPSetScansToAverageExchange xchange;\
@@ -1692,7 +1692,7 @@ void OBPSpectrumProcessingProtocol::writeSpectrumProcessingScansToAverage(\
     \}\
 \}\
 \
-unsigned char OBPSpectrumProcessingProtocol::readSpectrumProcessingBoxcarWidth(const Bus &bus) throw (ProtocolException) \
+unsigned char OBPSpectrumProcessingProtocol::readSpectrumProcessingBoxcarWidth(const Bus &bus)  \
 \{\
     vector<byte> *result = NULL;\
     unsigned char boxcarWidth;\
@@ -1723,7 +1723,7 @@ unsigned char OBPSpectrumProcessingProtocol::readSpectrumProcessingBoxcarWidth(c
 \
 \
 void OBPSpectrumProcessingProtocol::writeSpectrumProcessingBoxcarWidth(\
-            const Bus &bus, unsigned char boxcarWidth) throw (ProtocolException) \
+            const Bus &bus, unsigned char boxcarWidth)  \
 \{\
 \
     OBPSetBoxcarWidthExchange xchange;\
@@ -1806,13 +1806,13 @@ namespace seabreeze \{\
         SpectrumProcessingProtocolInterface(Protocol *protocol);\
         virtual ~SpectrumProcessingProtocolInterface();\
         virtual unsigned char readSpectrumProcessingBoxcarWidth(const Bus &bus)\
-                throw (ProtocolException) = 0;\
+                 = 0;\
         virtual unsigned short int readSpectrumProcessingScansToAverage(const Bus &bus)\
-                throw (ProtocolException) = 0;\
+                 = 0;\
         virtual void writeSpectrumProcessingBoxcarWidth(const Bus &bus, unsigned char boxcarWidth)\
-        		throw (ProtocolException) = 0;\
+        		 = 0;\
         virtual void writeSpectrumProcessingScansToAverage(const Bus &bus, unsigned short int scansToAverage)\
-        		throw (ProtocolException) = 0;\
+        		 = 0;\
     \};\
 \
 \}\

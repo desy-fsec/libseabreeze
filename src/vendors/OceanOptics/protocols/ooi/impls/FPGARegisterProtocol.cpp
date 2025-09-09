@@ -50,7 +50,7 @@ FPGARegisterProtocol::~FPGARegisterProtocol() {
 }
 
 unsigned int FPGARegisterProtocol::readRegister(const Bus &bus, byte address)
-        throw (ProtocolException) {
+         {
 
     unsigned int retval = 0;
 
@@ -88,7 +88,7 @@ unsigned int FPGARegisterProtocol::readRegister(const Bus &bus, byte address)
 }
 
 void FPGARegisterProtocol::writeRegister(const Bus &bus, byte address,
-        unsigned int value) throw (ProtocolException) {
+        unsigned int value)  {
 
     FPGARegisterWriteExchange exchange(address, value);
 

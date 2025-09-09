@@ -53,7 +53,7 @@ OOIIrradCalProtocol::~OOIIrradCalProtocol() {
 }
 
 vector<float> *OOIIrradCalProtocol::readIrradCal(const Bus &bus)
-        throw (ProtocolException) {
+         {
     TransferHelper *helper;
     OOIReadIrradCalExchange readCalExchange(this->numberOfPixels);
 
@@ -96,7 +96,7 @@ vector<float> *OOIIrradCalProtocol::readIrradCal(const Bus &bus)
 
 
 int OOIIrradCalProtocol::writeIrradCal(const Bus &bus, const vector<float> &cal)
-            throw (ProtocolException) {
+             {
     TransferHelper *helper;
     int writeLength = 0;
     OOIWriteIrradCalExchange writeCalExchange(this->numberOfPixels);
@@ -125,13 +125,13 @@ int OOIIrradCalProtocol::hasCollectionArea(const Bus &bus) {
 }
 
 float OOIIrradCalProtocol::readCollectionArea(const Bus &bus)
-            throw (ProtocolException) {
+             {
     string error("OOI protocol does not support reading collection area.");
     throw ProtocolException(error);
 }
 
 void OOIIrradCalProtocol::writeCollectionArea(const Bus &bus, float area)
-            throw (ProtocolException) {
+             {
     string error("OOI protocol does not support writing collection area.");
     throw ProtocolException(error);
 }

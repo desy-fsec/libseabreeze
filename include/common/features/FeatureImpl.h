@@ -63,7 +63,7 @@ namespace seabreeze {
          * the feature is ready to be used, and false otherwise.
          */
         virtual bool initialize(const Protocol &protocol, const Bus &bus)
-            throw (FeatureException);
+            ;
 
         virtual FeatureFamily getFeatureFamily() = 0;
 
@@ -80,7 +80,7 @@ namespace seabreeze {
          * Protocol class that can be used to access certain features.
          */
         ProtocolHelper *lookupProtocolImpl(const Protocol &protocol)
-                        throw (FeatureProtocolNotFoundException);
+                        ;
     };
 
 }
