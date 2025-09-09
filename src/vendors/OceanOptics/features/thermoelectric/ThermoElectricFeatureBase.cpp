@@ -101,7 +101,7 @@ double ThermoElectricFeatureBase::getTemperatureCelsius(const Protocol &protocol
 }
 
 void ThermoElectricFeatureBase::setTemperatureSetPointCelsius(const Protocol &protocol,
-        const Bus &bus, double degreesC) throw (FeatureException, IllegalArgumentException) {
+        const Bus &bus, double degreesC)  {
 
     ThermoElectricProtocolInterface *te = NULL;
     ProtocolHelper *proto = NULL;

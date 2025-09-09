@@ -892,7 +892,7 @@ unsigned short int SpectrumProcessingFeature::readSpectrumProcessingScansToAvera
 \}\
 \
 void SpectrumProcessingFeature::writeSpectrumProcessingScansToAverage(const Protocol &protocol,\
-        const Bus &bus, unsigned short int scansToAverage) throw (FeatureException, IllegalArgumentException) \
+        const Bus &bus, unsigned short int scansToAverage)  \
 \{\
 \
     SpectrumProcessingProtocolInterface *processingPI = NULL;\
@@ -956,7 +956,7 @@ unsigned char SpectrumProcessingFeature::readSpectrumProcessingBoxcarWidth(\
 \}\
 \
 void SpectrumProcessingFeature::writeSpectrumProcessingBoxcarWidth(const Protocol &protocol,\
-        const Bus &bus, unsigned char boxcarWidth) throw (FeatureException, IllegalArgumentException) \
+        const Bus &bus, unsigned char boxcarWidth)  \
 \{\
 \
     SpectrumProcessingProtocolInterface *processingPI = NULL;\
@@ -1084,10 +1084,10 @@ namespace seabreeze \{\
                 const Bus &bus)  = 0;\
         virtual void writeSpectrumProcessingBoxcarWidth(const Protocol &protocol,\
                 const Bus &bus, unsigned char boxcarWidth)\
-                throw (FeatureException, IllegalArgumentException) = 0;\
+                 = 0;\
         virtual void writeSpectrumProcessingScansToAverage(const Protocol &protocol,\
                 const Bus &bus, unsigned short int scansToAverage)\
-                throw (FeatureException, IllegalArgumentException) = 0;\
+                 = 0;\
     \};\
 \
     /* Default implementation for (otherwise) pure virtual destructor */\
@@ -1156,10 +1156,10 @@ namespace seabreeze \{\
         	;\
         virtual void writeSpectrumProcessingBoxcarWidth(const Protocol &protocol,\
         	const Bus &bus, unsigned char boxcarWidth) \
-        	throw (FeatureException, IllegalArgumentException);\
+        	;\
         virtual void writeSpectrumProcessingScansToAverage(const Protocol &protocol,\
                 const Bus &bus, unsigned short int scansToAverage)\
-                throw (FeatureException, IllegalArgumentException);\
+                ;\
                 \
         /* Overriding from Feature */\
         virtual FeatureFamily getFeatureFamily();\

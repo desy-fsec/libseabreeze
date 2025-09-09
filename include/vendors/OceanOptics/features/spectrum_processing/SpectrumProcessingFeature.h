@@ -54,10 +54,10 @@ namespace seabreeze {
         	;
         virtual void writeSpectrumProcessingBoxcarWidth(const Protocol &protocol,
         	const Bus &bus, unsigned char boxcarWidth) 
-        	throw (FeatureException, IllegalArgumentException);
+        	;
         virtual void writeSpectrumProcessingScansToAverage(const Protocol &protocol,
                 const Bus &bus, unsigned short int scansToAverage)
-                throw (FeatureException, IllegalArgumentException);
+                ;
                 
         /* Overriding from Feature */
         virtual FeatureFamily getFeatureFamily();
