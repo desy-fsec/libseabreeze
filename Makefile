@@ -56,8 +56,8 @@ samples_install:
 rules_install:
 	mkdir -p $(DESTDIR)/etc/udev/rules.d
 	cp os-support/linux/10-oceanoptics.rules $(DESTDIR)/etc/udev/rules.d/99-oceanoptics.rules
-	
-	
+
+
 seabreeze: $(LIBNAME)
 	make -C test
 	make -C sample-code
@@ -68,11 +68,13 @@ $(LIBNAME): initialize
 	$(CPP) $(LFLAGS_LIB) -o $@ lib/*.o
 	ln -sf $(LIBNAME) $(LIBBASENAME).$(VERSION_MAJOR).$(SUFFIX)
 	ln -sf $(LIBNAME) $(LIBBASENAME).$(SUFFIX)
+	ln -sf $(LIBNAME) $(LIBBASENAME).$(SUFFIX).$(VERSION_MAJOR)
+	ln -sf $(LIBNAME) $(LIBBASENAME).$(SUFFIX).$(VERSION_MAJOR).$(VERSION_MINOR)
 
 lib/SeaBreeze.dll: initialize
 	$(MAKE) -C os-support/windows/$(VISUALSTUDIO_PROJ)
 
-initialize: 
+initialize:
 	mkdir -p $(SEABREEZE)/lib
 
 winclean:
@@ -107,17 +109,17 @@ distclean: clean doc-init
                   os-support/windows/$$VS/Set*/*.bak \
                   os-support/windows/$$VS/Set*/Debug \
                   os-support/windows/$$VS/Set*/Release ; \
-     done 
+     done
 
 doc-init:
 	@echo expunging old docs...
 	@( cd doc && $(RM) -rf html man rtf *.err *.out )
 
-doc-user: 
+doc-user:
 	@echo $(DOXYGEN_BASE)doxygen is generating the user docs...
 	@( cd doc && doxygen Doxyfile > doxygen-user.out && mv rtf/refman.rtf rtf/SeaBreezeWrapper_User_Manual.rtf )
 
-doc-dev: 
+doc-dev:
 	@echo $(DOXYGEN_BASE)doxygen is generating the developer docs...
 	@( cd doc && doxygen Doxyfile-dev > doxygen-dev.out && mv rtf/refman.rtf rtf/SeaBreeze_Developer_Manual.rtf )
 
@@ -127,4 +129,3 @@ doc: doc-init doc-user doc-dev
 	@echo
 	@ls -lah doc/rtf/*Manual.rtf
 	@echo
-
