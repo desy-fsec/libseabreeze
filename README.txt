@@ -471,7 +471,7 @@ Toshiba-based spectrometers (the USB4000 and Flame-T).  This is being investigat
 
 \section history Appendix A: Version History
 
-\date 2025-09-09 (version 3.0.11.1)
+\date 2025-09-09 (version 3.0.12)
 - remove dynamic exception specification
 - catch execption references
 
