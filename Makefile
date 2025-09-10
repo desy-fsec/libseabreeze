@@ -33,6 +33,8 @@ inc_install:
 lib_install:
 	mkdir -p $(DESTDIR)/lib
 	cp -Pr  $(LIBBASENAME)*.$(SUFFIX) $(DESTDIR)/lib
+	cp -Pr  $(LIBBASENAME)*.$(SUFFIX).$(VERSION_MAJOR) $(DESTDIR)/lib
+	cp -Pr  $(LIBBASENAME)*.$(SUFFIX).$(VERSION_MAJOR).$(VERSION_MINOR) $(DESTDIR)/lib
 
 doc_install: doc
 	mkdir -p $(DESTDIR)/share/doc/seabreeze-$(VERSION_MAJOR).$(VERSION_MINOR)
