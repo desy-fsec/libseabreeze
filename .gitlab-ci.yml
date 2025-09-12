@@ -10,8 +10,8 @@ build_debian_12:
     - branches
   script:
     - TANGO_DIR=/usr/share/pogo/preferences make
-  artifacts:     
-    name: "$PROJECT_NAME"     
+  # artifacts:     
+  #   name: "$PROJECT_NAME"     
 
-    paths:       
-      - *.so*
+  #   paths:       
+  #     - *.so*
