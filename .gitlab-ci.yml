@@ -1,0 +1,46 @@
+stages:
+  - build
+
+build_debian_13:
+  stage: build
+  image: debian:trixie
+  tags:
+    - DESY-IT
+  only:
+    - branches
+  script:
+    - apt-get update
+    - apt-get -qq -y dist-upgrade
+    - apt-get -y  install  g++ doxygen git lsb-release libjs-mathjax fonts-mathjax fonts-mathjax-extras ghostscript libusb-dev graphviz make
+    - make
+
+build_debian_12:
+  stage: build
+  image: debian:bookworm
+  tags:
+    - DESY-IT
+  only:
+    - branches
+  script:
+    - apt-get update
+    - apt-get -qq -y dist-upgrade
+    - apt-get -y  install  g++ doxygen git lsb-release libjs-mathjax fonts-mathjax fonts-mathjax-extras ghostscript libusb-dev graphviz make
+    - make
+
+build_debian_11:
+  stage: build
+  image: debian:bullseye
+  tags:
+    - DESY-IT
+  only:
+    - branches
+  script:
+    - apt-get update
+    - apt-get -qq -y dist-upgrade
+    - apt-get -y  install  g++ doxygen git lsb-release libjs-mathjax fonts-mathjax fonts-mathjax-extras ghostscript libusb-dev graphviz make
+    - make
+
+  artifacts:
+    name: "$PROJECT_NAME"
+    paths:
+      - "*.so*"
