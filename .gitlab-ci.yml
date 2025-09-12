@@ -3,7 +3,7 @@ stages:
 
 build_debian_12:
   stage: build
-  image: .ci/debian12
+  image: .ci/debian12:debian12
   tags:         
     - DESY-IT
   only:
