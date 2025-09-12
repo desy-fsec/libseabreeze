@@ -5,7 +5,7 @@ build_debian_12:
   stage: build
   image: .ci/debian12
   tags:         
-    - DESY-intern
+    - DESY-IT
   only:
     - branches
   script:
