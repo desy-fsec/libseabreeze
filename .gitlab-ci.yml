@@ -1,0 +1,17 @@
+stages:
+  - build
+
+build_debian_12:
+  stage: build
+  image: .ci/debian12
+  tags:         
+    - DESY-intern
+  only:
+    - branches
+  script:
+    - TANGO_DIR=/usr/share/pogo/preferences make
+  artifacts:     
+    name: "$PROJECT_NAME"     
+
+    paths:       
+      - *.so*
