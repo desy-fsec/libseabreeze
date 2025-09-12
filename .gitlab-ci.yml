@@ -3,15 +3,19 @@ stages:
 
 build_debian_12:
   stage: build
-  image: .ci/debian12:debian12
-  tags:         
+  image: debian:bookworm
+  tags:
     - DESY-IT
   only:
     - branches
   script:
-    - TANGO_DIR=/usr/share/pogo/preferences make
-  # artifacts:     
-  #   name: "$PROJECT_NAME"     
+    - apt-get update
+    - apt-get -qq -y dist-upgrade
+    - apt-get -y  install  g++ doxygen git lsb-release libjs-mathjax fonts-mathjax fonts-mathjax-extras ghostscript libusb-dev graphviz
+    - make
 
-  #   paths:       
+  # artifacts:
+  #   name: "$PROJECT_NAME"
+
+  #   paths:
   #     - *.so*
