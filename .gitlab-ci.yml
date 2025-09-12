@@ -11,7 +11,7 @@ build_debian_12:
   script:
     - apt-get update
     - apt-get -qq -y dist-upgrade
-    - apt-get -y  install  g++ doxygen git lsb-release libjs-mathjax fonts-mathjax fonts-mathjax-extras ghostscript libusb-dev graphviz
+    - apt-get -y  install  g++ doxygen git lsb-release libjs-mathjax fonts-mathjax fonts-mathjax-extras ghostscript libusb-dev graphviz make
     - make
 
   # artifacts:
