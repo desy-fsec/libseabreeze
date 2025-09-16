@@ -12,7 +12,7 @@ Fork from SVN-Repository at https://sourceforge.net/projects/seabreeze/
 In order to install `libseabreeze`  on a Linux system the following software packages
 are requiered
 
-* a C++17 compatiable compiler
+* c++17 compatiable compiler
 * libusb-0.1
 * doxygen in order to build the documentation
 
@@ -24,3 +24,10 @@ $ git clone https://github.com/desy-fsec/libseabreeze.git
 $ cd libseabreeze
 $ make
 ```
+
+## Differences to original Repository
+
+* remove dynamic exception specification (not supported anymore)
+* replace back `seebreeze::byte` by `unsigned int` (conflict with `std::byte`)
+* catch references instead of raw objects
+* add the `-std=c++17` flag
