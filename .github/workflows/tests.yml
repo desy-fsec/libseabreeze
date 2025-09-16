@@ -34,7 +34,7 @@ jobs:
         run: docker run --name build -it -d -v`pwd`:/home/p00user --user `id -u`:`id -g`  build
 
       - name: Build all
-        run: docker exec -u p00user build /bin/bash -c "mkdir lib && pwd && ls -ltr && make"
+        run: docker exec -u root build /bin/bash -c "mkdir lib && pwd && ls -ltr && make"
 
 
       - name: Stop the docker
