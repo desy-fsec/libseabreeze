@@ -18,7 +18,10 @@ RUN apt-get install -y g++  g++ doxygen git lsb-release libjs-mathjax fonts-math
 
 RUN apt-get clean
 
+<<<<<<< HEAD
 # add p00user
 RUN useradd -rm -d /home/p00user -s /bin/bash p00user
 USER p00user
 WORKDIR /home/p00user
+=======
+>>>>>>> 070af68bde335bd242f73cae5ae3aed342bb6e32
