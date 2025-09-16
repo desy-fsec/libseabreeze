@@ -21,4 +21,5 @@ RUN apt-get clean
 
 RUN useradd -rm -d /home/p00user -s /bin/bash p00user
 USER p00user
-WORKDIR /home/p00user
+RUN mkdir -p /home/p00user/src
+WORKDIR /home/p00user/src
