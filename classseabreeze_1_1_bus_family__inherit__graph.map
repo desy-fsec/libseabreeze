@@ -1,0 +1,8 @@
+<map id="seabreeze::BusFamily" name="seabreeze::BusFamily">
+<area shape="rect" id="node1" title=" " alt="" coords="503,5,667,127"/>
+<area shape="rect" id="node2" href="$classseabreeze_1_1_ethernet_bus_family.html" title=" " alt="" coords="5,175,224,267"/>
+<area shape="rect" id="node3" href="$classseabreeze_1_1_r_s232_bus_family.html" title=" " alt="" coords="248,175,453,267"/>
+<area shape="rect" id="node4" href="$classseabreeze_1_1_t_c_p_i_pv4_bus_family.html" title=" " alt="" coords="477,175,693,267"/>
+<area shape="rect" id="node5" href="$classseabreeze_1_1_u_d_p_i_pv4_bus_family.html" title=" " alt="" coords="718,175,938,267"/>
+<area shape="rect" id="node6" href="$classseabreeze_1_1_u_s_b_bus_family.html" title=" " alt="" coords="962,175,1153,267"/>
+</map>

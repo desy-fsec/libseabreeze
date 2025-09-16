@@ -1,0 +1,24 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classseabreeze_1_1_feature_family.html" title=" " alt="" coords="5,666,195,693"/>
+<area shape="rect" id="node2" href="$classseabreeze_1_1api_1_1_acquisition_delay_feature_family.html" title=" " alt="" coords="259,5,457,47"/>
+<area shape="rect" id="node3" href="$classseabreeze_1_1api_1_1_continuous_strobe_feature_family.html" title=" " alt="" coords="259,71,457,112"/>
+<area shape="rect" id="node4" href="$classseabreeze_1_1api_1_1_data_buffer_feature_family.html" title=" " alt="" coords="261,136,455,177"/>
+<area shape="rect" id="node5" href="$classseabreeze_1_1api_1_1_e_e_p_r_o_m_feature_family.html" title=" " alt="" coords="243,201,473,243"/>
+<area shape="rect" id="node6" href="$classseabreeze_1_1api_1_1_irrad_cal_feature_family.html" title=" " alt="" coords="270,267,446,308"/>
+<area shape="rect" id="node7" href="$classseabreeze_1_1api_1_1_light_source_feature_family.html" title=" " alt="" coords="257,332,459,373"/>
+<area shape="rect" id="node8" href="$classseabreeze_1_1api_1_1_nonlinearity_coeffs_feature_family.html" title=" " alt="" coords="255,397,461,439"/>
+<area shape="rect" id="node9" href="$classseabreeze_1_1api_1_1_optical_bench_feature_family.html" title=" " alt="" coords="253,463,463,504"/>
+<area shape="rect" id="node10" href="$classseabreeze_1_1api_1_1_pixel_binning_feature_family.html" title=" " alt="" coords="255,528,461,569"/>
+<area shape="rect" id="node11" href="$classseabreeze_1_1api_1_1_raw_u_s_b_bus_access_feature_family.html" title=" " alt="" coords="256,593,460,635"/>
+<area shape="rect" id="node12" href="$classseabreeze_1_1api_1_1_revision_feature_family.html" title=" " alt="" coords="267,659,449,700"/>
+<area shape="rect" id="node13" href="$classseabreeze_1_1api_1_1_serial_number_feature_family.html" title=" " alt="" coords="251,724,465,765"/>
+<area shape="rect" id="node14" href="$classseabreeze_1_1api_1_1_shutter_feature_family.html" title=" " alt="" coords="247,789,469,831"/>
+<area shape="rect" id="node15" href="$classseabreeze_1_1api_1_1_spectrometer_feature_family.html" title=" " alt="" coords="251,855,465,896"/>
+<area shape="rect" id="node16" href="$classseabreeze_1_1api_1_1_spectrum_processing_feature_family.html" title=" " alt="" coords="265,920,451,961"/>
+<area shape="rect" id="node17" href="$classseabreeze_1_1api_1_1_stray_light_coeffs_feature_family.html" title=" " alt="" coords="263,985,453,1027"/>
+<area shape="rect" id="node18" href="$classseabreeze_1_1api_1_1_strobe_lamp_feature_family.html" title=" " alt="" coords="257,1051,459,1092"/>
+<area shape="rect" id="node19" href="$classseabreeze_1_1api_1_1_temperature_feature_family.html" title=" " alt="" coords="255,1116,461,1157"/>
+<area shape="rect" id="node20" href="$classseabreeze_1_1api_1_1_thermo_electric_feature_family.html" title=" " alt="" coords="247,1181,469,1223"/>
+<area shape="rect" id="node21" href="$classseabreeze_1_1api_1_1_undefined_feature_family.html" title=" " alt="" coords="263,1247,453,1288"/>
+<area shape="rect" id="node22" href="$classseabreeze_1_1api_1_1_wave_cal_feature_family.html" title=" " alt="" coords="243,1312,473,1353"/>
+</map>

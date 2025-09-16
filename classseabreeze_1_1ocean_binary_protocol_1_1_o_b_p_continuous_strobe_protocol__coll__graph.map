@@ -1,0 +1,15 @@
+<map id="seabreeze::oceanBinaryProtocol::OBPContinuousStrobeProtocol" name="seabreeze::oceanBinaryProtocol::OBPContinuousStrobeProtocol">
+<area shape="rect" id="node1" title=" " alt="" coords="268,1296,521,1447"/>
+<area shape="rect" id="node2" href="$classseabreeze_1_1_continuous_strobe_protocol_interface.html" title=" " alt="" coords="5,1053,232,1233"/>
+<area shape="rect" id="node3" href="$classseabreeze_1_1_protocol_helper.html" title=" " alt="" coords="22,875,215,997"/>
+<area shape="rect" id="node4" href="$classseabreeze_1_1_protocol.html" title=" " alt="" coords="37,655,201,805"/>
+<area shape="rect" id="node5" href="$classseabreeze_1_1ocean_binary_protocol_1_1_o_b_p_continuous_strobe_period_exchange.html" title=" " alt="" coords="257,1061,533,1226"/>
+<area shape="rect" id="node6" href="$classseabreeze_1_1ocean_binary_protocol_1_1_o_b_p_command.html" title=" " alt="" coords="447,868,678,1004"/>
+<area shape="rect" id="node13" href="$classseabreeze_1_1ocean_binary_protocol_1_1_o_b_p_continuous_strobe_enable_exchange.html" title=" " alt="" coords="557,1068,835,1219"/>
+<area shape="rect" id="node7" href="$classseabreeze_1_1ocean_binary_protocol_1_1_o_b_p_transaction.html" title=" " alt="" coords="291,655,522,805"/>
+<area shape="rect" id="node8" title=" " alt="" coords="320,500,493,592"/>
+<area shape="rect" id="node9" href="$classseabreeze_1_1_protocol_hint.html" title=" " alt="" coords="318,287,495,437"/>
+<area shape="rect" id="node10" title=" " alt="" coords="363,147,450,224"/>
+<area shape="rect" id="node11" title=" " alt="" coords="337,5,476,97"/>
+<area shape="rect" id="node12" title=" " alt="" coords="547,684,712,776"/>
+</map>

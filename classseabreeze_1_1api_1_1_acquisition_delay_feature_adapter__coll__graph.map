@@ -1,0 +1,9 @@
+<map id="seabreeze::api::AcquisitionDelayFeatureAdapter" name="seabreeze::api::AcquisitionDelayFeatureAdapter">
+<area shape="rect" id="node1" title=" " alt="" coords="507,521,774,760"/>
+<area shape="rect" id="node2" href="$classseabreeze_1_1api_1_1_feature_adapter_template.html" title=" " alt="" coords="513,292,769,472"/>
+<area shape="rect" id="node3" href="$classseabreeze_1_1api_1_1_feature_adapter_interface.html" title=" " alt="" coords="5,57,231,178"/>
+<area shape="rect" id="node4" href="$classseabreeze_1_1_acquisition_delay_feature_interface.html" title=" " alt="" coords="255,5,522,229"/>
+<area shape="rect" id="node5" href="$classseabreeze_1_1_feature_family.html" title=" " alt="" coords="546,42,735,193"/>
+<area shape="rect" id="node6" href="$classseabreeze_1_1_protocol.html" title=" " alt="" coords="760,42,924,193"/>
+<area shape="rect" id="node7" href="$classseabreeze_1_1_bus.html" title=" " alt="" coords="948,27,1083,207"/>
+</map>

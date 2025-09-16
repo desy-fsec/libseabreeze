@@ -1,0 +1,10 @@
+<map id="seabreeze::ThermoElectricQEFeature" name="seabreeze::ThermoElectricQEFeature">
+<area shape="rect" id="node1" title=" " alt="" coords="177,1075,399,1240"/>
+<area shape="rect" id="node2" href="$classseabreeze_1_1_thermo_electric_feature_base.html" title=" " alt="" coords="163,801,413,1025"/>
+<area shape="rect" id="node3" href="$classseabreeze_1_1_feature_impl.html" title=" " alt="" coords="19,594,194,730"/>
+<area shape="rect" id="node4" href="$classseabreeze_1_1_feature.html" title=" " alt="" coords="5,403,165,509"/>
+<area shape="rect" id="node5" title=" " alt="" coords="189,410,363,502"/>
+<area shape="rect" id="node6" href="$classseabreeze_1_1_protocol_helper.html" title=" " alt="" coords="179,219,373,340"/>
+<area shape="rect" id="node7" href="$classseabreeze_1_1_protocol.html" title=" " alt="" coords="194,5,358,156"/>
+<area shape="rect" id="node8" href="$classseabreeze_1_1_thermo_electric_feature_interface.html" title=" " alt="" coords="218,572,481,752"/>
+</map>

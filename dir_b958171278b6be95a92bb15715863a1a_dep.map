@@ -1,0 +1,16 @@
+<map id="eeprom_slots" name="eeprom_slots">
+<area shape="rect" id="node1" href="dir_08ea958299680d5146e88c826b03c979.html" title="serial_number" alt="" coords="27,148,141,196"/>
+<area shape="rect" id="node2" href="dir_69f93917990bb391c4b0fa92d88b1df7.html" title="nonlinearity" alt="" coords="166,148,266,196"/>
+<area shape="rect" id="node3" href="dir_7404ec6852d81b2eea6301d3948b25cb.html" title="stray_light" alt="" coords="291,148,381,196"/>
+<area shape="rect" id="node4" href="dir_a41c78fcde9efeb92c3ec5d88200cba6.html" title="spectrometer" alt="" coords="405,148,515,196"/>
+<area shape="rect" id="node5" href="dir_b0aadfe3ca4ba9e6ecd95aa50f0f3905.html" title="wavecal" alt="" coords="539,148,615,196"/>
+<area shape="rect" id="node6" href="dir_b958171278b6be95a92bb15715863a1a.html" title="eeprom_slots" alt="" coords="342,52,453,100"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000011_000045.html" title="1" alt="" coords="157,147,166,162"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000011_000030.html" title="1" alt="" coords="276,140,285,154"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000011_000049.html" title="1" alt="" coords="363,130,373,145"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000011_000047.html" title="1" alt="" coords="437,121,446,135"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000011_000058.html" title="1" alt="" coords="522,128,532,142"/>
+<area shape="rect" id="node7" href="dir_0966d06610f72609fd9aa4979c2b5a92.html" title="common" alt="" coords="639,148,718,196"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000011_000004.html" title="19" alt="" coords="617,129,634,144"/>
+<area shape="rect" id="clust1" href="dir_b685892470f4447ad1be41b4329bf8fe.html" title="features" alt="" coords="16,16,627,207"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="seabreeze::api::ShutterFeatureAdapter" name="seabreeze::api::ShutterFeatureAdapter">
+<area shape="rect" id="node1" title=" " alt="" coords="475,463,697,584"/>
+<area shape="rect" id="node2" href="$classseabreeze_1_1api_1_1_feature_adapter_template.html" title=" " alt="" coords="453,248,719,413"/>
+<area shape="rect" id="node3" href="$classseabreeze_1_1api_1_1_feature_adapter_interface.html" title=" " alt="" coords="5,35,231,156"/>
+<area shape="rect" id="node4" href="$classseabreeze_1_1_shutter_feature_interface.html" title=" " alt="" coords="255,42,467,149"/>
+<area shape="rect" id="node5" href="$classseabreeze_1_1_feature_family.html" title=" " alt="" coords="491,20,681,171"/>
+<area shape="rect" id="node6" href="$classseabreeze_1_1_protocol.html" title=" " alt="" coords="705,20,869,171"/>
+<area shape="rect" id="node7" href="$classseabreeze_1_1_bus.html" title=" " alt="" coords="893,5,1028,185"/>
+</map>

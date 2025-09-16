@@ -1,0 +1,6 @@
+<map id="seabreeze::RS232Interface" name="seabreeze::RS232Interface">
+<area shape="rect" id="node1" title=" " alt="" coords="144,351,340,545"/>
+<area shape="rect" id="node2" href="$classseabreeze_1_1_bus.html" title=" " alt="" coords="5,57,140,237"/>
+<area shape="rect" id="node3" href="$classseabreeze_1_1_r_s232.html" title=" " alt="" coords="165,5,319,288"/>
+<area shape="rect" id="node4" href="$classseabreeze_1_1_device_locator_interface.html" title=" " alt="" coords="344,64,553,229"/>
+</map>
