@@ -31,10 +31,10 @@ jobs:
         run: docker build -t build .ci/${OS}
 
       - name: Run the docker
-        run: docker run --user p00user --name build -it -d -v`pwd`:/home/p00user   build
+        run: docker run --name build -it -d -v`pwd`:/home/p00user   build
 
       - name: Build all
-        run: docker exec build /bin/bash -c "make"
+        run: docker exec -u p00user build /bin/bash -c "make"
 
 
       - name: Stop the docker
