@@ -33,9 +33,11 @@ jobs:
       - name: Run the docker
         run: docker run --name build -it -d -v`pwd`:/home/p00user  build
 
-      - name: Build all
+      - name: Build lib
         run: docker exec -u root build /bin/bash -c "make"
 
+      - name: Build doc
+        run: docker exec -u root build /bin/bash -c "make doc"
 
       - name: Stop the docker
         run: docker container stop build
