@@ -48,7 +48,7 @@ jobs:
              docker  exec build /bin/bash -c "git config remote.origin.fetch '+refs/heads/*:refs/remotes/origin/*'"
              docker  exec build /bin/bash -c "git fetch && git clean -fd && git checkout gh-pages && git pull"
              docker  exec build /bin/bash -c "shopt -u dotglob && rm -rf *"
-             docker  exec build /bin/bash -c "mv -f ../build/share/doc/seabreeze*/* ./"
+             docker  exec build /bin/bash -c "mv -f ../build/share/doc/seabreeze*/html/* ./"
         
       - name: Deploy documentation
         if: (github.ref == 'refs/heads/master') && matrix.os == 'debian13'
