@@ -37,7 +37,7 @@ jobs:
         run: docker exec -u root build /bin/bash -c "mkdir ../build && DESTDIR=../build make && DESTDIR=../build make lib_install"
 
       - name: Build doc
-        run: docker exec -u root build /bin/bash -c "mkdir ../build && DESTDIR=../build make doc_install"
+        run: docker exec -u root build /bin/bash -c "DESTDIR=../build make doc_install"
 
       - name: Append documentation for the latest release version
         if: (! startsWith(github.ref, 'refs/heads/docs_')) && matrix.os == 'debian13'
