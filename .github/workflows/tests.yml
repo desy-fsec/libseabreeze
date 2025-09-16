@@ -31,11 +31,7 @@ jobs:
         run: docker build -t build .ci/${OS}
 
       - name: Run the docker
-<<<<<<< HEAD
         run: docker run --name build -it -d -v`pwd`:/home/p00user  build
-=======
-        run: docker run --name build -it -d   build
->>>>>>> 070af68bde335bd242f73cae5ae3aed342bb6e32
 
       - name: Build all
         run: docker exec -u root build /bin/bash -c "make"
