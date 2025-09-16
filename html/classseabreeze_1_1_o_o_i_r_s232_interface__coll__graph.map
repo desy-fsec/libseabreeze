@@ -1,0 +1,13 @@
+<map id="seabreeze::OOIRS232Interface" name="seabreeze::OOIRS232Interface">
+<area shape="rect" id="Node000001" title=" " alt="" coords="208,701,405,867"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1_r_s232_interface.html" title=" " alt="" coords="123,413,296,639"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="259,651,278,700,273,702,254,653"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1_bus.html" title=" " alt="" coords="5,75,120,281"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="111,292,134,350,162,412,157,414,130,352,106,295"/>
+<area shape="rect" id="Node000004" href="$classseabreeze_1_1_r_s232.html" title=" " alt="" coords="144,5,275,351"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="212,351,212,397,207,397,207,351"/>
+<area shape="rect" id="Node000005" href="$classseabreeze_1_1_device_locator_interface.html" title=" " alt="" coords="299,88,477,268"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="344,269,277,400,272,397,340,267"/>
+<area shape="rect" id="Node000006" href="$classseabreeze_1_1_transfer_helper.html" title=" " alt="" coords="320,463,488,589"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="383,590,346,687,341,685,378,588"/>
+</map>

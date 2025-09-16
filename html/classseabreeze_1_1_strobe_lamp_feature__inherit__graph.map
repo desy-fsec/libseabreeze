@@ -1,0 +1,9 @@
+<map id="seabreeze::StrobeLampFeature" name="seabreeze::StrobeLampFeature">
+<area shape="rect" id="Node000001" title=" " alt="" coords="84,352,280,477"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1_feature_impl.html" title=" " alt="" coords="5,159,156,304"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,315,150,350,145,353,125,317"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1_feature.html" title=" " alt="" coords="13,5,148,111"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="83,125,83,158,78,158,78,125"/>
+<area shape="rect" id="Node000004" href="$classseabreeze_1_1_strobe_lamp_feature_interface.html" title=" " alt="" coords="180,181,387,281"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="252,295,219,353,214,350,247,292"/>
+</map>

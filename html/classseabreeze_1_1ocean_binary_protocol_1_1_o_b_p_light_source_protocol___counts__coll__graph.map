@@ -1,0 +1,13 @@
+<map id="seabreeze::oceanBinaryProtocol::OBPLightSourceProtocol_Counts" name="seabreeze::oceanBinaryProtocol::OBPLightSourceProtocol_Counts">
+<area shape="rect" id="Node000001" title=" " alt="" coords="172,896,388,1065"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1ocean_binary_protocol_1_1_o_b_p_light_source_protocol.html" title=" " alt="" coords="9,652,212,832"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,842,222,894,218,898,180,845"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1_light_source_protocol_interface.html" title=" " alt="" coords="5,408,216,588"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="113,602,113,652,108,652,108,602"/>
+<area shape="rect" id="Node000004" href="$classseabreeze_1_1_protocol_helper.html" title=" " alt="" coords="27,233,195,359"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="113,372,113,408,108,408,108,372"/>
+<area shape="rect" id="Node000005" href="$classseabreeze_1_1_protocol.html" title=" " alt="" coords="41,5,180,171"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="113,171,113,216,108,216,108,171"/>
+<area shape="rect" id="Node000006" href="$classseabreeze_1_1_light_source_protocol_interface___counts.html" title=" " alt="" coords="236,637,439,847"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="312,861,303,896,298,895,306,859"/>
+</map>

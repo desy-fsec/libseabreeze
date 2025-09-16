@@ -1,0 +1,15 @@
+<map id="seabreeze::BusException" name="seabreeze::BusException">
+<area shape="rect" id="Node000001" title=" " alt="" coords="265,232,427,297"/>
+<area shape="rect" id="Node000004" href="$classseabreeze_1_1_bus_connect_exception.html" title=" " alt="" coords="5,345,217,411"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="268,306,179,348,177,343,266,301"/>
+<area shape="rect" id="Node000005" href="$classseabreeze_1_1_bus_transfer_exception.html" title=" " alt="" coords="241,345,451,411"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="349,311,349,345,343,345,343,311"/>
+<area shape="rect" id="Node000006" href="$classseabreeze_1_1_socket_exception.html" title=" " alt="" coords="475,345,657,411"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="422,301,505,343,502,348,419,306"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="288,119,404,184"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="349,198,349,232,343,232,343,198"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="298,5,394,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="349,84,349,119,343,119,343,84"/>
+<area shape="rect" id="Node000007" href="$classseabreeze_1_1_socket_timeout_exception.html" title=" " alt="" coords="476,459,656,539"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="569,425,569,458,563,458,563,425"/>
+</map>

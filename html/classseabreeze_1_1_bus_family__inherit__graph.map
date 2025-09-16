@@ -1,0 +1,13 @@
+<map id="seabreeze::BusFamily" name="seabreeze::BusFamily">
+<area shape="rect" id="Node000001" title=" " alt="" coords="459,5,603,131"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1_ethernet_bus_family.html" title=" " alt="" coords="5,179,199,264"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="447,100,212,181,200,186,198,181,210,176,445,95"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1_r_s232_bus_family.html" title=" " alt="" coords="223,179,407,264"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="449,130,376,181,373,176,446,125"/>
+<area shape="rect" id="Node000004" href="$classseabreeze_1_1_t_c_p_i_pv4_bus_family.html" title=" " alt="" coords="432,179,631,264"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="534,145,534,178,529,178,529,145"/>
+<area shape="rect" id="Node000005" href="$classseabreeze_1_1_u_d_p_i_pv4_bus_family.html" title=" " alt="" coords="654,179,854,264"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="616,124,694,176,691,181,613,128"/>
+<area shape="rect" id="Node000006" href="$classseabreeze_1_1_u_s_b_bus_family.html" title=" " alt="" coords="879,179,1051,264"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="617,93,736,131,867,176,879,181,877,186,865,181,734,136,616,98"/>
+</map>

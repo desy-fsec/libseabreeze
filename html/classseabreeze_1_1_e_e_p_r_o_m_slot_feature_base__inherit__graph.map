@@ -1,0 +1,27 @@
+<map id="seabreeze::EEPROMSlotFeatureBase" name="seabreeze::EEPROMSlotFeatureBase">
+<area shape="rect" id="Node000001" title=" " alt="" coords="618,352,855,517"/>
+<area shape="rect" id="Node000004" href="$classseabreeze_1_1_e_e_p_r_o_m_slot_feature.html" title=" " alt="" coords="5,587,212,753"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="605,454,517,470,419,493,319,525,225,568,192,589,189,585,222,563,317,520,418,488,516,465,604,449"/>
+<area shape="rect" id="Node000005" href="$classseabreeze_1_1_nonlinearity_e_e_p_r_o_m_slot_feature.html" title=" " alt="" coords="236,600,472,740"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="607,499,545,532,485,568,436,602,433,598,482,563,542,527,604,494"/>
+<area shape="rect" id="Node000006" href="$classseabreeze_1_1_saturation_e_e_p_r_o_m_slot_feature_base.html" title=" " alt="" coords="496,565,719,775"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="687,530,667,567,662,564,683,528"/>
+<area shape="rect" id="Node000010" href="$classseabreeze_1_1_serial_number_e_e_p_r_o_m_slot_feature.html" title=" " alt="" coords="743,590,989,750"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="791,528,824,588,820,591,786,530"/>
+<area shape="rect" id="Node000011" href="$classseabreeze_1_1_stray_light_e_e_p_r_o_m_slot_feature.html" title=" " alt="" coords="1014,600,1241,740"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="869,490,936,525,1002,563,1050,598,1047,602,999,568,934,529,866,495"/>
+<area shape="rect" id="Node000012" href="$classseabreeze_1_1_wavelength_e_e_p_r_o_m_slot_feature.html" title=" " alt="" coords="1265,590,1499,750"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="869,451,958,467,1056,491,1157,522,1254,563,1294,588,1292,592,1251,568,1155,527,1054,496,956,472,868,456"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1_feature_impl.html" title=" " alt="" coords="661,159,812,304"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="739,318,739,352,734,352,734,318"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1_feature.html" title=" " alt="" coords="669,5,804,111"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="739,125,739,158,734,158,734,125"/>
+<area shape="rect" id="Node000007" href="$classseabreeze_1_1_saturation_e_e_p_r_o_m_slot_feature.html" title=" " alt="" coords="245,837,471,957"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="487,783,425,839,422,835,484,779"/>
+<area shape="rect" id="Node000008" href="$classseabreeze_1_1_saturation_e_e_p_r_o_m_slot_feature___maya_pro.html" title=" " alt="" coords="496,823,719,972"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="610,789,610,822,605,822,605,789"/>
+<area shape="rect" id="Node000009" href="$classseabreeze_1_1_saturation_e_e_p_r_o_m_slot_feature___n_i_r_quest.html" title=" " alt="" coords="743,823,965,972"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="730,780,775,821,772,824,727,784"/>
+<area shape="rect" id="Node000013" href="$classseabreeze_1_1_wavelength_e_e_p_r_o_m_slot_feature___q_e65000.html" title=" " alt="" coords="1267,823,1497,972"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="1385,764,1385,822,1379,822,1379,764"/>
+</map>

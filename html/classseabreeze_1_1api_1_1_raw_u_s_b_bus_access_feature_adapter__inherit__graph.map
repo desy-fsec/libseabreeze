@@ -1,0 +1,7 @@
+<map id="seabreeze::api::RawUSBBusAccessFeatureAdapter" name="seabreeze::api::RawUSBBusAccessFeatureAdapter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,496,259,636"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1api_1_1_feature_adapter_template.html" title=" " alt="" coords="9,173,255,448"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,462,135,495,129,495,129,462"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1api_1_1_feature_adapter_interface.html" title=" " alt="" coords="34,5,230,125"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="135,139,135,173,129,173,129,139"/>
+</map>

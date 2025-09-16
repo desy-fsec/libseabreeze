@@ -1,9 +1,0 @@
-<map id="seabreeze::BusException" name="seabreeze::BusException">
-<area shape="rect" id="node1" title=" " alt="" coords="295,256,480,333"/>
-<area shape="rect" id="node4" href="$classseabreeze_1_1_bus_connect_exception.html" title=" " alt="" coords="5,381,244,459"/>
-<area shape="rect" id="node5" href="$classseabreeze_1_1_bus_transfer_exception.html" title=" " alt="" coords="269,381,506,459"/>
-<area shape="rect" id="node6" href="$classseabreeze_1_1_socket_exception.html" title=" " alt="" coords="531,381,735,459"/>
-<area shape="rect" id="node2" title=" " alt="" coords="318,131,457,208"/>
-<area shape="rect" id="node3" title=" " alt="" coords="330,5,445,83"/>
-<area shape="rect" id="node7" href="$classseabreeze_1_1_socket_timeout_exception.html" title=" " alt="" coords="529,507,737,599"/>
-</map>

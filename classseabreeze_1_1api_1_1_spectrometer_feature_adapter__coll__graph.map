@@ -1,9 +1,0 @@
-<map id="seabreeze::api::SpectrometerFeatureAdapter" name="seabreeze::api::SpectrometerFeatureAdapter">
-<area shape="rect" id="node1" title=" " alt="" coords="523,595,780,907"/>
-<area shape="rect" id="node2" href="$classseabreeze_1_1api_1_1_feature_adapter_template.html" title=" " alt="" coords="522,365,781,545"/>
-<area shape="rect" id="node3" href="$classseabreeze_1_1api_1_1_feature_adapter_interface.html" title=" " alt="" coords="5,93,231,215"/>
-<area shape="rect" id="node4" href="$classseabreeze_1_1_o_o_i_spectrometer_feature_interface.html" title=" " alt="" coords="255,5,533,303"/>
-<area shape="rect" id="node5" href="$classseabreeze_1_1_feature_family.html" title=" " alt="" coords="557,79,746,229"/>
-<area shape="rect" id="node6" href="$classseabreeze_1_1_protocol.html" title=" " alt="" coords="771,79,935,229"/>
-<area shape="rect" id="node7" href="$classseabreeze_1_1_bus.html" title=" " alt="" coords="959,64,1093,244"/>
-</map>

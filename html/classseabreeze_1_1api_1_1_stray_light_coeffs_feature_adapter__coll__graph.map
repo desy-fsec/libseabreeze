@@ -1,0 +1,15 @@
+<map id="seabreeze::api::StrayLightCoeffsFeatureAdapter" name="seabreeze::api::StrayLightCoeffsFeatureAdapter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="409,517,629,652"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1api_1_1_feature_adapter_template.html" title=" " alt="" coords="409,273,629,468"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="522,482,522,517,517,517,517,482"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1api_1_1_feature_adapter_interface.html" title=" " alt="" coords="5,48,201,168"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="174,175,216,208,313,269,410,318,408,323,311,273,212,213,170,179"/>
+<area shape="rect" id="Node000004" href="$classseabreeze_1_1_stray_light_coeffs_feature_interface.html" title=" " alt="" coords="226,51,413,165"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="365,164,438,259,433,262,361,167"/>
+<area shape="rect" id="Node000005" href="$classseabreeze_1_1_feature_family.html" title=" " alt="" coords="437,25,602,191"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="522,191,522,257,517,257,517,191"/>
+<area shape="rect" id="Node000006" href="$classseabreeze_1_1_protocol.html" title=" " alt="" coords="626,25,765,191"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="642,192,596,261,591,258,638,189"/>
+<area shape="rect" id="Node000007" href="$classseabreeze_1_1_bus.html" title=" " alt="" coords="789,5,903,211"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="790,200,778,213,714,265,645,309,643,304,711,261,775,209,786,197"/>
+</map>

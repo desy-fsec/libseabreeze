@@ -1,0 +1,9 @@
+<map id="seabreeze::oceanBinaryProtocol::OBPWaveCalProtocol" name="seabreeze::oceanBinaryProtocol::OBPWaveCalProtocol">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,577,208,697"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1_wave_cal_protocol_interface.html" title=" " alt="" coords="9,408,204,528"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,542,109,577,104,577,104,542"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1_protocol_helper.html" title=" " alt="" coords="23,233,191,359"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="109,373,109,408,104,408,104,373"/>
+<area shape="rect" id="Node000004" href="$classseabreeze_1_1_protocol.html" title=" " alt="" coords="37,5,176,171"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="109,171,109,216,104,216,104,171"/>
+</map>

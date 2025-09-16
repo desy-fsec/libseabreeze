@@ -1,0 +1,19 @@
+<map id="seabreeze::api::ProtocolFamilies" name="seabreeze::api::ProtocolFamilies">
+<area shape="rect" id="Node000001" title=" " alt="" coords="436,363,600,483"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1api_1_1_undefined_protocol_family.html" title=" " alt="" coords="5,200,193,300"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,298,176,319,205,336,258,360,314,379,421,404,419,410,312,384,256,365,202,341,173,323,147,302"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1_protocol_family.html" title=" " alt="" coords="439,5,608,151"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="427,117,207,202,194,208,192,203,205,198,425,112"/>
+<area shape="rect" id="Node000004" href="$classseabreeze_1_1api_1_1_o_o_i_protocol_family.html" title=" " alt="" coords="218,200,397,300"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="429,156,371,202,368,198,426,152"/>
+<area shape="rect" id="Node000005" href="$classseabreeze_1_1api_1_1_ocean_binary_protocol_family.html" title=" " alt="" coords="421,200,625,300"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="526,165,526,200,521,200,521,165"/>
+<area shape="rect" id="Node000006" href="$classseabreeze_1_1api_1_1_jaz_messaging_protocol_family.html" title=" " alt="" coords="650,200,863,300"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="621,147,691,198,688,202,618,151"/>
+<area shape="rect" id="Node000007" href="$classseabreeze_1_1api_1_1_virtual_protocol_family.html" title=" " alt="" coords="887,200,1079,300"/>
+<area shape="poly" id="edge10_Node000007_Node000003" title=" " alt="" coords="622,108,744,149,876,198,888,202,886,207,874,202,742,154,620,113"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="356,298,398,337,424,357,421,361,395,341,352,302"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="523,300,522,324,521,346,516,346,517,324,518,300"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="745,301,734,322,720,341,697,360,671,376,617,400,615,395,668,371,694,355,716,337,730,319,740,299"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="971,302,959,323,942,341,918,355,885,367,801,388,706,404,617,415,616,410,706,398,800,383,884,362,916,350,939,337,955,320,966,299"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="seabreeze::ProgrammableSaturationFeature" name="seabreeze::ProgrammableSaturationFeature">
+<area shape="rect" id="Node000001" title=" " alt="" coords="129,168,359,328"/>
+<area shape="rect" id="Node000004" href="$classseabreeze_1_1_programmable_saturation_feature_base.html" title=" " alt="" coords="131,376,357,585"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="247,342,247,376,241,376,241,342"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1_feature.html" title=" " alt="" coords="75,10,210,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,126,203,166,198,169,175,128"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1_programmable_saturation_feature_interface.html" title=" " alt="" coords="234,5,459,120"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="311,133,291,169,286,166,306,131"/>
+<area shape="rect" id="Node000005" href="$classseabreeze_1_1_programmable_saturation_feature_impl.html" title=" " alt="" coords="7,643,233,833"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="190,599,168,644,163,642,185,597"/>
+<area shape="rect" id="Node000006" href="$classseabreeze_1_1_saturation_e_e_p_r_o_m_slot_feature_base.html" title=" " alt="" coords="257,633,479,843"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="303,597,320,632,315,634,298,599"/>
+<area shape="rect" id="Node000007" href="$classseabreeze_1_1_saturation_e_e_p_r_o_m_slot_feature.html" title=" " alt="" coords="5,905,232,1025"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="248,851,186,907,182,903,244,847"/>
+<area shape="rect" id="Node000008" href="$classseabreeze_1_1_saturation_e_e_p_r_o_m_slot_feature___maya_pro.html" title=" " alt="" coords="257,891,479,1040"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="371,857,371,890,365,890,365,857"/>
+<area shape="rect" id="Node000009" href="$classseabreeze_1_1_saturation_e_e_p_r_o_m_slot_feature___n_i_r_quest.html" title=" " alt="" coords="503,891,726,1040"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="491,848,536,889,532,892,488,852"/>
+</map>

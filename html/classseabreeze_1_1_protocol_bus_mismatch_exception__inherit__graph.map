@@ -1,0 +1,9 @@
+<map id="seabreeze::ProtocolBusMismatchException" name="seabreeze::ProtocolBusMismatchException">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,345,225,425"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1_protocol_exception.html" title=" " alt="" coords="21,232,209,297"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,311,118,345,113,345,113,311"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="57,119,173,184"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="118,198,118,232,113,232,113,198"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="67,5,163,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="118,84,118,119,113,119,113,84"/>
+</map>

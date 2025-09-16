@@ -1,0 +1,9 @@
+<map id="seabreeze::ShutterFeature" name="seabreeze::ShutterFeature">
+<area shape="rect" id="Node000001" title=" " alt="" coords="91,352,259,477"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1_feature_impl.html" title=" " alt="" coords="5,159,156,304"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,315,145,351,141,353,122,317"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1_feature.html" title=" " alt="" coords="13,5,148,111"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="83,125,83,158,78,158,78,125"/>
+<area shape="rect" id="Node000004" href="$classseabreeze_1_1_shutter_feature_interface.html" title=" " alt="" coords="181,181,359,281"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="240,295,210,353,205,350,236,292"/>
+</map>

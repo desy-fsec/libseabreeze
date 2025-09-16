@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classseabreeze_1_1_protocol_hint.html" title=" " alt="" coords="5,109,168,134"/>
+<area shape="rect" id="Node000001" href="$classseabreeze_1_1ocean_binary_protocol_1_1_o_b_p_control_hint.html" title=" " alt="" coords="216,5,427,45"/>
+<area shape="poly" id="edge378_Node000000_Node000001" title=" " alt="" coords="121,100,215,55,248,43,250,48,217,60,124,105"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1ocean_binary_protocol_1_1_o_b_p_spectrum_hint.html" title=" " alt="" coords="216,69,427,109"/>
+<area shape="poly" id="edge379_Node000000_Node000002" title=" " alt="" coords="182,106,216,101,216,106,182,111"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1ooi_protocol_1_1_control_hint.html" title=" " alt="" coords="244,133,399,173"/>
+<area shape="poly" id="edge380_Node000000_Node000003" title=" " alt="" coords="182,132,244,140,244,145,182,137"/>
+<area shape="rect" id="Node000004" href="$classseabreeze_1_1ooi_protocol_1_1_spectrum_hint.html" title=" " alt="" coords="244,197,399,237"/>
+<area shape="poly" id="edge381_Node000000_Node000004" title=" " alt="" coords="124,138,217,183,250,195,248,200,215,188,121,143"/>
+</map>

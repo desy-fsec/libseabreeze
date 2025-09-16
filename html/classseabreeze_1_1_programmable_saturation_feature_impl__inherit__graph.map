@@ -1,0 +1,14 @@
+<map id="seabreeze::ProgrammableSaturationFeatureImpl" name="seabreeze::ProgrammableSaturationFeatureImpl">
+<area shape="rect" id="Node000001" title=" " alt="" coords="111,633,337,823"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1_programmable_saturation_feature_base.html" title=" " alt="" coords="6,376,231,585"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,597,186,632,181,634,166,599"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1_programmable_saturation_feature.html" title=" " alt="" coords="5,168,235,328"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="122,342,122,376,117,376,117,342"/>
+<area shape="rect" id="Node000004" href="$classseabreeze_1_1_feature.html" title=" " alt="" coords="261,10,395,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="261,126,212,170,208,166,258,122"/>
+<area shape="rect" id="Node000006" href="$classseabreeze_1_1_feature_impl.html" title=" " alt="" coords="255,408,406,553"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="331,129,333,408,328,408,326,129"/>
+<area shape="rect" id="Node000005" href="$classseabreeze_1_1_programmable_saturation_feature_interface.html" title=" " alt="" coords="7,5,233,120"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="123,134,123,168,117,168,117,134"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="297,567,267,634,262,632,292,565"/>
+</map>

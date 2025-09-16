@@ -1,0 +1,11 @@
+<map id="seabreeze::IPv4SocketDeviceLocator" name="seabreeze::IPv4SocketDeviceLocator">
+<area shape="rect" id="Node000001" title=" " alt="" coords="213,377,407,677"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1_device_locator_interface.html" title=" " alt="" coords="5,135,183,315"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,325,215,389,210,392,164,328"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1_i_pv4_network_protocol.html" title=" " alt="" coords="207,162,413,287"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="313,287,313,361,307,361,307,287"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="438,192,510,257"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="459,259,428,316,402,364,397,362,424,313,455,256"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="415,5,533,85"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="477,99,477,192,471,192,471,99"/>
+</map>

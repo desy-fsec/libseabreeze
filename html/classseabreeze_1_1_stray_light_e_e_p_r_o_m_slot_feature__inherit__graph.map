@@ -1,0 +1,11 @@
+<map id="seabreeze::StrayLightEEPROMSlotFeature" name="seabreeze::StrayLightEEPROMSlotFeature">
+<area shape="rect" id="Node000001" title=" " alt="" coords="103,565,329,705"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1_stray_light_coeffs_feature_interface.html" title=" " alt="" coords="5,377,192,492"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,502,178,564,173,567,136,505"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1_e_e_p_r_o_m_slot_feature_base.html" title=" " alt="" coords="216,352,453,517"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="281,531,260,566,255,564,277,528"/>
+<area shape="rect" id="Node000004" href="$classseabreeze_1_1_feature_impl.html" title=" " alt="" coords="259,159,410,304"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="337,318,337,352,332,352,332,318"/>
+<area shape="rect" id="Node000005" href="$classseabreeze_1_1_feature.html" title=" " alt="" coords="267,5,402,111"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="337,125,337,158,332,158,332,125"/>
+</map>

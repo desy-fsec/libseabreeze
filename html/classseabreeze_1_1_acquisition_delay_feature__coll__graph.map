@@ -1,0 +1,15 @@
+<map id="seabreeze::AcquisitionDelayFeature" name="seabreeze::AcquisitionDelayFeature">
+<area shape="rect" id="Node000001" title=" " alt="" coords="139,877,369,1161"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1_feature_impl.html" title=" " alt="" coords="19,636,169,781"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,792,183,876,179,878,135,795"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1_feature.html" title=" " alt="" coords="5,421,140,527"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="81,540,90,636,85,636,76,541"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="164,434,312,514"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="216,516,149,623,145,621,212,513"/>
+<area shape="rect" id="Node000005" href="$classseabreeze_1_1_protocol_helper.html" title=" " alt="" coords="154,233,322,359"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="241,359,241,418,235,418,235,359"/>
+<area shape="rect" id="Node000006" href="$classseabreeze_1_1_protocol.html" title=" " alt="" coords="169,5,307,171"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="241,171,241,216,235,216,235,171"/>
+<area shape="rect" id="Node000007" href="$classseabreeze_1_1_acquisition_delay_feature_interface.html" title=" " alt="" coords="193,589,424,828"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="288,842,282,877,276,876,283,841"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="seabreeze::api::SpectrometerFeatureAdapter" name="seabreeze::api::SpectrometerFeatureAdapter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="462,672,681,1041"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1api_1_1_feature_adapter_template.html" title=" " alt="" coords="459,428,684,623"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="574,637,574,672,569,672,569,637"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1api_1_1_feature_adapter_interface.html" title=" " alt="" coords="5,125,201,245"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="136,256,170,313,191,339,214,363,272,406,335,441,399,469,459,491,458,496,397,474,332,446,269,410,211,367,187,343,166,316,132,259"/>
+<area shape="rect" id="Node000004" href="$classseabreeze_1_1_o_o_i_spectrometer_feature_interface.html" title=" " alt="" coords="225,5,464,365"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="467,363,500,413,495,416,462,366"/>
+<area shape="rect" id="Node000005" href="$classseabreeze_1_1_feature_family.html" title=" " alt="" coords="489,103,654,268"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="574,268,574,411,569,411,569,268"/>
+<area shape="rect" id="Node000006" href="$classseabreeze_1_1_protocol.html" title=" " alt="" coords="678,103,817,268"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="715,269,668,367,642,415,637,412,664,364,710,267"/>
+<area shape="rect" id="Node000007" href="$classseabreeze_1_1_bus.html" title=" " alt="" coords="841,83,955,288"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="874,289,855,330,831,367,802,397,769,425,700,469,697,465,766,420,798,393,827,364,851,327,869,287"/>
+</map>

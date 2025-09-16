@@ -1,0 +1,19 @@
+<map id="seabreeze::ooiProtocol::FPGASpectrumExchange" name="seabreeze::ooiProtocol::FPGASpectrumExchange">
+<area shape="rect" id="Node000001" title=" " alt="" coords="109,1245,301,1365"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1ooi_protocol_1_1_read_spectrum_exchange.html" title=" " alt="" coords="112,1096,299,1196"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,1209,208,1245,203,1245,203,1209"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1_transfer.html" title=" " alt="" coords="140,841,271,1047"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="208,1060,208,1096,203,1096,203,1060"/>
+<area shape="rect" id="Node000004" href="$classseabreeze_1_1_exchange.html" title=" " alt="" coords="13,633,153,779"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="129,790,155,840,150,843,124,793"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="9,491,157,571"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="85,571,85,617,80,617,80,571"/>
+<area shape="rect" id="Node000006" href="$classseabreeze_1_1_protocol_hint.html" title=" " alt="" coords="5,263,160,428"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="85,428,85,474,80,474,80,428"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="47,135,119,200"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="85,200,85,246,80,246,80,200"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="23,5,142,85"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="85,99,85,134,80,134,80,99"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="177,666,317,746"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="242,747,229,826,223,825,237,746"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="seabreeze::FeatureImpl" name="seabreeze::FeatureImpl">
+<area shape="rect" id="Node000001" title=" " alt="" coords="49,589,200,735"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1_feature.html" title=" " alt="" coords="5,421,140,527"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,539,107,589,102,590,88,541"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="164,434,312,514"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="217,516,179,577,175,574,212,513"/>
+<area shape="rect" id="Node000004" href="$classseabreeze_1_1_protocol_helper.html" title=" " alt="" coords="154,233,322,359"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="241,359,241,418,235,418,235,359"/>
+<area shape="rect" id="Node000005" href="$classseabreeze_1_1_protocol.html" title=" " alt="" coords="169,5,307,171"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="241,171,241,216,235,216,235,171"/>
+</map>

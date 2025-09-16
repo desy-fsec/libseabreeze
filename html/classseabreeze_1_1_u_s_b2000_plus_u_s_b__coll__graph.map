@@ -1,0 +1,27 @@
+<map id="seabreeze::USB2000PlusUSB" name="seabreeze::USB2000PlusUSB">
+<area shape="rect" id="Node000001" title=" " alt="" coords="408,1373,600,1479"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1_o_o_i_u_s_b_interface.html" title=" " alt="" coords="411,1039,597,1324"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="507,1338,507,1373,501,1373,501,1338"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1_u_s_b_interface.html" title=" " alt="" coords="145,771,306,976"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="318,972,413,1076,409,1080,314,975"/>
+<area shape="rect" id="Node000004" href="$classseabreeze_1_1_bus.html" title=" " alt="" coords="5,383,120,588"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="96,600,134,707,166,769,161,772,130,709,91,602"/>
+<area shape="rect" id="Node000005" href="$classseabreeze_1_1_u_s_b.html" title=" " alt="" coords="144,263,307,708"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="228,708,228,754,223,754,223,708"/>
+<area shape="rect" id="Node000006" href="$classseabreeze_1_1_device_locator_interface.html" title=" " alt="" coords="331,395,509,575"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="384,577,321,709,295,758,290,755,316,707,379,575"/>
+<area shape="rect" id="Node000007" href="$classseabreeze_1_1_device_location_prober_interface.html" title=" " alt="" coords="331,813,552,933"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="459,946,478,1038,472,1039,453,947"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="577,833,725,913"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="634,914,581,1025,577,1023,630,912"/>
+<area shape="rect" id="Node000009" href="$classseabreeze_1_1_protocol_hint.html" title=" " alt="" coords="568,403,723,568"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="649,568,653,817,647,817,644,568"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="609,135,681,200"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="648,200,648,386,643,386,643,200"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="586,5,705,85"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="648,99,648,134,643,134,643,99"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="755,833,903,913"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="797,915,738,978,611,1094,607,1090,734,974,793,912"/>
+<area shape="rect" id="Node000013" href="$classseabreeze_1_1_transfer_helper.html" title=" " alt="" coords="747,423,915,548"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="833,548,832,817,827,817,828,548"/>
+</map>

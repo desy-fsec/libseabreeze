@@ -1,0 +1,9 @@
+<map id="seabreeze::ooiProtocol::SpectrumHint" name="seabreeze::ooiProtocol::SpectrumHint">
+<area shape="rect" id="Node000001" title=" " alt="" coords="9,477,156,577"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1_protocol_hint.html" title=" " alt="" coords="5,263,160,428"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,442,85,477,80,477,80,442"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="47,135,119,200"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="85,200,85,246,80,246,80,200"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="23,5,142,85"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="85,99,85,134,80,134,80,99"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="seabreeze::WavelengthEEPROMSlotFeature" name="seabreeze::WavelengthEEPROMSlotFeature">
+<area shape="rect" id="Node000001" title=" " alt="" coords="102,565,337,725"/>
+<area shape="rect" id="Node000006" href="$classseabreeze_1_1_wavelength_e_e_p_r_o_m_slot_feature___q_e65000.html" title=" " alt="" coords="104,773,335,923"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="222,739,222,773,217,773,217,739"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1_wave_cal_feature_interface.html" title=" " alt="" coords="5,385,196,485"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,496,177,564,172,566,133,498"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1_e_e_p_r_o_m_slot_feature_base.html" title=" " alt="" coords="221,352,458,517"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="288,531,267,566,263,564,283,528"/>
+<area shape="rect" id="Node000004" href="$classseabreeze_1_1_feature_impl.html" title=" " alt="" coords="264,159,415,304"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="342,318,342,352,337,352,337,318"/>
+<area shape="rect" id="Node000005" href="$classseabreeze_1_1_feature.html" title=" " alt="" coords="272,5,407,111"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="342,125,342,158,337,158,337,125"/>
+</map>

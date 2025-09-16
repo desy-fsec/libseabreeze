@@ -1,0 +1,28 @@
+<map id="seabreeze::STSPixelBinningFeature" name="seabreeze::STSPixelBinningFeature">
+<area shape="rect" id="Node000001" title=" " alt="" coords="635,1724,838,1984"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1_feature_impl.html" title=" " alt="" coords="649,717,800,862"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="728,876,738,1724,733,1724,723,876"/>
+<area shape="rect" id="Node000009" href="$classseabreeze_1_1_o_o_i_spectrometer_feature.html" title=" " alt="" coords="436,1032,624,1412"/>
+<area shape="poly" id="edge9_Node000009_Node000002" title=" " alt="" coords="720,877,708,943,687,1009,660,1062,627,1112,622,1109,655,1059,682,1007,703,941,715,876"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1_feature.html" title=" " alt="" coords="608,431,743,537"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="688,550,716,716,710,717,683,550"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="767,444,915,524"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="828,525,761,702,756,700,823,523"/>
+<area shape="rect" id="Node000005" href="$classseabreeze_1_1_protocol_helper.html" title=" " alt="" coords="757,233,925,359"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="843,359,843,427,838,427,838,359"/>
+<area shape="rect" id="Node000006" href="$classseabreeze_1_1_protocol.html" title=" " alt="" coords="771,5,910,171"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="843,171,843,216,838,216,838,171"/>
+<area shape="rect" id="Node000007" href="$classseabreeze_1_1_pixel_binning_feature_interface.html" title=" " alt="" coords="775,1461,984,1661"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="827,1675,802,1725,798,1723,822,1673"/>
+<area shape="rect" id="Node000008" href="$classseabreeze_1_1_s_t_s_spectrometer_feature.html" title=" " alt="" coords="475,1491,665,1631"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="572,1631,577,1666,588,1699,605,1728,626,1755,622,1758,601,1731,584,1701,572,1667,567,1632"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="557,1426,564,1491,559,1492,551,1426"/>
+<area shape="rect" id="Node000010" href="$classseabreeze_1_1_o_o_i_spectrometer_feature_interface.html" title=" " alt="" coords="5,609,244,969"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="255,965,257,968,348,1060,438,1141,434,1145,344,1064,253,971,251,969"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="268,749,461,829"/>
+<area shape="poly" id="edge11_Node000009_Node000011" title=" " alt="" coords="380,829,442,1007,445,1016,440,1018,437,1009,375,830"/>
+<area shape="rect" id="Node000012" href="$classseabreeze_1_1_spectrometer_trigger_mode.html" title=" " alt="" coords="249,421,481,547"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="367,547,367,733,362,733,362,547"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="486,757,601,822"/>
+<area shape="poly" id="edge13_Node000009_Node000013" title=" " alt="" coords="544,822,534,993,533,1015,528,1015,529,993,538,822"/>
+</map>

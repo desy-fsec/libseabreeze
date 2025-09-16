@@ -1,0 +1,7 @@
+<map id="seabreeze::api::OpticalBenchFeatureAdapter" name="seabreeze::api::OpticalBenchFeatureAdapter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="29,481,245,751"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1api_1_1_feature_adapter_template.html" title=" " alt="" coords="5,173,269,433"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,447,140,481,135,481,135,447"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1api_1_1_feature_adapter_interface.html" title=" " alt="" coords="39,5,235,125"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="140,139,140,173,135,173,135,139"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="seabreeze::RS232TransferHelper" name="seabreeze::RS232TransferHelper">
+<area shape="rect" id="Node000001" title=" " alt="" coords="91,413,261,553"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1_transfer_helper.html" title=" " alt="" coords="5,115,173,241"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,254,159,412,154,414,108,255"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1_r_s232.html" title=" " alt="" coords="197,5,328,351"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="216,352,203,398,198,397,211,350"/>
+</map>

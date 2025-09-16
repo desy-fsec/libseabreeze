@@ -1,9 +1,0 @@
-<map id="seabreeze::api::SpectrumProcessingFeatureAdapter" name="seabreeze::api::SpectrumProcessingFeatureAdapter">
-<area shape="rect" id="node1" title=" " alt="" coords="497,521,744,775"/>
-<area shape="rect" id="node2" href="$classseabreeze_1_1api_1_1_feature_adapter_template.html" title=" " alt="" coords="481,292,760,472"/>
-<area shape="rect" id="node3" href="$classseabreeze_1_1api_1_1_feature_adapter_interface.html" title=" " alt="" coords="5,57,231,178"/>
-<area shape="rect" id="node4" href="$classseabreeze_1_1_spectrum_processing_feature_interface.html" title=" " alt="" coords="255,5,501,229"/>
-<area shape="rect" id="node5" href="$classseabreeze_1_1_feature_family.html" title=" " alt="" coords="526,42,715,193"/>
-<area shape="rect" id="node6" href="$classseabreeze_1_1_protocol.html" title=" " alt="" coords="740,42,904,193"/>
-<area shape="rect" id="node7" href="$classseabreeze_1_1_bus.html" title=" " alt="" coords="928,27,1063,207"/>
-</map>

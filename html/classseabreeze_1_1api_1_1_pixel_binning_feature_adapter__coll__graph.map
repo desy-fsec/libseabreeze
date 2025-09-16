@@ -1,0 +1,15 @@
+<map id="seabreeze::api::PixelBinningFeatureAdapter" name="seabreeze::api::PixelBinningFeatureAdapter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="441,503,643,723"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1api_1_1_feature_adapter_template.html" title=" " alt="" coords="413,273,671,453"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="545,467,545,502,539,502,539,467"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1api_1_1_feature_adapter_interface.html" title=" " alt="" coords="5,48,201,168"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="172,175,214,208,313,265,413,311,411,316,311,270,211,213,168,179"/>
+<area shape="rect" id="Node000004" href="$classseabreeze_1_1_pixel_binning_feature_interface.html" title=" " alt="" coords="225,8,435,208"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="415,206,459,259,455,262,411,210"/>
+<area shape="rect" id="Node000005" href="$classseabreeze_1_1_feature_family.html" title=" " alt="" coords="459,25,625,191"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="545,191,545,256,539,256,539,191"/>
+<area shape="rect" id="Node000006" href="$classseabreeze_1_1_protocol.html" title=" " alt="" coords="649,25,787,191"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="664,192,616,261,611,258,659,189"/>
+<area shape="rect" id="Node000007" href="$classseabreeze_1_1_bus.html" title=" " alt="" coords="811,5,926,211"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="813,200,801,213,747,257,688,294,685,290,743,252,798,209,809,197"/>
+</map>

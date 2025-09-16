@@ -1,0 +1,25 @@
+<map id="seabreeze::ooiProtocol::ReadSpectrumExchange" name="seabreeze::ooiProtocol::ReadSpectrumExchange">
+<area shape="rect" id="Node000001" title=" " alt="" coords="707,472,894,572"/>
+<area shape="rect" id="Node000004" href="$classseabreeze_1_1ooi_protocol_1_1_f_p_g_a_spectrum_exchange.html" title=" " alt="" coords="19,620,211,740"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="694,533,593,544,474,561,348,587,224,623,213,627,211,622,222,617,346,582,473,556,592,539,693,528"/>
+<area shape="rect" id="Node000006" href="$classseabreeze_1_1ooi_protocol_1_1_flame_n_i_r_spectrum_exchange.html" title="Spectrum exchange for FlameNIR spectrometer." alt="" coords="235,620,451,740"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="695,551,583,583,464,623,453,627,451,622,462,617,581,577,693,546"/>
+<area shape="rect" id="Node000007" href="$classseabreeze_1_1ooi_protocol_1_1_h_r_f_p_g_a_spectrum_exchange.html" title=" " alt="" coords="476,620,688,740"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="722,582,666,622,663,618,719,578"/>
+<area shape="rect" id="Node000008" href="$classseabreeze_1_1ooi_protocol_1_1_jaz_spectrum_exchange.html" title=" " alt="" coords="712,620,889,740"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="803,586,803,620,798,620,798,586"/>
+<area shape="rect" id="Node000009" href="$classseabreeze_1_1ooi_protocol_1_1_maya_pro_spectrum_exchange.html" title=" " alt="" coords="914,620,1122,740"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="881,578,937,618,934,622,878,582"/>
+<area shape="rect" id="Node000010" href="$classseabreeze_1_1ooi_protocol_1_1_o_o_i2_k_spectrum_exchange.html" title=" " alt="" coords="1147,620,1343,740"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="908,546,1019,577,1135,618,1147,623,1145,628,1133,622,1017,582,907,551"/>
+<area shape="rect" id="Node000011" href="$classseabreeze_1_1ooi_protocol_1_1_q_e_spectrum_exchange.html" title=" " alt="" coords="1367,620,1541,740"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="908,528,1005,538,1119,556,1239,582,1356,617,1368,622,1366,627,1354,623,1238,587,1118,561,1004,544,907,533"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1_transfer.html" title=" " alt="" coords="735,199,866,424"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="803,438,803,472,798,472,798,438"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1_exchange.html" title=" " alt="" coords="731,5,871,151"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="803,164,803,199,798,199,798,164"/>
+<area shape="rect" id="Node000005" href="$classseabreeze_1_1ooi_protocol_1_1_u_s_b_f_p_g_a_spectrum_exchange.html" title=" " alt="" coords="5,788,225,908"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="118,754,118,788,113,788,113,754"/>
+<area shape="rect" id="Node000012" href="$classseabreeze_1_1ooi_protocol_1_1_n_i_r_quest_spectrum_exchange.html" title=" " alt="" coords="1347,788,1561,908"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="1457,754,1457,788,1451,788,1451,754"/>
+</map>

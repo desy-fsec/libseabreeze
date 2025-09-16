@@ -1,0 +1,25 @@
+<map id="seabreeze::oceanBinaryProtocol::OBPShutterProtocol" name="seabreeze::oceanBinaryProtocol::OBPShutterProtocol">
+<area shape="rect" id="Node000001" title=" " alt="" coords="103,1233,306,1353"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1_shutter_protocol_interface.html" title=" " alt="" coords="5,1051,188,1171"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,1181,172,1232,167,1234,137,1184"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1_protocol_helper.html" title=" " alt="" coords="13,869,181,994"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="99,1008,99,1050,94,1050,94,1008"/>
+<area shape="rect" id="Node000004" href="$classseabreeze_1_1_protocol.html" title=" " alt="" coords="27,633,166,799"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="99,799,99,852,94,852,94,799"/>
+<area shape="rect" id="Node000005" href="$classseabreeze_1_1ocean_binary_protocol_1_1_o_b_p_shutter_exchange.html" title=" " alt="" coords="213,1051,415,1171"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="280,1172,251,1220,247,1218,276,1170"/>
+<area shape="rect" id="Node000006" href="$classseabreeze_1_1ocean_binary_protocol_1_1_o_b_p_command.html" title=" " alt="" coords="213,861,415,1001"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="317,1015,317,1050,311,1050,311,1015"/>
+<area shape="rect" id="Node000007" href="$classseabreeze_1_1ocean_binary_protocol_1_1_o_b_p_transaction.html" title=" " alt="" coords="201,636,403,796"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="310,810,313,861,307,861,305,810"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="228,491,376,571"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="305,571,305,619,299,619,299,571"/>
+<area shape="rect" id="Node000009" href="$classseabreeze_1_1_protocol_hint.html" title=" " alt="" coords="225,263,379,428"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="305,428,305,474,299,474,299,428"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="266,135,338,200"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="305,200,305,246,299,246,299,200"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="243,5,361,85"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="305,99,305,134,299,134,299,99"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="428,676,568,756"/>
+<area shape="poly" id="edge11_Node000006_Node000012" title=" " alt="" coords="466,758,386,850,382,847,462,755"/>
+</map>

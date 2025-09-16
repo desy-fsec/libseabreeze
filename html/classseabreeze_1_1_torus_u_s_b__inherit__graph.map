@@ -1,0 +1,11 @@
+<map id="seabreeze::TorusUSB" name="seabreeze::TorusUSB">
+<area shape="rect" id="Node000001" title=" " alt="" coords="123,905,265,1011"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1_o_o_i_u_s_b_interface.html" title=" " alt="" coords="101,532,287,857"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,871,197,905,191,905,191,871"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1_u_s_b_interface.html" title=" " alt="" coords="5,259,167,484"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="130,496,142,531,137,533,125,498"/>
+<area shape="rect" id="Node000004" href="$classseabreeze_1_1_bus.html" title=" " alt="" coords="29,5,143,211"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="89,224,89,258,83,258,83,224"/>
+<area shape="rect" id="Node000005" href="$classseabreeze_1_1_device_location_prober_interface.html" title=" " alt="" coords="191,311,413,431"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="280,445,251,533,246,531,275,443"/>
+</map>

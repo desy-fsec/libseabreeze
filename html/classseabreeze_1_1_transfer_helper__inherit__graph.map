@@ -1,0 +1,19 @@
+<map id="seabreeze::TransferHelper" name="seabreeze::TransferHelper">
+<area shape="rect" id="Node000001" title=" " alt="" coords="245,5,413,131"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1_r_s232_transfer_helper.html" title=" " alt="" coords="22,201,193,341"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="250,142,206,181,182,203,179,199,203,177,246,138"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1_t_c_p_i_pv4_socket_transfer_helper.html" title=" " alt="" coords="217,201,440,341"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="331,145,331,201,326,201,326,145"/>
+<area shape="rect" id="Node000004" href="$classseabreeze_1_1_u_s_b_transfer_helper.html" title=" " alt="" coords="464,179,660,364"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="413,138,465,183,462,188,409,142"/>
+<area shape="rect" id="Node000005" href="$classseabreeze_1_1_blaze_u_s_b_transfer_helper.html" title=" " alt="" coords="5,417,196,557"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="453,366,452,366,417,380,386,388,330,392,275,396,244,402,208,414,197,420,195,415,206,410,242,397,274,390,330,387,385,383,416,375,450,362,451,361"/>
+<area shape="rect" id="Node000006" href="$classseabreeze_1_1_o_o_i_u_s_b4_k_spectrum_transfer_helper.html" title=" " alt="" coords="220,412,427,561"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="456,371,408,414,404,410,452,367"/>
+<area shape="rect" id="Node000007" href="$classseabreeze_1_1_o_o_i_u_s_b_control_transfer_helper.html" title=" " alt="" coords="451,437,673,537"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="565,378,565,436,559,436,559,378"/>
+<area shape="rect" id="Node000008" href="$classseabreeze_1_1_o_o_i_u_s_b_spectrum_transfer_helper.html" title=" " alt="" coords="697,437,933,537"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="672,362,759,434,755,438,669,366"/>
+<area shape="rect" id="Node000009" href="$classseabreeze_1_1_o_o_i_u_s_b_trivial_transfer_helper.html" title=" " alt="" coords="957,437,1172,537"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="674,304,806,350,947,410,992,434,989,439,945,414,804,355,672,309"/>
+</map>

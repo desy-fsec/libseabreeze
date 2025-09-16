@@ -1,0 +1,7 @@
+<map id="seabreeze::oceanBinaryProtocol::OBPRevisionProtocol" name="seabreeze::oceanBinaryProtocol::OBPRevisionProtocol">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,367,208,507"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1_revision_protocol_interface.html" title=" " alt="" coords="11,179,203,319"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,333,109,366,104,366,104,333"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1_protocol_helper.html" title=" " alt="" coords="23,5,191,131"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="109,145,109,178,104,178,104,145"/>
+</map>

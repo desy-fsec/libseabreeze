@@ -1,0 +1,7 @@
+<map id="seabreeze::TCPIPv4SocketTransferHelper" name="seabreeze::TCPIPv4SocketTransferHelper">
+<area shape="rect" id="Node000001" title=" " alt="" coords="71,373,294,513"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1_transfer_helper.html" title=" " alt="" coords="5,95,173,221"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,233,162,372,157,374,111,235"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1_socket.html" title=" " alt="" coords="197,5,357,311"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="229,312,213,358,208,357,224,310"/>
+</map>

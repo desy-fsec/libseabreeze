@@ -1,7 +1,0 @@
-<map id="seabreeze::ProtocolHint" name="seabreeze::ProtocolHint">
-<area shape="rect" id="node1" title=" " alt="" coords="399,5,576,171"/>
-<area shape="rect" id="node2" href="$classseabreeze_1_1ocean_binary_protocol_1_1_o_b_p_control_hint.html" title=" " alt="" coords="5,219,236,325"/>
-<area shape="rect" id="node3" href="$classseabreeze_1_1ocean_binary_protocol_1_1_o_b_p_spectrum_hint.html" title=" " alt="" coords="260,219,491,325"/>
-<area shape="rect" id="node4" href="$classseabreeze_1_1ooi_protocol_1_1_control_hint.html" title=" " alt="" coords="515,219,686,325"/>
-<area shape="rect" id="node5" href="$classseabreeze_1_1ooi_protocol_1_1_spectrum_hint.html" title=" " alt="" coords="710,219,881,325"/>
-</map>

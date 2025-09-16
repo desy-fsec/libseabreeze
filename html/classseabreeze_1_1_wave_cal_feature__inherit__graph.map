@@ -1,0 +1,9 @@
+<map id="seabreeze::WaveCalFeature" name="seabreeze::WaveCalFeature">
+<area shape="rect" id="Node000001" title=" " alt="" coords="89,352,267,477"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1_feature_impl.html" title=" " alt="" coords="5,159,156,304"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,315,147,351,142,353,123,317"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1_feature.html" title=" " alt="" coords="13,5,148,111"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="83,125,83,158,78,158,78,125"/>
+<area shape="rect" id="Node000004" href="$classseabreeze_1_1_wave_cal_feature_interface.html" title=" " alt="" coords="180,181,371,281"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="245,295,214,353,209,350,240,292"/>
+</map>

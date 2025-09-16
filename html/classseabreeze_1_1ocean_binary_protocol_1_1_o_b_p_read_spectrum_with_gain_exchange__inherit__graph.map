@@ -1,0 +1,11 @@
+<map id="seabreeze::oceanBinaryProtocol::OBPReadSpectrumWithGainExchange" name="seabreeze::oceanBinaryProtocol::OBPReadSpectrumWithGainExchange">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,848,267,983"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1ocean_binary_protocol_1_1_o_b_p_read_spectrum_exchange.html" title=" " alt="" coords="29,680,243,800"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="139,814,139,848,133,848,133,814"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1ocean_binary_protocol_1_1_o_b_p_read_raw_spectrum_exchange.html" title=" " alt="" coords="15,472,257,632"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="139,646,139,680,133,680,133,646"/>
+<area shape="rect" id="Node000004" href="$classseabreeze_1_1_transfer.html" title=" " alt="" coords="71,199,201,424"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="139,438,139,472,133,472,133,438"/>
+<area shape="rect" id="Node000005" href="$classseabreeze_1_1_exchange.html" title=" " alt="" coords="66,5,206,151"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="139,164,139,199,133,199,133,164"/>
+</map>

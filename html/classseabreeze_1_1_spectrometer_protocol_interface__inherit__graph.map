@@ -1,0 +1,9 @@
+<map id="seabreeze::SpectrometerProtocolInterface" name="seabreeze::SpectrometerProtocolInterface">
+<area shape="rect" id="Node000001" title=" " alt="" coords="108,179,327,379"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1ocean_binary_protocol_1_1_o_b_p_spectrometer_protocol.html" title=" " alt="" coords="5,427,208,627"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="170,392,154,428,149,425,165,390"/>
+<area shape="rect" id="Node000004" href="$classseabreeze_1_1ooi_protocol_1_1_o_o_i_spectrometer_protocol.html" title=" " alt="" coords="232,427,424,627"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="270,390,286,425,281,428,265,392"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1_protocol_helper.html" title=" " alt="" coords="133,5,301,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,145,220,178,215,178,215,145"/>
+</map>

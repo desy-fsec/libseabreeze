@@ -1,0 +1,5 @@
+<map id="seabreeze::EthernetBusFamily" name="seabreeze::EthernetBusFamily">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,179,199,264"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1_bus_family.html" title=" " alt="" coords="30,5,174,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,145,105,178,99,178,99,145"/>
+</map>

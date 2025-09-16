@@ -1,0 +1,53 @@
+<map id="seabreeze::OOISpectrometerFeature" name="seabreeze::OOISpectrometerFeature">
+<area shape="rect" id="Node000001" title=" " alt="" coords="2165,567,2353,987"/>
+<area shape="rect" id="Node000005" href="$classseabreeze_1_1_gain_adjusted_spectrometer_feature.html" title=" " alt="" coords="905,1035,1143,1204"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="2151,793,1960,822,1708,870,1570,903,1430,941,1290,986,1156,1037,1145,1042,1142,1037,1154,1032,1288,981,1428,936,1569,898,1707,865,1959,817,2151,788"/>
+<area shape="rect" id="Node000017" href="$classseabreeze_1_1_h_r2000_plus_spectrometer_feature.html" title=" " alt="" coords="1167,1069,1406,1169"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="2151,804,2003,839,1818,891,1616,957,1515,995,1419,1037,1357,1071,1354,1067,1416,1032,1513,990,1614,952,1816,886,2002,834,2150,798"/>
+<area shape="rect" id="Node000018" href="$classseabreeze_1_1_h_r2000_spectrometer_feature.html" title=" " alt="" coords="1430,1069,1642,1169"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="2153,818,2046,858,1920,909,1785,970,1655,1037,1601,1071,1598,1067,1652,1032,1783,965,1918,904,2044,853,2151,813"/>
+<area shape="rect" id="Node000019" href="$classseabreeze_1_1_h_r4000_spectrometer_feature.html" title=" " alt="" coords="1666,1069,1878,1169"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="2155,853,1891,1037,1842,1071,1839,1067,1888,1032,2152,849"/>
+<area shape="rect" id="Node000020" href="$classseabreeze_1_1_maya2000_spectrometer_feature.html" title=" " alt="" coords="1901,1069,2125,1169"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="2159,921,2051,1071,2046,1068,2154,918"/>
+<area shape="rect" id="Node000021" href="$classseabreeze_1_1_q_e65000_spectrometer_feature.html" title=" " alt="" coords="2149,1059,2368,1179"/>
+<area shape="poly" id="edge20_Node000001_Node000021" title=" " alt="" coords="2261,1000,2261,1059,2256,1059,2256,1000"/>
+<area shape="rect" id="Node000022" href="$classseabreeze_1_1_q_e_pro_spectrometer_feature.html" title=" " alt="" coords="2392,1059,2595,1179"/>
+<area shape="poly" id="edge21_Node000001_Node000022" title=" " alt="" coords="2363,924,2455,1058,2451,1061,2358,927"/>
+<area shape="rect" id="Node000023" href="$classseabreeze_1_1_s_t_s_spectrometer_feature.html" title=" " alt="" coords="2619,1049,2810,1189"/>
+<area shape="poly" id="edge22_Node000001_Node000023" title=" " alt="" coords="2365,852,2608,1033,2627,1047,2624,1051,2605,1037,2362,857"/>
+<area shape="rect" id="Node000024" href="$classseabreeze_1_1_spark_spectrometer_feature.html" title=" " alt="" coords="2834,1059,3033,1179"/>
+<area shape="poly" id="edge23_Node000001_Node000024" title=" " alt="" coords="2367,816,2581,908,2704,967,2823,1032,2860,1057,2857,1061,2820,1037,2701,972,2579,913,2364,821"/>
+<area shape="rect" id="Node000025" href="$classseabreeze_1_1_u_s_b2000_spectrometer_feature.html" title=" " alt="" coords="3057,1069,3277,1169"/>
+<area shape="poly" id="edge24_Node000001_Node000025" title=" " alt="" coords="2367,800,2506,837,2678,888,2864,954,2956,991,3045,1032,3103,1067,3101,1071,3043,1037,2954,996,2862,959,2676,893,2504,842,2366,806"/>
+<area shape="rect" id="Node000026" href="$classseabreeze_1_1_ventana_spectrometer_feature.html" title=" " alt="" coords="3301,1059,3512,1179"/>
+<area shape="poly" id="edge25_Node000001_Node000026" title=" " alt="" coords="2367,789,2547,818,2781,866,2908,899,3038,937,3166,981,3289,1032,3333,1057,3330,1061,3287,1037,3164,986,3036,942,2907,904,2780,871,2546,823,2366,794"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1_feature_impl.html" title=" " alt="" coords="2074,266,2225,411"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="2173,424,2209,566,2204,567,2168,425"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1_feature.html" title=" " alt="" coords="2082,5,2217,111"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="2152,125,2152,266,2147,266,2147,125"/>
+<area shape="rect" id="Node000004" href="$classseabreeze_1_1_o_o_i_spectrometer_feature_interface.html" title=" " alt="" coords="2249,159,2487,519"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="2322,533,2314,567,2309,566,2317,531"/>
+<area shape="rect" id="Node000006" href="$classseabreeze_1_1_apex_spectrometer_feature.html" title=" " alt="" coords="5,1292,200,1392"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="891,1124,747,1133,574,1154,482,1171,390,1193,300,1220,213,1254,182,1272,153,1294,150,1290,179,1268,211,1250,298,1215,389,1188,481,1165,573,1149,746,1127,891,1119"/>
+<area shape="rect" id="Node000007" href="$classseabreeze_1_1_blaze_spectrometer_feature.html" title=" " alt="" coords="224,1282,421,1402"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="892,1135,789,1150,672,1174,551,1208,491,1230,435,1254,387,1284,385,1280,432,1250,489,1225,549,1203,671,1169,788,1145,891,1130"/>
+<area shape="rect" id="Node000008" href="$classseabreeze_1_1_flame_n_i_r_spectrometer_feature.html" title=" " alt="" coords="445,1292,669,1392"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="893,1165,788,1205,683,1254,620,1294,618,1290,680,1250,786,1200,891,1160"/>
+<area shape="rect" id="Node000009" href="$classseabreeze_1_1_jaz_spectrometer_feature.html" title=" " alt="" coords="694,1292,879,1392"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="926,1215,841,1294,837,1290,922,1211"/>
+<area shape="rect" id="Node000010" href="$classseabreeze_1_1_maya2000_pro_spectrometer_feature.html" title=" " alt="" coords="904,1285,1144,1399"/>
+<area shape="poly" id="edge9_Node000005_Node000010" title=" " alt="" coords="1027,1218,1027,1284,1021,1284,1021,1218"/>
+<area shape="rect" id="Node000011" href="$classseabreeze_1_1_maya_l_s_l_spectrometer_feature.html" title=" " alt="" coords="1168,1292,1387,1392"/>
+<area shape="poly" id="edge10_Node000005_Node000011" title=" " alt="" coords="1132,1211,1223,1290,1220,1294,1128,1215"/>
+<area shape="rect" id="Node000012" href="$classseabreeze_1_1_n_i_r_quest_spectrometer_feature.html" title=" " alt="" coords="1411,1252,1655,1432"/>
+<area shape="poly" id="edge11_Node000005_Node000012" title=" " alt="" coords="1157,1202,1225,1220,1280,1225,1334,1230,1365,1237,1400,1250,1412,1255,1410,1260,1398,1254,1364,1243,1334,1236,1279,1230,1224,1225,1156,1207"/>
+<area shape="rect" id="Node000015" href="$classseabreeze_1_1_u_s_b2000_plus_spectrometer_feature.html" title=" " alt="" coords="1680,1285,1923,1399"/>
+<area shape="poly" id="edge14_Node000005_Node000015" title=" " alt="" coords="1157,1202,1233,1221,1299,1228,1358,1228,1414,1224,1470,1220,1529,1220,1593,1229,1668,1249,1700,1264,1731,1282,1729,1287,1698,1269,1666,1255,1592,1234,1528,1226,1470,1225,1414,1229,1358,1233,1298,1233,1232,1226,1156,1207"/>
+<area shape="rect" id="Node000016" href="$classseabreeze_1_1_u_s_b4000_spectrometer_feature.html" title=" " alt="" coords="1947,1292,2167,1392"/>
+<area shape="poly" id="edge15_Node000005_Node000016" title=" " alt="" coords="1157,1202,1217,1218,1272,1228,1373,1236,1463,1231,1549,1221,1634,1211,1724,1208,1772,1211,1823,1218,1877,1231,1936,1250,1972,1267,2005,1290,2002,1294,1970,1272,1934,1254,1876,1236,1822,1224,1771,1216,1723,1213,1634,1216,1549,1226,1464,1237,1373,1241,1272,1234,1216,1223,1156,1207"/>
+<area shape="rect" id="Node000013" href="$classseabreeze_1_1_n_i_r_quest256_spectrometer_feature.html" title=" " alt="" coords="1281,1480,1521,1595"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="1467,1445,1442,1481,1438,1478,1463,1442"/>
+<area shape="rect" id="Node000014" href="$classseabreeze_1_1_n_i_r_quest512_spectrometer_feature.html" title=" " alt="" coords="1545,1480,1785,1595"/>
+<area shape="poly" id="edge13_Node000012_Node000014" title=" " alt="" coords="1604,1442,1629,1478,1625,1481,1600,1445"/>
+</map>

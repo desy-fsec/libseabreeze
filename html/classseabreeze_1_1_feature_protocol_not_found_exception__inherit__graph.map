@@ -1,0 +1,9 @@
+<map id="seabreeze::FeatureProtocolNotFoundException" name="seabreeze::FeatureProtocolNotFoundException">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,345,247,425"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1_feature_exception.html" title=" " alt="" coords="34,232,218,297"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,311,129,345,123,345,123,311"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="68,119,184,184"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="129,198,129,232,123,232,123,198"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="78,5,174,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="129,84,129,119,123,119,123,84"/>
+</map>

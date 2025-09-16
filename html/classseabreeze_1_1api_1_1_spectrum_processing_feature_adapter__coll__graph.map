@@ -1,0 +1,15 @@
+<map id="seabreeze::api::SpectrumProcessingFeatureAdapter" name="seabreeze::api::SpectrumProcessingFeatureAdapter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="441,545,657,813"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1api_1_1_feature_adapter_template.html" title=" " alt="" coords="427,301,671,496"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="551,510,551,545,546,545,546,510"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1api_1_1_feature_adapter_interface.html" title=" " alt="" coords="5,62,201,182"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="163,190,216,237,267,270,321,300,427,350,425,354,319,305,264,275,212,241,159,194"/>
+<area shape="rect" id="Node000004" href="$classseabreeze_1_1_spectrum_processing_feature_interface.html" title=" " alt="" coords="226,5,442,239"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="427,237,465,287,461,290,422,240"/>
+<area shape="rect" id="Node000005" href="$classseabreeze_1_1_feature_family.html" title=" " alt="" coords="466,39,631,205"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="551,205,551,285,546,285,546,205"/>
+<area shape="rect" id="Node000006" href="$classseabreeze_1_1_protocol.html" title=" " alt="" coords="655,39,794,205"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="675,206,622,289,617,286,670,203"/>
+<area shape="rect" id="Node000007" href="$classseabreeze_1_1_bus.html" title=" " alt="" coords="818,19,933,225"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="820,227,808,241,750,290,687,332,684,327,747,286,804,237,816,223"/>
+</map>

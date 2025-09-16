@@ -1,0 +1,17 @@
+<map id="seabreeze::LightSourceFeatureImpl" name="seabreeze::LightSourceFeatureImpl">
+<area shape="rect" id="Node000001" title=" " alt="" coords="136,1133,356,1239"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1_light_source_feature_base.html" title=" " alt="" coords="133,859,359,1084"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="249,1098,249,1133,243,1133,243,1098"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1_feature_impl.html" title=" " alt="" coords="19,627,169,772"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="143,783,185,857,181,860,139,786"/>
+<area shape="rect" id="Node000004" href="$classseabreeze_1_1_feature.html" title=" " alt="" coords="5,421,140,527"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="82,540,90,626,84,627,76,541"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="164,434,312,514"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="215,516,151,614,147,611,211,513"/>
+<area shape="rect" id="Node000006" href="$classseabreeze_1_1_protocol_helper.html" title=" " alt="" coords="154,233,322,359"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="241,359,241,418,235,418,235,359"/>
+<area shape="rect" id="Node000007" href="$classseabreeze_1_1_protocol.html" title=" " alt="" coords="169,5,307,171"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="241,171,241,216,235,216,235,171"/>
+<area shape="rect" id="Node000008" href="$classseabreeze_1_1_light_source_feature_interface.html" title=" " alt="" coords="193,589,400,809"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="276,823,270,859,264,858,271,822"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="seabreeze::IrradCalFeature" name="seabreeze::IrradCalFeature">
+<area shape="rect" id="Node000001" title=" " alt="" coords="89,387,261,612"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1_feature_impl.html" title=" " alt="" coords="5,176,156,321"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,333,135,385,130,387,110,335"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1_feature.html" title=" " alt="" coords="13,5,148,111"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="83,124,83,176,78,176,78,124"/>
+<area shape="rect" id="Node000004" href="$classseabreeze_1_1_irrad_cal_feature_interface.html" title=" " alt="" coords="180,159,363,339"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="235,352,221,387,216,385,230,350"/>
+</map>

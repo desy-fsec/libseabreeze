@@ -1,0 +1,23 @@
+<map id="seabreeze::QE65000SpectrometerFeature" name="seabreeze::QE65000SpectrometerFeature">
+<area shape="rect" id="Node000001" title=" " alt="" coords="335,1461,554,1581"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1_o_o_i_spectrometer_feature.html" title=" " alt="" coords="351,1032,539,1412"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="447,1425,447,1461,442,1461,442,1425"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1_feature_impl.html" title=" " alt="" coords="80,717,231,862"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="194,873,244,968,297,1043,352,1113,348,1116,292,1046,240,971,189,876"/>
+<area shape="rect" id="Node000004" href="$classseabreeze_1_1_feature.html" title=" " alt="" coords="5,431,140,537"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="93,549,138,716,133,717,88,551"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="164,444,312,524"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="230,525,182,701,177,700,225,524"/>
+<area shape="rect" id="Node000006" href="$classseabreeze_1_1_protocol_helper.html" title=" " alt="" coords="154,233,322,359"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="241,359,241,427,235,427,235,359"/>
+<area shape="rect" id="Node000007" href="$classseabreeze_1_1_protocol.html" title=" " alt="" coords="169,5,307,171"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="241,171,241,216,235,216,235,171"/>
+<area shape="rect" id="Node000008" href="$classseabreeze_1_1_o_o_i_spectrometer_feature_interface.html" title=" " alt="" coords="255,609,493,969"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="408,983,416,1031,411,1032,403,984"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="517,749,711,829"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="601,831,528,1017,523,1015,596,829"/>
+<area shape="rect" id="Node000010" href="$classseabreeze_1_1_spectrometer_trigger_mode.html" title=" " alt="" coords="498,421,730,547"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="617,547,617,733,611,733,611,547"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="735,757,850,822"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="788,823,765,894,747,933,726,971,687,1020,643,1067,554,1146,550,1142,640,1063,683,1017,721,968,743,931,760,892,783,822"/>
+</map>

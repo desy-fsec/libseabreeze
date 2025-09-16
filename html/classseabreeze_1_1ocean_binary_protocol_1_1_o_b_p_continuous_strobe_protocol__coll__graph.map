@@ -1,0 +1,28 @@
+<map id="seabreeze::oceanBinaryProtocol::OBPContinuousStrobeProtocol" name="seabreeze::oceanBinaryProtocol::OBPContinuousStrobeProtocol">
+<area shape="rect" id="Node000001" title=" " alt="" coords="239,1297,461,1452"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1_continuous_strobe_protocol_interface.html" title=" " alt="" coords="5,1051,201,1235"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,1242,270,1295,266,1299,209,1246"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1_protocol_helper.html" title=" " alt="" coords="19,869,187,994"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="106,1008,106,1051,101,1051,101,1008"/>
+<area shape="rect" id="Node000004" href="$classseabreeze_1_1_protocol.html" title=" " alt="" coords="34,633,173,799"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="106,799,106,852,101,852,101,799"/>
+<area shape="rect" id="Node000005" href="$classseabreeze_1_1ocean_binary_protocol_1_1_o_b_p_continuous_strobe_period_exchange.html" title=" " alt="" coords="225,1061,475,1225"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="353,1225,353,1281,347,1281,347,1225"/>
+<area shape="rect" id="Node000006" href="$classseabreeze_1_1ocean_binary_protocol_1_1_o_b_p_command.html" title=" " alt="" coords="398,861,601,1001"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="444,1014,410,1062,406,1059,440,1011"/>
+<area shape="rect" id="Node000013" href="$classseabreeze_1_1ocean_binary_protocol_1_1_o_b_p_continuous_strobe_enable_exchange.html" title=" " alt="" coords="499,1068,751,1217"/>
+<area shape="poly" id="edge13_Node000013_Node000006" title=" " alt="" coords="550,1012,583,1066,578,1069,545,1015"/>
+<area shape="rect" id="Node000007" href="$classseabreeze_1_1ocean_binary_protocol_1_1_o_b_p_transaction.html" title=" " alt="" coords="262,636,465,796"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="424,807,458,860,453,863,419,810"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="289,491,437,571"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="366,571,366,619,361,619,361,571"/>
+<area shape="rect" id="Node000009" href="$classseabreeze_1_1_protocol_hint.html" title=" " alt="" coords="286,263,441,428"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="366,428,366,474,361,474,361,428"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="327,135,399,200"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="366,200,366,246,361,246,361,200"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="304,5,423,85"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="366,99,366,134,361,134,361,99"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="489,676,629,756"/>
+<area shape="poly" id="edge11_Node000006_Node000012" title=" " alt="" coords="551,757,526,846,521,845,546,756"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="547,1220,482,1275,466,1289,462,1285,479,1271,543,1216"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="seabreeze::api::NonlinearityCoeffsFeatureAdapter" name="seabreeze::api::NonlinearityCoeffsFeatureAdapter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="28,496,213,645"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1api_1_1_feature_adapter_template.html" title=" " alt="" coords="5,173,236,448"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,462,123,496,118,496,118,462"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1api_1_1_feature_adapter_interface.html" title=" " alt="" coords="23,5,219,125"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="123,139,123,173,118,173,118,139"/>
+</map>

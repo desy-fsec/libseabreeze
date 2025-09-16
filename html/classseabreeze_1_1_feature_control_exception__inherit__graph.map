@@ -1,0 +1,9 @@
+<map id="seabreeze::FeatureControlException" name="seabreeze::FeatureControlException">
+<area shape="rect" id="Node000001" title=" " alt="" coords="8,345,187,425"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1_feature_exception.html" title=" " alt="" coords="5,232,189,297"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,311,100,345,95,345,95,311"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="39,119,155,184"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="100,198,100,232,95,232,95,198"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="49,5,145,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="100,84,100,119,95,119,95,84"/>
+</map>

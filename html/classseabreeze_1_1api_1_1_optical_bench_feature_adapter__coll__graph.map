@@ -1,0 +1,15 @@
+<map id="seabreeze::api::OpticalBenchFeatureAdapter" name="seabreeze::api::OpticalBenchFeatureAdapter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="441,547,657,816"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1api_1_1_feature_adapter_template.html" title=" " alt="" coords="417,317,681,497"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="551,511,551,546,546,546,546,511"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1api_1_1_feature_adapter_interface.html" title=" " alt="" coords="5,70,201,190"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="158,199,186,227,216,253,264,284,315,313,417,358,415,363,313,317,261,289,212,257,182,231,155,203"/>
+<area shape="rect" id="Node000004" href="$classseabreeze_1_1_optical_bench_feature_interface.html" title=" " alt="" coords="226,5,442,255"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="433,253,471,303,467,306,429,257"/>
+<area shape="rect" id="Node000005" href="$classseabreeze_1_1_feature_family.html" title=" " alt="" coords="466,47,631,213"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="551,213,551,301,546,301,546,213"/>
+<area shape="rect" id="Node000006" href="$classseabreeze_1_1_protocol.html" title=" " alt="" coords="655,47,794,213"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="675,214,617,305,612,302,670,212"/>
+<area shape="rect" id="Node000007" href="$classseabreeze_1_1_bus.html" title=" " alt="" coords="818,27,933,233"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="826,235,808,257,755,302,697,340,694,335,752,298,804,253,822,231"/>
+</map>

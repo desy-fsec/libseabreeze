@@ -1,0 +1,15 @@
+<map id="seabreeze::api::EEPROMFeatureAdapter" name="seabreeze::api::EEPROMFeatureAdapter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="447,503,656,623"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1api_1_1_feature_adapter_template.html" title=" " alt="" coords="418,273,685,453"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="554,467,554,502,549,502,549,467"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1api_1_1_feature_adapter_interface.html" title=" " alt="" coords="5,48,201,168"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="173,175,215,208,317,266,419,311,417,316,314,270,213,213,169,180"/>
+<area shape="rect" id="Node000004" href="$classseabreeze_1_1_e_e_p_r_o_m_slot_feature_interface.html" title=" " alt="" coords="226,38,445,178"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="396,177,467,259,463,263,392,180"/>
+<area shape="rect" id="Node000005" href="$classseabreeze_1_1_feature_family.html" title=" " alt="" coords="469,25,634,191"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="554,191,554,256,549,256,549,191"/>
+<area shape="rect" id="Node000006" href="$classseabreeze_1_1_protocol.html" title=" " alt="" coords="658,25,797,191"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="673,192,625,261,620,258,668,189"/>
+<area shape="rect" id="Node000007" href="$classseabreeze_1_1_bus.html" title=" " alt="" coords="821,5,935,211"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="822,200,810,213,758,255,701,292,698,288,755,251,807,209,819,197"/>
+</map>

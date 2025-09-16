@@ -1,0 +1,7 @@
+<map id="seabreeze::SpectrumProcessingProtocolInterface" name="seabreeze::SpectrumProcessingProtocolInterface">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,408,221,676"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1_protocol_helper.html" title=" " alt="" coords="29,233,197,359"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,372,116,408,111,408,111,372"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1_protocol.html" title=" " alt="" coords="44,5,183,171"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="116,171,116,216,111,216,111,171"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="seabreeze::ThermoElectricQEFeature" name="seabreeze::ThermoElectricQEFeature">
+<area shape="rect" id="Node000001" title=" " alt="" coords="89,704,283,879"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1_thermo_electric_feature_base.html" title=" " alt="" coords="77,401,295,656"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="189,670,189,704,183,704,183,670"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1_feature_impl.html" title=" " alt="" coords="5,183,156,329"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="116,341,139,400,134,402,111,343"/>
+<area shape="rect" id="Node000004" href="$classseabreeze_1_1_feature.html" title=" " alt="" coords="13,5,148,111"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="83,125,83,183,78,183,78,125"/>
+<area shape="rect" id="Node000005" href="$classseabreeze_1_1_thermo_electric_feature_interface.html" title=" " alt="" coords="180,159,405,353"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="252,367,238,402,233,400,247,365"/>
+</map>

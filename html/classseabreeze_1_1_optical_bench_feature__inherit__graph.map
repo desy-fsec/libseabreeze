@@ -1,0 +1,9 @@
+<map id="seabreeze::OpticalBenchFeature" name="seabreeze::OpticalBenchFeature">
+<area shape="rect" id="Node000001" title=" " alt="" coords="77,456,293,731"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1_feature_impl.html" title=" " alt="" coords="5,211,156,356"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,368,141,455,136,456,107,370"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1_feature.html" title=" " alt="" coords="13,5,148,111"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="83,125,83,210,78,210,78,125"/>
+<area shape="rect" id="Node000004" href="$classseabreeze_1_1_optical_bench_feature_interface.html" title=" " alt="" coords="181,159,397,408"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="245,422,233,457,228,455,240,420"/>
+</map>

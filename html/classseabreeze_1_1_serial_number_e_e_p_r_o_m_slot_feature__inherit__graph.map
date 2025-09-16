@@ -1,0 +1,11 @@
+<map id="seabreeze::SerialNumberEEPROMSlotFeature" name="seabreeze::SerialNumberEEPROMSlotFeature">
+<area shape="rect" id="Node000001" title=" " alt="" coords="130,565,377,725"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1_e_e_p_r_o_m_slot_feature_base.html" title=" " alt="" coords="5,352,243,517"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,528,206,564,202,566,180,530"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1_feature_impl.html" title=" " alt="" coords="49,159,199,304"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="127,318,127,352,121,352,121,318"/>
+<area shape="rect" id="Node000004" href="$classseabreeze_1_1_feature.html" title=" " alt="" coords="57,5,191,111"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="127,125,127,158,121,158,121,125"/>
+<area shape="rect" id="Node000005" href="$classseabreeze_1_1_serial_number_feature_interface.html" title=" " alt="" coords="267,375,501,495"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="342,508,305,566,301,564,337,505"/>
+</map>

@@ -1,9 +1,0 @@
-<map id="seabreeze::NIRQuest256SpectrometerFeature" name="seabreeze::NIRQuest256SpectrometerFeature">
-<area shape="rect" id="node1" title=" " alt="" coords="83,1321,353,1443"/>
-<area shape="rect" id="node2" href="$classseabreeze_1_1_n_i_r_quest_spectrometer_feature.html" title=" " alt="" coords="90,1108,346,1273"/>
-<area shape="rect" id="node3" href="$classseabreeze_1_1_gain_adjusted_spectrometer_feature.html" title=" " alt="" coords="82,895,354,1060"/>
-<area shape="rect" id="node4" href="$classseabreeze_1_1_o_o_i_spectrometer_feature.html" title=" " alt="" coords="107,505,329,847"/>
-<area shape="rect" id="node5" href="$classseabreeze_1_1_feature_impl.html" title=" " alt="" coords="5,241,180,377"/>
-<area shape="rect" id="node6" href="$classseabreeze_1_1_feature.html" title=" " alt="" coords="13,5,173,112"/>
-<area shape="rect" id="node7" href="$classseabreeze_1_1_o_o_i_spectrometer_feature_interface.html" title=" " alt="" coords="205,160,482,457"/>
-</map>

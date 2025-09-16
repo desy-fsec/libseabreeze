@@ -1,0 +1,11 @@
+<map id="seabreeze::ooiProtocol::QESpectrumExchange" name="seabreeze::ooiProtocol::QESpectrumExchange">
+<area shape="rect" id="Node000001" title=" " alt="" coords="25,620,200,740"/>
+<area shape="rect" id="Node000005" href="$classseabreeze_1_1ooi_protocol_1_1_n_i_r_quest_spectrum_exchange.html" title=" " alt="" coords="5,788,220,908"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="115,754,115,788,110,788,110,754"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1ooi_protocol_1_1_read_spectrum_exchange.html" title=" " alt="" coords="19,472,206,572"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,586,115,620,110,620,110,586"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1_transfer.html" title=" " alt="" coords="47,199,178,424"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="115,438,115,472,110,472,110,438"/>
+<area shape="rect" id="Node000004" href="$classseabreeze_1_1_exchange.html" title=" " alt="" coords="43,5,183,151"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="115,164,115,199,110,199,110,164"/>
+</map>

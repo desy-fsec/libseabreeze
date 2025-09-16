@@ -1,0 +1,7 @@
+<map id="seabreeze::FPGARegisterProtocolInterface" name="seabreeze::FPGARegisterProtocolInterface">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,179,232,319"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1ooi_protocol_1_1_f_p_g_a_register_protocol.html" title=" " alt="" coords="31,367,206,507"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="121,333,121,366,116,366,116,333"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1_protocol_helper.html" title=" " alt="" coords="35,5,203,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,145,121,178,116,178,116,145"/>
+</map>

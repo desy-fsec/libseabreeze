@@ -1,0 +1,13 @@
+<map id="seabreeze::Maya2000ProSpectrometerFeature" name="seabreeze::Maya2000ProSpectrometerFeature">
+<area shape="rect" id="Node000001" title=" " alt="" coords="70,1252,310,1367"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1_gain_adjusted_spectrometer_feature.html" title=" " alt="" coords="71,1035,309,1204"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,1218,193,1252,187,1252,187,1218"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1_o_o_i_spectrometer_feature.html" title=" " alt="" coords="96,567,284,987"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="193,1001,193,1035,187,1035,187,1001"/>
+<area shape="rect" id="Node000004" href="$classseabreeze_1_1_feature_impl.html" title=" " alt="" coords="5,266,156,411"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="105,424,140,566,135,567,99,425"/>
+<area shape="rect" id="Node000005" href="$classseabreeze_1_1_feature.html" title=" " alt="" coords="13,5,148,111"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="83,125,83,266,78,266,78,125"/>
+<area shape="rect" id="Node000006" href="$classseabreeze_1_1_o_o_i_spectrometer_feature_interface.html" title=" " alt="" coords="180,159,419,519"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="254,533,245,567,240,566,249,531"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="seabreeze::api::DataBufferFeatureAdapter" name="seabreeze::api::DataBufferFeatureAdapter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="32,481,227,701"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1api_1_1_feature_adapter_template.html" title=" " alt="" coords="5,173,253,433"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,447,132,481,127,481,127,447"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1api_1_1_feature_adapter_interface.html" title=" " alt="" coords="31,5,227,125"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="132,139,132,173,127,173,127,139"/>
+</map>

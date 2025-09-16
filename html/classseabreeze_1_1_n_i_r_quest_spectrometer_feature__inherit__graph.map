@@ -1,0 +1,17 @@
+<map id="seabreeze::NIRQuestSpectrometerFeature" name="seabreeze::NIRQuestSpectrometerFeature">
+<area shape="rect" id="Node000001" title=" " alt="" coords="135,1252,379,1432"/>
+<area shape="rect" id="Node000007" href="$classseabreeze_1_1_n_i_r_quest256_spectrometer_feature.html" title=" " alt="" coords="5,1480,245,1595"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="191,1445,166,1481,162,1478,187,1442"/>
+<area shape="rect" id="Node000008" href="$classseabreeze_1_1_n_i_r_quest512_spectrometer_feature.html" title=" " alt="" coords="269,1480,509,1595"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="328,1442,353,1478,349,1481,324,1445"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1_gain_adjusted_spectrometer_feature.html" title=" " alt="" coords="138,1035,377,1204"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="260,1218,260,1252,255,1252,255,1218"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1_o_o_i_spectrometer_feature.html" title=" " alt="" coords="163,567,351,987"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="260,1001,260,1035,255,1035,255,1001"/>
+<area shape="rect" id="Node000004" href="$classseabreeze_1_1_feature_impl.html" title=" " alt="" coords="73,266,223,411"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="172,424,208,566,202,567,167,425"/>
+<area shape="rect" id="Node000005" href="$classseabreeze_1_1_feature.html" title=" " alt="" coords="81,5,215,111"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="151,125,151,266,145,266,145,125"/>
+<area shape="rect" id="Node000006" href="$classseabreeze_1_1_o_o_i_spectrometer_feature_interface.html" title=" " alt="" coords="247,159,486,519"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="321,533,312,567,307,566,316,531"/>
+</map>

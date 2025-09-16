@@ -1,0 +1,9 @@
+<map id="seabreeze::NonlinearityCoeffsFeature" name="seabreeze::NonlinearityCoeffsFeature">
+<area shape="rect" id="Node000001" title=" " alt="" coords="81,352,278,492"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1_feature_impl.html" title=" " alt="" coords="5,159,156,304"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,315,146,350,141,353,122,317"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1_feature.html" title=" " alt="" coords="13,5,148,111"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="83,125,83,158,78,158,78,125"/>
+<area shape="rect" id="Node000004" href="$classseabreeze_1_1_nonlinearity_coeffs_feature_interface.html" title=" " alt="" coords="181,174,378,289"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="245,302,218,353,214,350,241,300"/>
+</map>

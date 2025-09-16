@@ -1,0 +1,11 @@
+<map id="seabreeze::NonlinearityEEPROMSlotFeature" name="seabreeze::NonlinearityEEPROMSlotFeature">
+<area shape="rect" id="Node000001" title=" " alt="" coords="106,565,342,705"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1_nonlinearity_coeffs_feature_interface.html" title=" " alt="" coords="5,377,203,492"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,502,185,564,180,567,143,505"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1_e_e_p_r_o_m_slot_feature_base.html" title=" " alt="" coords="227,352,464,517"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="290,531,268,567,264,564,286,528"/>
+<area shape="rect" id="Node000004" href="$classseabreeze_1_1_feature_impl.html" title=" " alt="" coords="270,159,421,304"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="348,318,348,352,343,352,343,318"/>
+<area shape="rect" id="Node000005" href="$classseabreeze_1_1_feature.html" title=" " alt="" coords="278,5,413,111"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="348,125,348,158,343,158,343,125"/>
+</map>

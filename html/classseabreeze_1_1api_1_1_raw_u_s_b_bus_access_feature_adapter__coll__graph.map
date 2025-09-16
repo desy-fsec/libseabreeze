@@ -1,0 +1,15 @@
+<map id="seabreeze::api::RawUSBBusAccessFeatureAdapter" name="seabreeze::api::RawUSBBusAccessFeatureAdapter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="465,517,718,657"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1api_1_1_feature_adapter_template.html" title=" " alt="" coords="469,273,714,468"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="594,482,594,517,589,517,589,482"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1api_1_1_feature_adapter_interface.html" title=" " alt="" coords="5,48,201,168"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="172,175,215,208,278,245,343,277,469,327,467,332,341,281,275,249,213,213,169,179"/>
+<area shape="rect" id="Node000004" href="$classseabreeze_1_1_raw_u_s_b_bus_access_feature_interface.html" title=" " alt="" coords="226,48,485,168"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="411,167,495,259,491,263,407,170"/>
+<area shape="rect" id="Node000005" href="$classseabreeze_1_1_feature_family.html" title=" " alt="" coords="509,25,674,191"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="594,191,594,257,589,257,589,191"/>
+<area shape="rect" id="Node000006" href="$classseabreeze_1_1_protocol.html" title=" " alt="" coords="698,25,837,191"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="714,192,668,261,663,258,710,189"/>
+<area shape="rect" id="Node000007" href="$classseabreeze_1_1_bus.html" title=" " alt="" coords="861,5,975,211"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="862,200,850,213,792,260,730,301,727,297,789,256,847,209,858,197"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="seabreeze::ooiProtocol::OOIReadIrradCalExchange" name="seabreeze::ooiProtocol::OOIReadIrradCalExchange">
+<area shape="rect" id="Node000001" title=" " alt="" coords="83,1576,284,1696"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1ooi_protocol_1_1_o_o_i_irrad_cal_exchange.html" title=" " alt="" coords="98,1427,269,1527"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,1540,186,1576,181,1576,181,1540"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1_transaction.html" title=" " alt="" coords="108,1252,259,1377"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="186,1391,186,1426,181,1426,181,1391"/>
+<area shape="rect" id="Node000004" href="$classseabreeze_1_1_exchange.html" title=" " alt="" coords="169,633,309,779"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="249,792,252,883,251,993,243,1111,223,1229,216,1253,211,1251,218,1227,237,1111,246,993,247,883,243,792"/>
+<area shape="rect" id="Node000010" href="$classseabreeze_1_1_transfer.html" title=" " alt="" coords="62,841,193,1047"/>
+<area shape="poly" id="edge10_Node000010_Node000004" title=" " alt="" coords="202,793,178,842,173,840,197,790"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="165,491,313,571"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="242,571,242,617,237,617,237,571"/>
+<area shape="rect" id="Node000006" href="$classseabreeze_1_1_protocol_hint.html" title=" " alt="" coords="162,263,317,428"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="242,428,242,474,237,474,237,428"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="203,135,275,200"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="242,200,242,246,237,246,237,200"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="180,5,299,85"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="242,99,242,134,237,134,237,99"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="53,1109,201,1189"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="143,1189,159,1236,154,1237,138,1190"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="130,1047,130,1093,125,1093,125,1047"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="5,666,145,746"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="87,746,104,825,99,826,81,747"/>
+</map>

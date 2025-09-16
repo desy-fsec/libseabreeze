@@ -1,0 +1,11 @@
+<map id="seabreeze::QEProDataBufferFeature" name="seabreeze::QEProDataBufferFeature">
+<area shape="rect" id="Node000001" title=" " alt="" coords="86,720,273,820"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1_data_buffer_feature_base.html" title=" " alt="" coords="70,427,289,672"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,686,182,720,177,720,177,686"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1_feature_impl.html" title=" " alt="" coords="5,196,156,341"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="113,354,139,426,134,427,108,356"/>
+<area shape="rect" id="Node000004" href="$classseabreeze_1_1_feature.html" title=" " alt="" coords="13,5,148,111"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="83,124,83,196,78,196,78,124"/>
+<area shape="rect" id="Node000005" href="$classseabreeze_1_1_data_buffer_feature_interface.html" title=" " alt="" coords="180,159,379,379"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="238,392,226,427,221,426,233,390"/>
+</map>

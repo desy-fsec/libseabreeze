@@ -1,0 +1,7 @@
+<map id="seabreeze::NonlinearityCoeffsProtocolInterface" name="seabreeze::NonlinearityCoeffsProtocolInterface">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,408,195,557"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1_protocol_helper.html" title=" " alt="" coords="16,233,184,359"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,373,103,408,97,408,97,373"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1_protocol.html" title=" " alt="" coords="31,5,169,171"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="103,171,103,216,97,216,97,171"/>
+</map>

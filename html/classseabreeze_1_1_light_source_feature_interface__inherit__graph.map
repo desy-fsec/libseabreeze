@@ -1,0 +1,9 @@
+<map id="seabreeze::LightSourceFeatureInterface" name="seabreeze::LightSourceFeatureInterface">
+<area shape="rect" id="Node000001" title=" " alt="" coords="15,5,221,225"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1_light_source_feature_base.html" title=" " alt="" coords="5,273,231,499"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,239,121,273,115,273,115,239"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1_light_source_feature_impl.html" title=" " alt="" coords="8,547,228,652"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="121,512,121,546,115,546,115,512"/>
+<area shape="rect" id="Node000004" href="$classseabreeze_1_1_ventana_light_source_feature.html" title=" " alt="" coords="17,700,219,820"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="121,666,121,700,115,700,115,666"/>
+</map>

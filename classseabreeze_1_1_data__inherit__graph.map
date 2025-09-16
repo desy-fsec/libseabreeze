@@ -1,8 +1,0 @@
-<map id="seabreeze::Data" name="seabreeze::Data">
-<area shape="rect" id="node1" title=" " alt="" coords="477,5,689,127"/>
-<area shape="rect" id="node2" href="$classseabreeze_1_1_byte_vector.html" title=" " alt="" coords="5,182,217,333"/>
-<area shape="rect" id="node3" href="$classseabreeze_1_1_double_vector.html" title=" " alt="" coords="241,182,453,333"/>
-<area shape="rect" id="node4" href="$classseabreeze_1_1_float_vector.html" title=" " alt="" coords="477,182,689,333"/>
-<area shape="rect" id="node5" href="$classseabreeze_1_1_u32_vector.html" title=" " alt="" coords="713,175,925,340"/>
-<area shape="rect" id="node6" href="$classseabreeze_1_1_u_short_vector.html" title=" " alt="" coords="949,175,1161,340"/>
-</map>

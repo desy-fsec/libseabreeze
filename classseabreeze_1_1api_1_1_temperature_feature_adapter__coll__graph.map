@@ -1,9 +1,0 @@
-<map id="seabreeze::api::TemperatureFeatureAdapter" name="seabreeze::api::TemperatureFeatureAdapter">
-<area shape="rect" id="node1" title=" " alt="" coords="501,463,741,613"/>
-<area shape="rect" id="node2" href="$classseabreeze_1_1api_1_1_feature_adapter_template.html" title=" " alt="" coords="470,248,771,413"/>
-<area shape="rect" id="node3" href="$classseabreeze_1_1api_1_1_feature_adapter_interface.html" title=" " alt="" coords="5,35,231,156"/>
-<area shape="rect" id="node4" href="$classseabreeze_1_1_temperature_feature_interface.html" title=" " alt="" coords="255,27,501,163"/>
-<area shape="rect" id="node5" href="$classseabreeze_1_1_feature_family.html" title=" " alt="" coords="526,20,715,171"/>
-<area shape="rect" id="node6" href="$classseabreeze_1_1_protocol.html" title=" " alt="" coords="740,20,904,171"/>
-<area shape="rect" id="node7" href="$classseabreeze_1_1_bus.html" title=" " alt="" coords="928,5,1063,185"/>
-</map>

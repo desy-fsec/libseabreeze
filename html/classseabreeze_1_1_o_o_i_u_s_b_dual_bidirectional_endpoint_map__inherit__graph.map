@@ -1,0 +1,7 @@
+<map id="seabreeze::OOIUSBDualBidirectionalEndpointMap" name="seabreeze::OOIUSBDualBidirectionalEndpointMap">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,243,237,432"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1_o_o_i_u_s_b_simple_dual_endpoint_map.html" title=" " alt="" coords="19,480,223,609"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="124,445,124,480,119,480,119,445"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1_o_o_i_u_s_b_bidrectional_endpoint_map.html" title=" " alt="" coords="19,5,224,195"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,208,124,243,119,243,119,208"/>
+</map>

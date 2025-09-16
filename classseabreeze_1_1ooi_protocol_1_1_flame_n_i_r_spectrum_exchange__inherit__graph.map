@@ -1,6 +1,0 @@
-<map id="seabreeze::ooiProtocol::FlameNIRSpectrumExchange" name="seabreeze::ooiProtocol::FlameNIRSpectrumExchange">
-<area shape="rect" id="node1" title="Spectrum exchange for FlameNIR spectrometer." alt="" coords="5,587,252,708"/>
-<area shape="rect" id="node2" href="$classseabreeze_1_1ooi_protocol_1_1_read_spectrum_exchange.html" title=" " alt="" coords="21,432,237,539"/>
-<area shape="rect" id="node3" href="$classseabreeze_1_1_transfer.html" title=" " alt="" coords="53,189,204,384"/>
-<area shape="rect" id="node4" href="$classseabreeze_1_1_exchange.html" title=" " alt="" coords="49,5,209,141"/>
-</map>

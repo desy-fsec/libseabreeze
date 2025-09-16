@@ -1,0 +1,104 @@
+<map id="seabreeze::api::DeviceAdapter" name="seabreeze::api::DeviceAdapter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="2567,1120,2793,1649"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1_device.html" title=" " alt="" coords="553,543,743,888"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="627,888,631,934,640,978,657,1019,683,1056,710,1080,742,1104,820,1147,915,1185,1026,1220,1148,1249,1280,1275,1418,1298,1561,1317,1850,1345,2125,1364,2365,1374,2550,1379,2550,1385,2365,1380,2125,1369,1850,1351,1561,1322,1418,1303,1279,1281,1147,1255,1024,1225,914,1191,817,1152,739,1108,706,1084,679,1059,653,1022,635,980,625,934,622,889"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="574,331,722,411"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="651,411,651,526,645,526,645,411"/>
+<area shape="rect" id="Node000004" href="$classseabreeze_1_1_bus.html" title=" " alt="" coords="415,5,529,211"/>
+<area shape="poly" id="edge11_Node000002_Node000004" title=" " alt="" coords="463,211,461,270,463,335,471,402,487,467,512,527,545,584,541,587,507,530,481,469,466,403,458,336,456,270,458,211"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="532,193,615,316,610,319,527,196"/>
+<area shape="rect" id="Node000014" href="$classseabreeze_1_1api_1_1_feature_adapter_template.html" title=" " alt="" coords="5,273,251,468"/>
+<area shape="poly" id="edge16_Node000014_Node000004" title=" " alt="" coords="418,213,398,234,376,252,349,264,324,267,298,269,266,276,265,270,297,263,323,262,347,259,373,247,395,230,414,209"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="746,331,894,411"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="803,412,744,529,739,527,798,410"/>
+<area shape="rect" id="Node000006" href="$classseabreeze_1_1_feature.html" title=" " alt="" coords="753,55,887,161"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="823,161,823,314,817,314,817,161"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="275,331,423,411"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="354,410,364,459,375,484,390,505,405,516,421,519,439,520,459,528,502,559,542,593,539,597,499,563,456,533,437,526,420,524,403,520,386,509,370,486,359,461,348,412"/>
+<area shape="rect" id="Node000008" href="$classseabreeze_1_1_protocol.html" title=" " alt="" coords="183,25,321,191"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="285,190,332,314,327,316,280,192"/>
+<area shape="poly" id="edge15_Node000014_Node000008" title=" " alt="" coords="216,192,183,259,179,257,211,190"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="1120,338,1192,403"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="1150,405,1135,439,1123,456,1108,470,1085,486,1063,496,1022,503,978,504,924,509,875,513,836,511,799,514,779,521,757,533,755,535,752,530,755,528,777,516,798,508,836,505,875,507,924,504,978,499,1021,498,1061,491,1082,481,1105,466,1119,452,1130,436,1145,402"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="1097,68,1215,148"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="1159,162,1159,338,1153,338,1153,162"/>
+<area shape="rect" id="Node000011" href="$classseabreeze_1_1_device_locator_interface.html" title=" " alt="" coords="918,281,1095,461"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="919,461,907,470,867,493,825,509,789,518,774,522,758,533,756,534,753,530,754,529,772,518,787,513,823,504,865,488,904,466,916,457"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="229,963,443,1057"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="394,1055,427,1076,462,1094,545,1120,646,1146,894,1195,1184,1238,1497,1277,1810,1309,2104,1336,2551,1372,2550,1377,2104,1342,1810,1315,1496,1282,1183,1243,893,1200,645,1151,543,1126,460,1098,424,1081,391,1060"/>
+<area shape="rect" id="Node000013" href="$classseabreeze_1_1api_1_1_raw_u_s_b_bus_access_feature_adapter.html" title=" " alt="" coords="192,645,445,785"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="325,785,335,946,330,946,320,786"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="190,479,283,644,278,646,186,481"/>
+<area shape="rect" id="Node000018" title=" " alt="" coords="743,970,979,1050"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="967,1048,991,1055,1211,1111,1436,1163,1879,1252,2267,1319,2551,1363,2550,1368,2266,1324,1878,1257,1435,1168,1210,1116,990,1060,965,1053"/>
+<area shape="rect" id="Node000019" href="$classseabreeze_1_1api_1_1_serial_number_feature_adapter.html" title=" " alt="" coords="768,645,995,785"/>
+<area shape="poly" id="edge18_Node000018_Node000019" title=" " alt="" coords="879,786,868,954,862,953,874,785"/>
+<area shape="rect" id="Node000022" title=" " alt="" coords="1003,970,1237,1050"/>
+<area shape="poly" id="edge19_Node000001_Node000022" title=" " alt="" coords="1226,1047,1250,1055,1618,1153,1984,1239,2308,1308,2551,1357,2550,1362,2307,1314,1982,1244,1616,1158,1249,1060,1225,1053"/>
+<area shape="rect" id="Node000023" href="$classseabreeze_1_1api_1_1_spectrometer_feature_adapter.html" title=" " alt="" coords="1019,531,1237,900"/>
+<area shape="poly" id="edge20_Node000022_Node000023" title=" " alt="" coords="1126,900,1124,954,1119,953,1120,900"/>
+<area shape="rect" id="Node000026" title=" " alt="" coords="1262,963,1479,1057"/>
+<area shape="poly" id="edge21_Node000001_Node000026" title=" " alt="" coords="1480,1051,1493,1055,1788,1146,2082,1228,2551,1349,2550,1355,2081,1233,1786,1151,1491,1060,1479,1056"/>
+<area shape="rect" id="Node000027" href="$classseabreeze_1_1api_1_1_thermo_electric_cooler_feature_adapter.html" title=" " alt="" coords="1269,611,1473,820"/>
+<area shape="poly" id="edge22_Node000026_Node000027" title=" " alt="" coords="1373,820,1373,947,1368,947,1368,820"/>
+<area shape="rect" id="Node000030" title=" " alt="" coords="1504,970,1707,1050"/>
+<area shape="poly" id="edge23_Node000001_Node000030" title=" " alt="" coords="1701,1048,1720,1055,1948,1137,2177,1216,2551,1340,2550,1345,2175,1221,1946,1142,1718,1060,1699,1053"/>
+<area shape="rect" id="Node000031" href="$classseabreeze_1_1api_1_1_irrad_cal_feature_adapter.html" title=" " alt="" coords="1517,615,1694,815"/>
+<area shape="poly" id="edge24_Node000030_Node000031" title=" " alt="" coords="1608,816,1608,954,1603,954,1603,816"/>
+<area shape="rect" id="Node000034" title=" " alt="" coords="1731,970,1946,1050"/>
+<area shape="poly" id="edge25_Node000001_Node000034" title=" " alt="" coords="1927,1048,2553,1324,2551,1329,1925,1053"/>
+<area shape="rect" id="Node000035" href="$classseabreeze_1_1api_1_1_e_e_p_r_o_m_feature_adapter.html" title=" " alt="" coords="1734,655,1943,775"/>
+<area shape="poly" id="edge26_Node000034_Node000035" title=" " alt="" coords="1841,775,1841,953,1836,953,1836,775"/>
+<area shape="rect" id="Node000038" title=" " alt="" coords="1971,970,2197,1050"/>
+<area shape="poly" id="edge27_Node000001_Node000038" title=" " alt="" coords="2148,1048,2554,1301,2551,1306,2145,1052"/>
+<area shape="rect" id="Node000039" href="$classseabreeze_1_1api_1_1_light_source_feature_adapter.html" title=" " alt="" coords="1984,595,2184,835"/>
+<area shape="poly" id="edge28_Node000038_Node000039" title=" " alt="" coords="2087,835,2087,953,2081,953,2081,835"/>
+<area shape="rect" id="Node000042" title=" " alt="" coords="2221,970,2448,1050"/>
+<area shape="poly" id="edge29_Node000001_Node000042" title=" " alt="" coords="2373,1048,2557,1247,2553,1251,2369,1052"/>
+<area shape="rect" id="Node000043" href="$classseabreeze_1_1api_1_1_strobe_lamp_feature_adapter.html" title=" " alt="" coords="2227,655,2429,775"/>
+<area shape="poly" id="edge30_Node000042_Node000043" title=" " alt="" coords="2332,775,2336,953,2331,953,2327,775"/>
+<area shape="rect" id="Node000046" title=" " alt="" coords="2472,963,2667,1057"/>
+<area shape="poly" id="edge31_Node000001_Node000046" title=" " alt="" coords="2583,1057,2593,1095,2596,1103,2590,1105,2588,1097,2578,1058"/>
+<area shape="rect" id="Node000047" href="$classseabreeze_1_1api_1_1_continuous_strobe_feature_adapter.html" title=" " alt="" coords="2453,631,2680,800"/>
+<area shape="poly" id="edge32_Node000046_Node000047" title=" " alt="" coords="2570,800,2571,946,2566,947,2565,800"/>
+<area shape="rect" id="Node000050" title=" " alt="" coords="2691,970,2890,1050"/>
+<area shape="poly" id="edge33_Node000001_Node000050" title=" " alt="" coords="2782,1051,2766,1105,2760,1104,2777,1049"/>
+<area shape="rect" id="Node000051" href="$classseabreeze_1_1api_1_1_shutter_feature_adapter.html" title=" " alt="" coords="2705,655,2898,775"/>
+<area shape="poly" id="edge34_Node000050_Node000051" title=" " alt="" coords="2802,776,2795,953,2790,953,2797,775"/>
+<area shape="rect" id="Node000054" title=" " alt="" coords="2914,963,3113,1057"/>
+<area shape="poly" id="edge35_Node000001_Node000054" title=" " alt="" coords="2974,1059,2806,1246,2802,1243,2970,1056"/>
+<area shape="rect" id="Node000055" href="$classseabreeze_1_1api_1_1_nonlinearity_coeffs_feature_adapter.html" title=" " alt="" coords="2922,641,3107,790"/>
+<area shape="poly" id="edge36_Node000054_Node000055" title=" " alt="" coords="3017,790,3016,946,3011,946,3012,790"/>
+<area shape="rect" id="Node000058" title=" " alt="" coords="3137,970,3367,1050"/>
+<area shape="poly" id="edge37_Node000001_Node000058" title=" " alt="" coords="3194,1052,2809,1303,2806,1298,3191,1048"/>
+<area shape="rect" id="Node000059" href="$classseabreeze_1_1api_1_1_temperature_feature_adapter.html" title=" " alt="" coords="3151,635,3353,795"/>
+<area shape="poly" id="edge38_Node000058_Node000059" title=" " alt="" coords="3255,796,3255,954,3249,954,3249,796"/>
+<area shape="rect" id="Node000062" title=" " alt="" coords="3391,970,3599,1050"/>
+<area shape="poly" id="edge39_Node000001_Node000062" title=" " alt="" coords="3411,1053,2810,1327,2807,1322,3409,1048"/>
+<area shape="rect" id="Node000063" href="$classseabreeze_1_1api_1_1_revision_feature_adapter.html" title=" " alt="" coords="3403,645,3586,785"/>
+<area shape="poly" id="edge40_Node000062_Node000063" title=" " alt="" coords="3497,785,3497,953,3492,953,3492,785"/>
+<area shape="rect" id="Node000066" title=" " alt="" coords="3623,970,3857,1050"/>
+<area shape="poly" id="edge41_Node000001_Node000066" title=" " alt="" coords="3632,1053,3612,1060,2810,1341,2808,1336,3610,1055,3630,1048"/>
+<area shape="rect" id="Node000067" href="$classseabreeze_1_1api_1_1_optical_bench_feature_adapter.html" title=" " alt="" coords="3625,581,3841,850"/>
+<area shape="poly" id="edge42_Node000066_Node000067" title=" " alt="" coords="3739,850,3741,953,3736,954,3734,850"/>
+<area shape="rect" id="Node000070" title=" " alt="" coords="3881,963,4093,1057"/>
+<area shape="poly" id="edge43_Node000001_Node000070" title=" " alt="" coords="3881,1056,3870,1060,3575,1152,3280,1235,3015,1304,2810,1355,2809,1350,3014,1299,3279,1230,3574,1147,3869,1055,3879,1051"/>
+<area shape="rect" id="Node000071" href="$classseabreeze_1_1api_1_1_spectrum_processing_feature_adapter.html" title=" " alt="" coords="3865,581,4081,849"/>
+<area shape="poly" id="edge44_Node000070_Node000071" title=" " alt="" coords="3982,849,3986,946,3981,946,3977,850"/>
+<area shape="rect" id="Node000074" title=" " alt="" coords="4117,963,4305,1057"/>
+<area shape="poly" id="edge45_Node000001_Node000074" title=" " alt="" coords="4117,1055,4105,1060,4034,1081,3962,1099,3638,1176,3316,1249,2810,1359,2809,1354,3314,1244,3636,1171,3961,1093,4033,1076,4103,1055,4115,1050"/>
+<area shape="rect" id="Node000075" href="$classseabreeze_1_1api_1_1_stray_light_coeffs_feature_adapter.html" title=" " alt="" coords="4106,648,4326,783"/>
+<area shape="poly" id="edge46_Node000074_Node000075" title=" " alt="" coords="4217,783,4214,947,4209,946,4212,783"/>
+<area shape="rect" id="Node000078" title=" " alt="" coords="4329,970,4559,1050"/>
+<area shape="poly" id="edge47_Node000001_Node000078" title=" " alt="" coords="4340,1053,4317,1060,4232,1081,4147,1099,3390,1252,2810,1362,2809,1357,3389,1246,4146,1093,4231,1076,4315,1055,4339,1047"/>
+<area shape="rect" id="Node000079" href="$classseabreeze_1_1api_1_1_pixel_binning_feature_adapter.html" title=" " alt="" coords="4351,605,4553,825"/>
+<area shape="poly" id="edge48_Node000078_Node000079" title=" " alt="" coords="4452,825,4448,954,4443,954,4446,825"/>
+<area shape="rect" id="Node000082" title=" " alt="" coords="4583,970,4801,1050"/>
+<area shape="poly" id="edge49_Node000001_Node000082" title=" " alt="" coords="4595,1053,4571,1060,4512,1075,4465,1083,4358,1099,2810,1364,2809,1359,4357,1093,4464,1077,4511,1069,4570,1055,4594,1048"/>
+<area shape="rect" id="Node000083" href="$classseabreeze_1_1api_1_1_data_buffer_feature_adapter.html" title=" " alt="" coords="4592,605,4787,825"/>
+<area shape="poly" id="edge50_Node000082_Node000083" title=" " alt="" coords="4693,825,4694,954,4689,954,4688,825"/>
+<area shape="rect" id="Node000086" title=" " alt="" coords="4829,963,5019,1057"/>
+<area shape="poly" id="edge51_Node000001_Node000086" title=" " alt="" coords="4830,1055,4814,1060,4750,1076,4699,1084,4582,1099,3562,1256,2810,1367,2809,1362,3561,1250,4581,1093,4698,1079,4749,1071,4813,1055,4828,1050"/>
+<area shape="rect" id="Node000087" href="$classseabreeze_1_1api_1_1_acquisition_delay_feature_adapter.html" title=" " alt="" coords="4811,586,5042,845"/>
+<area shape="poly" id="edge52_Node000086_Node000087" title=" " alt="" coords="4928,845,4927,946,4922,946,4923,845"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="seabreeze::BusTransferException" name="seabreeze::BusTransferException">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,345,216,411"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1_bus_exception.html" title=" " alt="" coords="29,232,192,297"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,311,113,345,108,345,108,311"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="53,119,169,184"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="113,198,113,232,108,232,108,198"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="63,5,159,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="113,84,113,119,108,119,108,84"/>
+</map>

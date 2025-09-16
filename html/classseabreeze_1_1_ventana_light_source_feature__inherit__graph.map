@@ -1,0 +1,13 @@
+<map id="seabreeze::VentanaLightSourceFeature" name="seabreeze::VentanaLightSourceFeature">
+<area shape="rect" id="Node000001" title=" " alt="" coords="81,853,283,973"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1_light_source_feature_impl.html" title=" " alt="" coords="72,700,292,805"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,819,185,853,179,853,179,819"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1_light_source_feature_base.html" title=" " alt="" coords="69,427,295,652"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="185,666,185,700,179,700,179,666"/>
+<area shape="rect" id="Node000004" href="$classseabreeze_1_1_feature_impl.html" title=" " alt="" coords="5,196,156,341"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="115,353,142,425,137,427,110,355"/>
+<area shape="rect" id="Node000005" href="$classseabreeze_1_1_feature.html" title=" " alt="" coords="13,5,148,111"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="83,124,83,196,78,196,78,124"/>
+<area shape="rect" id="Node000006" href="$classseabreeze_1_1_light_source_feature_interface.html" title=" " alt="" coords="180,159,387,379"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="240,393,227,427,222,426,235,391"/>
+</map>

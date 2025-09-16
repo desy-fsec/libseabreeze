@@ -1,0 +1,20 @@
+<map id="seabreeze::ProgrammableSaturationFeatureImpl" name="seabreeze::ProgrammableSaturationFeatureImpl">
+<area shape="rect" id="Node000001" title=" " alt="" coords="145,903,371,1092"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1_programmable_saturation_feature_base.html" title=" " alt="" coords="40,644,265,853"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,865,220,901,215,903,200,867"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1_programmable_saturation_feature.html" title=" " alt="" coords="38,421,267,581"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="155,595,155,644,150,644,150,595"/>
+<area shape="rect" id="Node000004" href="$classseabreeze_1_1_feature.html" title=" " alt="" coords="255,243,389,349"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="272,361,221,423,216,420,268,358"/>
+<area shape="rect" id="Node000006" href="$classseabreeze_1_1_feature_impl.html" title=" " alt="" coords="289,676,440,821"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="331,362,361,675,355,676,326,363"/>
+<area shape="rect" id="Node000005" href="$classseabreeze_1_1_programmable_saturation_feature_interface.html" title=" " alt="" coords="5,239,231,353"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="133,367,142,421,137,422,127,368"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="330,836,301,904,296,902,326,833"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="408,461,556,541"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="466,543,408,662,404,660,461,540"/>
+<area shape="rect" id="Node000008" href="$classseabreeze_1_1_protocol_helper.html" title=" " alt="" coords="414,233,582,359"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="496,359,489,445,484,445,490,358"/>
+<area shape="rect" id="Node000009" href="$classseabreeze_1_1_protocol.html" title=" " alt="" coords="429,5,567,171"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="501,171,501,216,495,216,495,171"/>
+</map>

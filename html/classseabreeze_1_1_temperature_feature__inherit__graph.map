@@ -1,0 +1,9 @@
+<map id="seabreeze::TemperatureFeature" name="seabreeze::TemperatureFeature">
+<area shape="rect" id="Node000001" title=" " alt="" coords="83,352,281,517"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1_feature_impl.html" title=" " alt="" coords="5,159,156,304"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,315,143,351,138,353,121,318"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1_feature.html" title=" " alt="" coords="13,5,148,111"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="83,125,83,158,78,158,78,125"/>
+<area shape="rect" id="Node000004" href="$classseabreeze_1_1_temperature_feature_interface.html" title=" " alt="" coords="180,161,389,301"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="246,315,226,353,221,350,241,312"/>
+</map>

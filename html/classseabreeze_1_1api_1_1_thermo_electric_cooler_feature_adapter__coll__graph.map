@@ -1,0 +1,15 @@
+<map id="seabreeze::api::ThermoElectricCoolerFeatureAdapter" name="seabreeze::api::ThermoElectricCoolerFeatureAdapter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="455,503,659,712"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1api_1_1_feature_adapter_template.html" title=" " alt="" coords="420,273,693,453"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="559,467,559,503,554,503,554,467"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1api_1_1_feature_adapter_interface.html" title=" " alt="" coords="5,48,201,168"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="172,175,214,208,264,239,317,266,421,312,419,316,315,271,262,243,211,213,168,180"/>
+<area shape="rect" id="Node000004" href="$classseabreeze_1_1_thermo_electric_feature_interface.html" title=" " alt="" coords="225,11,451,205"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="423,204,471,259,467,262,419,207"/>
+<area shape="rect" id="Node000005" href="$classseabreeze_1_1_feature_family.html" title=" " alt="" coords="474,25,639,191"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="559,191,559,256,554,256,554,191"/>
+<area shape="rect" id="Node000006" href="$classseabreeze_1_1_protocol.html" title=" " alt="" coords="663,25,802,191"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="678,192,630,261,626,258,674,189"/>
+<area shape="rect" id="Node000007" href="$classseabreeze_1_1_bus.html" title=" " alt="" coords="826,5,941,211"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="828,200,816,213,765,254,709,290,707,286,762,250,812,209,824,197"/>
+</map>

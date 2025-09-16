@@ -1,0 +1,24 @@
+<map id="seabreeze::FlameNIR" name="seabreeze::FlameNIR">
+<area shape="rect" id="Node000001" title=" " alt="" coords="374,911,532,1016"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1_device.html" title=" " alt="" coords="358,516,548,861"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="456,875,456,910,450,910,450,875"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="122,323,270,403"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="229,402,349,553,345,557,225,405"/>
+<area shape="rect" id="Node000004" href="$classseabreeze_1_1_bus.html" title=" " alt="" coords="18,5,133,211"/>
+<area shape="poly" id="edge11_Node000002_Node000004" title=" " alt="" coords="33,212,17,270,9,332,9,363,12,394,21,424,34,452,62,492,96,527,134,558,175,585,261,628,342,657,340,662,259,633,172,589,131,562,92,531,58,495,29,455,16,426,7,395,3,364,3,332,12,268,28,210"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="126,210,173,308,168,310,121,212"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="294,323,442,403"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="380,403,406,499,401,501,375,404"/>
+<area shape="rect" id="Node000006" href="$classseabreeze_1_1_feature.html" title=" " alt="" coords="300,55,435,161"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="370,161,370,307,365,307,365,161"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="466,323,614,403"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="532,404,506,501,501,499,527,403"/>
+<area shape="rect" id="Node000008" href="$classseabreeze_1_1_protocol.html" title=" " alt="" coords="465,25,604,191"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="539,191,541,307,536,307,533,191"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="638,331,710,396"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="661,397,629,455,560,554,556,551,624,452,656,395"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="628,68,747,148"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="687,162,679,331,673,330,682,162"/>
+<area shape="rect" id="Node000011" href="$classseabreeze_1_1_device_locator_interface.html" title=" " alt="" coords="735,273,912,453"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="736,445,724,455,562,596,559,592,721,451,733,441"/>
+</map>

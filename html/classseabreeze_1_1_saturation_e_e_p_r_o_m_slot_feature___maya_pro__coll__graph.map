@@ -1,0 +1,24 @@
+<map id="seabreeze::SaturationEEPROMSlotFeature_MayaPro" name="seabreeze::SaturationEEPROMSlotFeature_MayaPro">
+<area shape="rect" id="Node000001" title=" " alt="" coords="181,1325,403,1475"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1_saturation_e_e_p_r_o_m_slot_feature_base.html" title=" " alt="" coords="181,1067,403,1276"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="295,1290,295,1325,289,1325,289,1290"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1_e_e_p_r_o_m_slot_feature_base.html" title=" " alt="" coords="47,830,284,995"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="214,1007,243,1065,238,1068,209,1009"/>
+<area shape="rect" id="Node000004" href="$classseabreeze_1_1_feature_impl.html" title=" " alt="" coords="90,606,241,751"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="168,765,168,830,163,830,163,765"/>
+<area shape="rect" id="Node000005" href="$classseabreeze_1_1_feature.html" title=" " alt="" coords="187,426,322,531"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="228,546,200,607,195,605,223,543"/>
+<area shape="rect" id="Node000010" href="$classseabreeze_1_1_programmable_saturation_feature.html" title=" " alt="" coords="305,599,535,759"/>
+<area shape="poly" id="edge10_Node000010_Node000005" title=" " alt="" coords="309,540,356,597,352,600,305,544"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="15,439,163,519"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="107,518,134,590,129,592,102,520"/>
+<area shape="rect" id="Node000007" href="$classseabreeze_1_1_protocol_helper.html" title=" " alt="" coords="5,233,173,359"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="92,359,92,422,87,422,87,359"/>
+<area shape="rect" id="Node000008" href="$classseabreeze_1_1_protocol.html" title=" " alt="" coords="20,5,159,171"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="92,171,92,216,87,216,87,171"/>
+<area shape="rect" id="Node000009" href="$classseabreeze_1_1_programmable_saturation_feature_base.html" title=" " alt="" coords="307,808,533,1017"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="365,1031,346,1068,341,1065,360,1028"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="423,772,423,808,417,808,417,772"/>
+<area shape="rect" id="Node000011" href="$classseabreeze_1_1_programmable_saturation_feature_interface.html" title=" " alt="" coords="346,421,571,536"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="448,550,438,599,433,598,442,549"/>
+</map>

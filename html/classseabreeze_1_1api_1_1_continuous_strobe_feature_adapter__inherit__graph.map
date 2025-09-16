@@ -1,0 +1,7 @@
+<map id="seabreeze::api::ContinuousStrobeFeatureAdapter" name="seabreeze::api::ContinuousStrobeFeatureAdapter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,496,232,665"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1api_1_1_feature_adapter_template.html" title=" " alt="" coords="5,173,232,448"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,462,121,496,116,496,116,462"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1api_1_1_feature_adapter_interface.html" title=" " alt="" coords="21,5,217,125"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="121,139,121,173,116,173,116,139"/>
+</map>

@@ -1,0 +1,39 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,266,109,291"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="165,163,273,189"/>
+<area shape="poly" id="edge392_Node000000_Node000001" title=" " alt="" coords="89,256,197,187,199,191,92,261"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="157,290,281,315"/>
+<area shape="poly" id="edge395_Node000000_Node000004" title=" " alt="" coords="123,286,157,291,157,296,123,291"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="373,66,520,91"/>
+<area shape="poly" id="edge393_Node000001_Node000002" title=" " alt="" coords="261,155,415,89,417,94,264,160"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1_illegal_argument_exception.html" title=" " alt="" coords="632,5,812,45"/>
+<area shape="poly" id="edge394_Node000002_Node000003" title=" " alt="" coords="526,61,631,40,632,45,527,66"/>
+<area shape="rect" id="Node000005" href="$classseabreeze_1_1_bus_exception.html" title=" " alt="" coords="361,143,532,169"/>
+<area shape="poly" id="edge396_Node000004_Node000005" title=" " alt="" coords="248,280,328,226,423,166,426,171,331,230,251,284"/>
+<area shape="rect" id="Node000010" href="$classseabreeze_1_1_feature_exception.html" title=" " alt="" coords="351,241,543,266"/>
+<area shape="poly" id="edge401_Node000004_Node000010" title=" " alt="" coords="287,284,329,275,382,263,383,269,330,280,288,289"/>
+<area shape="rect" id="Node000013" href="$classseabreeze_1_1_number_format_exception.html" title=" " alt="" coords="329,290,564,315"/>
+<area shape="poly" id="edge404_Node000004_Node000013" title=" " alt="" coords="295,300,329,300,329,305,295,305"/>
+<area shape="rect" id="Node000014" href="$classseabreeze_1_1_protocol_exception.html" title=" " alt="" coords="349,339,545,365"/>
+<area shape="poly" id="edge405_Node000004_Node000014" title=" " alt="" coords="292,316,330,324,387,337,386,342,329,329,291,321"/>
+<area shape="rect" id="Node000017" href="$classseabreeze_1_1_protocol_transaction_exception.html" title=" " alt="" coords="343,389,550,429"/>
+<area shape="poly" id="edge408_Node000004_Node000017" title=" " alt="" coords="248,322,286,349,330,375,361,387,359,392,328,380,283,354,245,326"/>
+<area shape="rect" id="Node000018" href="$classseabreeze_1_1_unknown_host_exception.html" title=" " alt="" coords="331,454,562,479"/>
+<area shape="poly" id="edge409_Node000004_Node000018" title=" " alt="" coords="235,326,273,384,300,414,331,439,357,451,355,456,328,444,296,418,269,387,231,329"/>
+<area shape="rect" id="Node000006" href="$classseabreeze_1_1_bus_connect_exception.html" title=" " alt="" coords="612,70,832,95"/>
+<area shape="poly" id="edge397_Node000005_Node000006" title=" " alt="" coords="500,137,611,104,658,93,660,98,613,109,501,142"/>
+<area shape="rect" id="Node000007" href="$classseabreeze_1_1_bus_transfer_exception.html" title=" " alt="" coords="613,119,831,145"/>
+<area shape="poly" id="edge398_Node000005_Node000007" title=" " alt="" coords="545,145,612,139,613,144,546,150"/>
+<area shape="rect" id="Node000008" href="$classseabreeze_1_1_socket_exception.html" title=" " alt="" coords="627,169,817,194"/>
+<area shape="poly" id="edge399_Node000005_Node000008" title=" " alt="" coords="546,162,627,170,627,175,545,168"/>
+<area shape="rect" id="Node000009" href="$classseabreeze_1_1_socket_timeout_exception.html" title=" " alt="" coords="880,161,1059,201"/>
+<area shape="poly" id="edge400_Node000008_Node000009" title=" " alt="" coords="831,179,880,179,880,184,831,184"/>
+<area shape="rect" id="Node000011" href="$classseabreeze_1_1_feature_control_exception.html" title=" " alt="" coords="634,219,810,259"/>
+<area shape="poly" id="edge402_Node000010_Node000011" title=" " alt="" coords="557,245,634,241,634,246,557,250"/>
+<area shape="rect" id="Node000012" href="$classseabreeze_1_1_feature_protocol_not_found_exception.html" title=" " alt="" coords="631,283,813,323"/>
+<area shape="poly" id="edge403_Node000010_Node000012" title=" " alt="" coords="532,266,631,284,630,289,531,271"/>
+<area shape="rect" id="Node000015" href="$classseabreeze_1_1_protocol_bus_mismatch_exception.html" title=" " alt="" coords="613,347,831,387"/>
+<area shape="poly" id="edge406_Node000014_Node000015" title=" " alt="" coords="559,355,613,358,612,364,558,361"/>
+<area shape="rect" id="Node000016" href="$classseabreeze_1_1_protocol_format_exception.html" title=" " alt="" coords="633,411,811,451"/>
+<area shape="poly" id="edge407_Node000014_Node000016" title=" " alt="" coords="531,365,565,375,613,396,649,408,647,413,611,401,563,380,530,370"/>
+</map>

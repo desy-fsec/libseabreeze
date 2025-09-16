@@ -1,0 +1,9 @@
+<map id="seabreeze::ooiProtocol::HRFPGASpectrumExchange" name="seabreeze::ooiProtocol::HRFPGASpectrumExchange">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,620,217,740"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1ooi_protocol_1_1_read_spectrum_exchange.html" title=" " alt="" coords="18,472,205,572"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,586,114,620,109,620,109,586"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1_transfer.html" title=" " alt="" coords="46,199,177,424"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="114,438,114,472,109,472,109,438"/>
+<area shape="rect" id="Node000004" href="$classseabreeze_1_1_exchange.html" title=" " alt="" coords="41,5,181,151"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="114,164,114,199,109,199,109,164"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="seabreeze::RS232BusFamily" name="seabreeze::RS232BusFamily">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,179,189,264"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1_bus_family.html" title=" " alt="" coords="25,5,169,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,145,100,178,95,178,95,145"/>
+</map>

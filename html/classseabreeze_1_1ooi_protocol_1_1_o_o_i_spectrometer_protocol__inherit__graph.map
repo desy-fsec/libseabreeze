@@ -1,0 +1,7 @@
+<map id="seabreeze::ooiProtocol::OOISpectrometerProtocol" name="seabreeze::ooiProtocol::OOISpectrometerProtocol">
+<area shape="rect" id="Node000001" title=" " alt="" coords="19,427,211,627"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1_spectrometer_protocol_interface.html" title=" " alt="" coords="5,179,224,379"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,392,117,426,112,426,112,392"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1_protocol_helper.html" title=" " alt="" coords="31,5,199,131"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="117,145,117,178,112,178,112,145"/>
+</map>

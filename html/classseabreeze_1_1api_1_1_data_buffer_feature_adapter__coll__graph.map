@@ -1,0 +1,15 @@
+<map id="seabreeze::api::DataBufferFeatureAdapter" name="seabreeze::api::DataBufferFeatureAdapter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="433,517,627,737"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1api_1_1_feature_adapter_template.html" title=" " alt="" coords="406,288,654,468"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="533,482,533,517,527,517,527,482"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1api_1_1_feature_adapter_interface.html" title=" " alt="" coords="5,55,201,175"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="167,184,214,223,310,281,407,327,405,331,307,285,211,228,164,188"/>
+<area shape="rect" id="Node000004" href="$classseabreeze_1_1_data_buffer_feature_interface.html" title=" " alt="" coords="225,5,424,225"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="413,224,452,273,447,276,408,227"/>
+<area shape="rect" id="Node000005" href="$classseabreeze_1_1_feature_family.html" title=" " alt="" coords="447,33,613,198"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="533,198,533,271,527,271,527,198"/>
+<area shape="rect" id="Node000006" href="$classseabreeze_1_1_protocol.html" title=" " alt="" coords="637,33,775,198"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="653,200,602,276,597,273,649,197"/>
+<area shape="rect" id="Node000007" href="$classseabreeze_1_1_bus.html" title=" " alt="" coords="799,13,914,218"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="801,215,789,227,732,274,670,313,667,309,729,270,786,223,797,211"/>
+</map>

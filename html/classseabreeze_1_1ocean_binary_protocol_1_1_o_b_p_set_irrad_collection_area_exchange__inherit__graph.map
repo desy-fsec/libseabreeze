@@ -1,0 +1,7 @@
+<map id="seabreeze::oceanBinaryProtocol::OBPSetIrradCollectionAreaExchange" name="seabreeze::oceanBinaryProtocol::OBPSetIrradCollectionAreaExchange">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,421,244,571"/>
+<area shape="rect" id="Node000002" href="$classseabreeze_1_1ocean_binary_protocol_1_1_o_b_p_command.html" title=" " alt="" coords="23,213,226,373"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,387,127,421,122,421,122,387"/>
+<area shape="rect" id="Node000003" href="$classseabreeze_1_1ocean_binary_protocol_1_1_o_b_p_transaction.html" title=" " alt="" coords="23,5,226,165"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="127,179,127,213,122,213,122,179"/>
+</map>

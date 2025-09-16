@@ -1,9 +1,0 @@
-<map id="seabreeze::api::DataBufferFeatureAdapter" name="seabreeze::api::DataBufferFeatureAdapter">
-<area shape="rect" id="node1" title=" " alt="" coords="492,477,723,672"/>
-<area shape="rect" id="node2" href="$classseabreeze_1_1api_1_1_feature_adapter_template.html" title=" " alt="" coords="463,263,752,428"/>
-<area shape="rect" id="node3" href="$classseabreeze_1_1api_1_1_feature_adapter_interface.html" title=" " alt="" coords="5,42,231,163"/>
-<area shape="rect" id="node4" href="$classseabreeze_1_1_data_buffer_feature_interface.html" title=" " alt="" coords="254,5,489,200"/>
-<area shape="rect" id="node5" href="$classseabreeze_1_1_feature_family.html" title=" " alt="" coords="513,27,702,178"/>
-<area shape="rect" id="node6" href="$classseabreeze_1_1_protocol.html" title=" " alt="" coords="727,27,891,178"/>
-<area shape="rect" id="node7" href="$classseabreeze_1_1_bus.html" title=" " alt="" coords="915,13,1049,193"/>
-</map>
