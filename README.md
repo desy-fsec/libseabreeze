@@ -1,6 +1,6 @@
 # SeaBreeze
 
-![github workflow](https://github.com/desy-fsec/libseabreeze/actions/workflows/tests.yml/badge.svg) [![docs](https://img.shields.io/badge/Documentation-webpages-ADD8E6.svg)](https://desy-fsec.github.io/seabreeze/index.html)
+![github workflow](https://github.com/desy-fsec/libseabreeze/actions/workflows/tests.yml/badge.svg) [![docs](https://img.shields.io/badge/Documentation-webpages-ADD8E6.svg)](https://desy-fsec.github.io/libseabreeze/index.html)
 
 C++-Library for Ocean Optics Spectrometer (Open-source cross-platform spectrometer device driver)
 
