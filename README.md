@@ -20,9 +20,9 @@ If all dependencies are available on your
 system you can clone this repository and configure the build
 
 ```bash
-$ git clone https://github.com/desy-fsec/libseabreeze.git
-$ cd libseabreeze
-$ make
+git clone https://github.com/desy-fsec/libseabreeze.git
+cd libseabreeze
+make
 ```
 
 ## Differences to original Repository
@@ -31,3 +31,32 @@ $ make
 * replace back `seebreeze::byte` by `unsigned int` (conflict with `std::byte`)
 * catch references instead of raw objects
 * add the `-std=c++17` flag
+
+
+## Debian packages
+
+Debian `trixie`, `bookworm`, `bullseye` packages can be found in the HDRI repository.
+
+To install the debian packages, add the PGP repository key
+
+```bash
+sudo su
+curl -s http://repos.pni-hdri.de/debian_repo.pub.gpg | gpg --no-default-keyring --keyring gnupg-ring:/etc/apt/trusted.gpg.d/debian-hdri-repo.gpg --import
+chmod 644 /etc/apt/trusted.gpg.d/debian-hdri-repo.gpg
+```
+
+and then download the corresponding source list
+
+```bash
+cd /etc/apt/sources.list.d
+wget http://repos.pni-hdri.de/trixie-pni-hdri.list
+```
+
+
+To install seabreeze packages
+
+```bash
+apt-get update
+apt-get install libseabreeze3 libseabreeze-dev libseabreeze3-dbgsym
+```
+
