@@ -35,7 +35,7 @@ make
 
 ## Debian packages
 
-Debian `trixie`, `bookworm`, `bullseye` packages can be found in the HDRI repository.
+Debian `trixie`, `bookworm` and Ubuntu `plucky`, `noble` packages can be found in the HDRI repository.
 
 To install the debian packages, add the PGP repository key
 
