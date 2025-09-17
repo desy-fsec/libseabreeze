@@ -60,6 +60,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           MESSAGE: "Build: ({sha}) {msg}"
 
+      - name: Clear IDs
+        run: |
+          docker exec  --user root build  /bin/bash -c "chown -R 1001 /home/p00user/src"
 
       - name: Stop the docker
         run: docker container stop build
